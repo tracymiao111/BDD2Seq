@@ -1,0 +1,57 @@
+# Benchmark "pair_y5" written by ABC on Thu Oct 31 22:14:16 2024
+.model pair_y5
+.inputs k0 l0 m0 n0 o0 p0 q0 r0 s0 t0 u0 h3 o3 s3 v3 y3 b4 f4 k4 o4 t4 y4
+.outputs y5
+.names t4 u0 new_n24
+11 1
+.names y4 t0 new_n25
+11 1
+.names new_n24 new_n25 new_n26
+1- 1
+-1 1
+.names f4 s0 new_n27
+11 1
+.names new_n26 new_n27 new_n28
+1- 1
+-1 1
+.names k4 r0 new_n29
+11 1
+.names new_n28 new_n29 new_n30
+1- 1
+-1 1
+.names o4 q0 new_n31
+11 1
+.names p0 v3 new_n32
+11 1
+.names new_n31 new_n32 new_n33
+1- 1
+-1 1
+.names y3 o0 new_n34
+11 1
+.names new_n33 new_n34 new_n35
+1- 1
+-1 1
+.names b4 n0 new_n36
+11 1
+.names new_n35 new_n36 new_n37
+1- 1
+-1 1
+.names new_n30 new_n37 new_n38
+1- 1
+-1 1
+.names h3 m0 new_n39
+11 1
+.names l0 o3 new_n40
+11 1
+.names new_n39 new_n40 new_n41
+1- 1
+-1 1
+.names s3 k0 new_n42
+11 1
+.names new_n41 new_n42 new_n43
+1- 1
+-1 1
+.names new_n38 new_n43 y5
+1- 1
+-1 1
+.end

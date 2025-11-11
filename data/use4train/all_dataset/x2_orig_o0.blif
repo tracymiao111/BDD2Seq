@@ -1,0 +1,18 @@
+# Benchmark "x2_k" written by ABC on Thu Oct 31 22:14:48 2024
+.model x2_k
+.inputs h i j
+.outputs k
+.names i j h new_n5
+1-0 1
+-11 1
+.names j h new_n6
+10 1
+.names new_n5 new_n6 new_n7
+1- 1
+-1 1
+.names j i new_n8
+00 1
+.names new_n7 new_n8 k
+1- 1
+-1 1
+.end

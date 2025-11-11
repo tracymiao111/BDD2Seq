@@ -1,0 +1,45 @@
+# Benchmark "count_t0" written by ABC on Thu Oct 31 22:14:26 2024
+.model count_t0
+.inputs g q r s u v w x y z a0 b0 c0 d0
+.outputs t0
+.names g q new_n16
+00 1
+.names new_n16 s new_n17
+1- 1
+-1 1
+.names r u new_n18
+1- 1
+-1 1
+.names new_n18 v new_n19
+1- 1
+-1 1
+.names new_n19 w new_n20
+1- 1
+-1 1
+.names new_n20 x new_n21
+1- 1
+-1 1
+.names new_n21 y new_n22
+1- 1
+-1 1
+.names new_n22 z new_n23
+1- 1
+-1 1
+.names new_n23 a0 new_n24
+1- 1
+-1 1
+.names new_n24 b0 new_n25
+1- 1
+-1 1
+.names new_n25 c0 new_n26
+1- 1
+-1 1
+.names new_n26 d0 new_n27
+10 1
+01 1
+.names q new_n27 new_n28
+10 1
+.names new_n17 new_n28 t0
+1- 1
+-1 1
+.end

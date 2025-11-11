@@ -1,0 +1,12 @@
+# Benchmark "sct_t" written by ABC on Thu Oct 31 22:15:09 2024
+.model sct_t
+.inputs b c o
+.outputs t
+.names o new_n5
+0 1
+.names c new_n6
+0 1
+.names new_n5 new_n6 b t
+1-0 1
+-11 1
+.end

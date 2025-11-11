@@ -1,0 +1,34 @@
+# Benchmark "cc_o0" written by ABC on Thu Oct 31 22:14:35 2024
+.model cc_o0
+.inputs g i k m q u
+.outputs o0
+.names q new_n8
+0 1
+.names g i new_n9
+1- 1
+-0 1
+.names k new_n10
+0 1
+.names new_n9 new_n10 new_n11
+1- 1
+-1 1
+.names new_n8 new_n11 new_n12
+10 1
+.names m new_n13
+0 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names u new_n14 new_n15
+10 1
+.names q k new_n16
+1- 1
+-0 1
+.names i new_n16 new_n17
+10 1
+.names new_n17 new_n14 new_n18
+10 1
+.names new_n15 new_n18 o0
+1- 1
+-1 1
+.end

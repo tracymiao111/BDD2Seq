@@ -1,0 +1,20 @@
+# Benchmark "x2_o" written by ABC on Thu Oct 31 22:14:48 2024
+.model x2_o
+.inputs g h i j
+.outputs o
+.names h new_n6
+0 1
+.names new_n6 i j new_n7
+1-0 1
+-11 1
+.names j h new_n8
+10 1
+.names new_n7 new_n8 new_n9
+1- 1
+-1 1
+.names g new_n10
+0 1
+.names new_n9 new_n10 o
+1- 1
+-1 1
+.end

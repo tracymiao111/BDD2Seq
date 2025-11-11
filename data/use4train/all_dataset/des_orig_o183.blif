@@ -1,0 +1,18 @@
+# Benchmark "DES_data_new?0?" written by ABC on Thu Oct 31 22:15:02 2024
+.model DES_data_new?0?
+.inputs inreg?49? data?32? count?3? count?2? count?1? count?0?
+.outputs data_new?0?
+.names count?1? count?0? new_n8
+0- 1
+-0 1
+.names count?2? new_n9
+0 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names count?3? new_n10 new_n11
+10 1
+.names data?32? inreg?49? new_n11 data_new?0?
+1-0 1
+-11 1
+.end

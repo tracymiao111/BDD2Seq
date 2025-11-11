@@ -1,0 +1,33 @@
+# Benchmark "c5315_N4739" written by ABC on Thu Oct 31 22:14:13 2024
+.model c5315_N4739
+.inputs N23 N27 N31 N79 N141 N588
+.outputs N4739
+.names N31 N27 new_n8
+11 1
+.names N588 new_n8 new_n9
+10 1
+.names new_n9 new_n10
+0 1
+.names N23 N588 new_n11
+0- 1
+-0 1
+.names new_n8 new_n11 new_n12
+10 1
+.names N588 N79 new_n13
+1- 1
+-0 1
+.names new_n8 new_n13 new_n14
+10 1
+.names new_n12 new_n14 new_n15
+1- 1
+-1 1
+.names new_n8 N588 new_n16
+00 1
+.names new_n15 new_n16 new_n17
+1- 1
+-1 1
+.names new_n10 new_n17 new_n18
+10 1
+.names N141 new_n18 N4739
+10 1
+.end

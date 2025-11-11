@@ -1,0 +1,13 @@
+# Benchmark "CM42_n" written by ABC on Thu Oct 31 22:14:41 2024
+.model CM42_n
+.inputs a b c d
+.outputs n
+.names b c new_n6
+00 1
+.names new_n6 d new_n7
+0- 1
+-0 1
+.names new_n7 a n
+1- 1
+-0 1
+.end

@@ -1,0 +1,13 @@
+# Benchmark "c880_N420" written by ABC on Thu Oct 31 22:13:56 2024
+.model c880_N420
+.inputs N59 N75 N80
+.outputs N420
+.names N75 N59 new_n5
+0- 1
+-0 1
+.names N80 new_n6
+0 1
+.names new_n5 new_n6 N420
+1- 1
+-1 1
+.end

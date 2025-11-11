@@ -1,0 +1,68 @@
+# Benchmark "x1_b2" written by ABC on Thu Oct 31 22:14:24 2024
+.model x1_b2
+.inputs a e g m o p u v w e0 p0
+.outputs b2
+.names e a new_n13
+1- 1
+-1 1
+.names new_n13 m new_n14
+1- 1
+-1 1
+.names o new_n15
+0 1
+.names new_n14 new_n15 new_n16
+1- 1
+-1 1
+.names new_n16 p new_n17
+1- 1
+-1 1
+.names new_n17 u new_n18
+1- 1
+-1 1
+.names new_n18 v new_n19
+1- 1
+-1 1
+.names new_n19 w new_n20
+1- 1
+-1 1
+.names e0 new_n20 new_n21
+10 1
+.names p0 new_n20 new_n22
+10 1
+.names new_n21 new_n22 new_n23
+1- 1
+-1 1
+.names new_n13 g new_n24
+1- 1
+-1 1
+.names new_n24 m new_n25
+1- 1
+-1 1
+.names new_n25 new_n15 new_n26
+1- 1
+-1 1
+.names p new_n27
+0 1
+.names new_n26 new_n27 new_n28
+1- 1
+-1 1
+.names new_n28 u new_n29
+1- 1
+-1 1
+.names new_n29 v new_n30
+1- 1
+-1 1
+.names new_n30 w new_n31
+1- 1
+-1 1
+.names e0 new_n31 new_n32
+10 1
+.names new_n23 new_n32 new_n33
+1- 1
+-1 1
+.names p0 new_n31 new_n34
+10 1
+.names new_n33 new_n34 b2
+1- 1
+-1 1
+.end

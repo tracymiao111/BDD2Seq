@@ -1,0 +1,71 @@
+# Benchmark "cht_x1" written by ABC on Thu Oct 31 22:14:04 2024
+.model cht_x1
+.inputs a k l p n0 o0
+.outputs x1
+.names k l new_n8
+1- 1
+-1 1
+.names n0 new_n8 new_n9
+10 1
+.names a k new_n10
+0- 1
+-0 1
+.names new_n10 l new_n11
+1- 1
+-1 1
+.names p new_n11 new_n12
+10 1
+.names new_n9 new_n12 new_n13
+1- 1
+-1 1
+.names l a new_n14
+1- 1
+-0 1
+.names p new_n15
+0 1
+.names new_n14 new_n15 new_n16
+1- 1
+-1 1
+.names n0 new_n16 new_n17
+10 1
+.names new_n13 new_n17 new_n18
+1- 1
+-1 1
+.names o0 new_n11 new_n19
+10 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names l k new_n21
+1- 1
+-0 1
+.names new_n21 p new_n22
+1- 1
+-1 1
+.names o0 new_n22 new_n23
+10 1
+.names new_n20 new_n23 new_n24
+1- 1
+-1 1
+.names n0 new_n25
+0 1
+.names new_n14 new_n25 new_n26
+1- 1
+-1 1
+.names o0 new_n26 new_n27
+10 1
+.names new_n24 new_n27 new_n28
+1- 1
+-1 1
+.names p l new_n29
+1- 1
+-1 1
+.names new_n29 new_n25 new_n30
+1- 1
+-1 1
+.names o0 new_n30 new_n31
+10 1
+.names new_n28 new_n31 x1
+1- 1
+-1 1
+.end

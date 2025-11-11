@@ -1,0 +1,19 @@
+# Benchmark "i10_V1719" written by ABC on Thu Oct 31 22:14:09 2024
+.model i10_V1719
+.inputs V165(0) V165(2) V165(1) V172(0) V240(0)
+.outputs V1719
+.names V172(0) new_n7
+0 1
+.names V165(2) V165(0) new_n8
+1- 1
+-0 1
+.names V165(1) new_n8 new_n9
+10 1
+.names V240(0) new_n10
+0 1
+.names new_n9 new_n10 new_n11
+1- 1
+-1 1
+.names new_n7 new_n11 V1719
+10 1
+.end

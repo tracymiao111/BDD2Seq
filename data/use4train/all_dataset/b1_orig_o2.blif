@@ -1,0 +1,28 @@
+# Benchmark "b1_f" written by ABC on Thu Oct 31 22:15:27 2024
+.model b1_f
+.inputs a b c
+.outputs f
+.names c b new_n5
+1- 1
+-1 1
+.names a b new_n6
+10 1
+01 1
+.names c a new_n7
+11 1
+.names new_n6 new_n7 new_n8
+1- 1
+-1 1
+.names c b new_n9
+11 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names c a new_n11
+00 1
+.names new_n10 new_n11 new_n12
+1- 1
+-1 1
+.names new_n5 new_n12 f
+10 1
+.end

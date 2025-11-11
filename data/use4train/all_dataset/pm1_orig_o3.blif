@@ -1,0 +1,26 @@
+# Benchmark "pm1_u" written by ABC on Thu Oct 31 22:13:52 2024
+.model pm1_u
+.inputs g h i j k m n
+.outputs u
+.names m k new_n9
+0- 1
+-0 1
+.names i j new_n10
+0- 1
+-0 1
+.names new_n10 n new_n11
+0- 1
+-0 1
+.names n h new_n12
+10 1
+.names n g new_n13
+10 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names new_n11 new_n14 new_n15
+10 1
+.names new_n9 new_n15 u
+1- 1
+-1 1
+.end

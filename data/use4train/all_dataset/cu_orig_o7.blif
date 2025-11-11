@@ -1,0 +1,18 @@
+# Benchmark "cu_w" written by ABC on Thu Oct 31 22:14:16 2024
+.model cu_w
+.inputs c d e f o
+.outputs w
+.names o new_n7
+0 1
+.names e f new_n8
+1- 1
+-0 1
+.names new_n8 d new_n9
+1- 1
+-1 1
+.names new_n9 c new_n10
+1- 1
+-1 1
+.names new_n7 new_n10 w
+10 1
+.end

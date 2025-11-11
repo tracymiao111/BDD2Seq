@@ -1,0 +1,38 @@
+# Benchmark "c2670_N2970" written by ABC on Thu Oct 31 22:14:45 2024
+.model c2670_N2970
+.inputs N294 N297 N301 N305 N309 N313 N316 N355
+.outputs N2970
+.names N301 N297 new_n10
+11 1
+00 1
+.names N294 N355 new_n11
+11 1
+00 1
+.names new_n10 new_n11 new_n12
+0- 1
+-0 1
+.names new_n11 new_n10 new_n13
+1- 1
+-0 1
+.names N309 N305 new_n14
+11 1
+00 1
+.names new_n12 new_n13 new_n14 new_n15
+1-0 1
+-11 1
+.names new_n10 new_n11 new_n16
+00 1
+.names new_n11 new_n10 new_n17
+10 1
+.names new_n16 new_n17 new_n14 new_n18
+1-0 1
+-11 1
+.names new_n15 new_n18 new_n19
+10 1
+.names N316 N313 new_n20
+10 1
+01 1
+.names new_n19 new_n20 N2970
+10 1
+01 1
+.end

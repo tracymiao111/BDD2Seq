@@ -1,0 +1,27 @@
+# Benchmark "count_n0" written by ABC on Thu Oct 31 22:14:26 2024
+.model count_n0
+.inputs m q r s u v w x
+.outputs n0
+.names m q new_n10
+00 1
+.names new_n10 s new_n11
+1- 1
+-1 1
+.names r u new_n12
+1- 1
+-1 1
+.names new_n12 v new_n13
+1- 1
+-1 1
+.names new_n13 w new_n14
+1- 1
+-1 1
+.names new_n14 x new_n15
+10 1
+01 1
+.names q new_n15 new_n16
+10 1
+.names new_n11 new_n16 n0
+1- 1
+-1 1
+.end

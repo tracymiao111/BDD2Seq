@@ -1,0 +1,18 @@
+# Benchmark "c7552_N10025" written by ABC on Thu Oct 31 22:13:59 2024
+.model c7552_N10025
+.inputs N18 N41 N310 N367
+.outputs N10025
+.names N310 N18 new_n6
+10 1
+.names N18 N41 new_n7
+1- 1
+-0 1
+.names new_n6 new_n7 new_n8
+11 1
+00 1
+.names N367 new_n9
+0 1
+.names new_n8 new_n9 N10025
+10 1
+01 1
+.end

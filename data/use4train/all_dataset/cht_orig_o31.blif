@@ -1,0 +1,37 @@
+# Benchmark "cht_b2" written by ABC on Thu Oct 31 22:14:04 2024
+.model cht_b2
+.inputs k l p r0 s0
+.outputs b2
+.names k l new_n7
+1- 1
+-1 1
+.names r0 new_n7 new_n8
+10 1
+.names l p new_n9
+1- 1
+-0 1
+.names r0 new_n9 new_n10
+10 1
+.names new_n8 new_n10 new_n11
+1- 1
+-1 1
+.names l r0 new_n12
+1- 1
+-0 1
+.names s0 new_n12 new_n13
+10 1
+.names new_n11 new_n13 new_n14
+1- 1
+-1 1
+.names l k new_n15
+1- 1
+-0 1
+.names new_n15 p new_n16
+1- 1
+-1 1
+.names s0 new_n16 new_n17
+10 1
+.names new_n14 new_n17 b2
+1- 1
+-1 1
+.end

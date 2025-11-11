@@ -1,0 +1,105 @@
+# Benchmark "c8_q0" written by ABC on Thu Oct 31 22:15:13 2024
+.model c8_q0
+.inputs e m q r s u v w x y
+.outputs q0
+.names m q new_n12
+1- 1
+-1 1
+.names new_n12 s new_n13
+1- 1
+-1 1
+.names q new_n14
+0 1
+.names m e new_n15
+1- 1
+-1 1
+.names new_n14 new_n15 new_n16
+10 1
+.names e q new_n17
+1- 1
+-1 1
+.names s new_n17 new_n18
+10 1
+.names new_n16 new_n18 new_n19
+1- 1
+-1 1
+.names new_n13 new_n19 new_n20
+10 1
+.names new_n20 q new_n21
+10 1
+.names y u new_n22
+0- 1
+-0 1
+.names new_n20 new_n22 new_n23
+10 1
+.names new_n21 new_n23 new_n24
+1- 1
+-1 1
+.names r y new_n25
+0- 1
+-0 1
+.names new_n20 new_n25 new_n26
+10 1
+.names new_n24 new_n26 new_n27
+1- 1
+-1 1
+.names v new_n28
+0 1
+.names x y new_n29
+1- 1
+-0 1
+.names new_n29 w new_n30
+1- 1
+-1 1
+.names new_n28 new_n30 new_n31
+10 1
+.names y new_n32
+0 1
+.names new_n31 new_n32 new_n33
+1- 1
+-1 1
+.names new_n20 new_n33 new_n34
+10 1
+.names new_n27 new_n34 new_n35
+1- 1
+-1 1
+.names x w new_n36
+1- 1
+-1 1
+.names v u new_n37
+00 1
+.names r new_n38
+0 1
+.names new_n37 new_n38 new_n39
+0- 1
+-0 1
+.names new_n36 new_n39 new_n40
+1- 1
+-1 1
+.names u new_n41
+0 1
+.names new_n40 new_n41 new_n42
+1- 1
+-1 1
+.names new_n20 new_n42 new_n43
+10 1
+.names new_n35 new_n43 new_n44
+1- 1
+-1 1
+.names new_n40 new_n38 new_n45
+1- 1
+-1 1
+.names new_n20 new_n45 new_n46
+10 1
+.names new_n44 new_n46 new_n47
+1- 1
+-1 1
+.names new_n31 new_n40 new_n48
+1- 1
+-1 1
+.names new_n20 new_n48 new_n49
+10 1
+.names new_n47 new_n49 q0
+1- 1
+-1 1
+.end

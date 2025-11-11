@@ -1,0 +1,74 @@
+# Benchmark "mux_cl_l" written by ABC on Thu Oct 31 22:14:26 2024
+.model mux_cl_l
+.inputs a b c d e f g h i j k
+.outputs l
+.names k j new_n13
+1- 1
+-1 1
+.names a new_n13 new_n14
+10 1
+.names b new_n13 new_n15
+10 1
+.names new_n14 new_n15 i new_n16
+1-0 1
+-11 1
+.names k j new_n17
+1- 1
+-0 1
+.names new_n17 i new_n18
+1- 1
+-1 1
+.names c new_n18 new_n19
+10 1
+.names new_n16 new_n19 new_n20
+1- 1
+-1 1
+.names i new_n21
+0 1
+.names new_n17 new_n21 new_n22
+1- 1
+-1 1
+.names d new_n22 new_n23
+10 1
+.names new_n20 new_n23 new_n24
+1- 1
+-1 1
+.names j k new_n25
+1- 1
+-0 1
+.names new_n25 i new_n26
+1- 1
+-1 1
+.names e new_n26 new_n27
+10 1
+.names new_n24 new_n27 new_n28
+1- 1
+-1 1
+.names new_n25 new_n21 new_n29
+1- 1
+-1 1
+.names f new_n29 new_n30
+10 1
+.names new_n28 new_n30 new_n31
+1- 1
+-1 1
+.names k j new_n32
+0- 1
+-0 1
+.names new_n32 i new_n33
+1- 1
+-1 1
+.names g new_n33 new_n34
+10 1
+.names new_n31 new_n34 new_n35
+1- 1
+-1 1
+.names new_n32 new_n21 new_n36
+1- 1
+-1 1
+.names h new_n36 new_n37
+10 1
+.names new_n35 new_n37 l
+1- 1
+-1 1
+.end

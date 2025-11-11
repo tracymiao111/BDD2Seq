@@ -1,0 +1,35 @@
+# Benchmark "i10_V1771(0)" written by ABC on Thu Oct 31 22:14:10 2024
+.model i10_V1771(0)
+.inputs V149(7) V149(6) V149(5) V149(4) V149(0) V149(1) V149(2) V149(3) \
+ V88(2) V134(0)
+.outputs V1771(0)
+.names V134(0) new_n12
+0 1
+.names V88(2) new_n13
+0 1
+.names V149(5) V149(7) new_n14
+1- 1
+-0 1
+.names new_n14 V149(3) new_n15
+1- 1
+-1 1
+.names V149(2) V149(1) new_n16
+1- 1
+-0 1
+.names new_n16 V149(0) new_n17
+1- 1
+-1 1
+.names new_n15 new_n17 new_n18
+1- 1
+-1 1
+.names V149(4) new_n19
+0 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names V149(6) new_n20 new_n21
+10 1
+.names new_n12 new_n13 new_n21 V1771(0)
+1-0 1
+-11 1
+.end

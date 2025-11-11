@@ -1,0 +1,20 @@
+# Benchmark "pm1_t" written by ABC on Thu Oct 31 22:13:52 2024
+.model pm1_t
+.inputs g h i j k m n
+.outputs t
+.names m n new_n9
+11 1
+.names h g new_n10
+0- 1
+-0 1
+.names j k new_n11
+11 1
+.names new_n11 i new_n12
+0- 1
+-0 1
+.names new_n10 new_n12 new_n13
+00 1
+.names new_n9 new_n13 t
+0- 1
+-0 1
+.end

@@ -1,0 +1,43 @@
+# Benchmark "c432_N223" written by ABC on Thu Oct 31 22:14:25 2024
+.model c432_N223
+.inputs N1 N4 N11 N17 N24 N30 N37 N43 N50 N56 N63 N69 N76 N82 N89 N95 N102 \
+ N108
+.outputs N223
+.names N1 N4 new_n20
+1- 1
+-0 1
+.names N17 N11 new_n21
+10 1
+.names new_n20 new_n21 new_n22
+10 1
+.names N30 N24 new_n23
+10 1
+.names new_n22 new_n23 new_n24
+10 1
+.names N43 N37 new_n25
+10 1
+.names new_n24 new_n25 new_n26
+10 1
+.names N56 N50 new_n27
+10 1
+.names new_n26 new_n27 new_n28
+10 1
+.names N69 N63 new_n29
+10 1
+.names new_n28 new_n29 new_n30
+10 1
+.names N82 N76 new_n31
+10 1
+.names new_n30 new_n31 new_n32
+10 1
+.names N95 N89 new_n33
+10 1
+.names new_n32 new_n33 new_n34
+10 1
+.names N108 N102 new_n35
+10 1
+.names new_n34 new_n35 new_n36
+10 1
+.names new_n36 N223
+0 1
+.end

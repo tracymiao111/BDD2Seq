@@ -1,0 +1,44 @@
+# Benchmark "CM163_t" written by ABC on Thu Oct 31 22:14:51 2024
+.model CM163_t
+.inputs c d e f h j l m n
+.outputs t
+.names h new_n11
+0 1
+.names c d new_n12
+0- 1
+-0 1
+.names new_n12 m new_n13
+1- 1
+-1 1
+.names new_n13 j new_n14
+1- 1
+-1 1
+.names new_n14 l new_n15
+1- 1
+-1 1
+.names new_n15 n new_n16
+10 1
+01 1
+.names new_n11 new_n16 new_n17
+10 1
+.names e f new_n18
+1- 1
+-0 1
+.names new_n18 new_n16 new_n19
+10 1
+.names new_n17 new_n19 new_n20
+1- 1
+-1 1
+.names f e new_n21
+11 1
+.names new_n11 new_n21 new_n22
+10 1
+.names new_n20 new_n22 new_n23
+1- 1
+-1 1
+.names new_n18 new_n21 new_n24
+10 1
+.names new_n23 new_n24 t
+1- 1
+-1 1
+.end

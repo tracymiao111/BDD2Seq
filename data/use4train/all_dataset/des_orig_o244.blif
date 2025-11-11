@@ -1,0 +1,40 @@
+# Benchmark "DES_encrypt_mode_new?0?" written by ABC on Thu Oct 31 22:15:04 2024
+.model DES_encrypt_mode_new?0?
+.inputs encrypt?0? count?3? count?2? count?1? count?0? encrypt_mode?0?
+.outputs encrypt_mode_new?0?
+.names encrypt_mode?0? count?0? new_n8
+10 1
+.names encrypt_mode?0? count?1? new_n9
+10 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names encrypt_mode?0? count?2? new_n11
+10 1
+.names new_n10 new_n11 new_n12
+1- 1
+-1 1
+.names encrypt_mode?0? count?3? new_n13
+10 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names count?0? encrypt?0? new_n15
+0- 1
+-0 1
+.names count?1? new_n16
+0 1
+.names new_n15 new_n16 new_n17
+1- 1
+-1 1
+.names count?2? new_n18
+0 1
+.names new_n17 new_n18 new_n19
+1- 1
+-1 1
+.names count?3? new_n19 new_n20
+10 1
+.names new_n14 new_n20 encrypt_mode_new?0?
+1- 1
+-1 1
+.end

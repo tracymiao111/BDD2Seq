@@ -1,0 +1,30 @@
+# Benchmark "i7_V227(21)" written by ABC on Thu Oct 31 22:13:53 2024
+.model i7_V227(21)
+.inputs V199(1) V199(0) V32(21) V96(21) V64(21)
+.outputs V227(21)
+.names V96(21) V199(1) new_n7
+10 1
+.names V32(21) V199(1) new_n8
+10 1
+.names new_n7 new_n8 V199(0) new_n9
+1-0 1
+-11 1
+.names V64(21) V199(1) new_n10
+0- 1
+-0 1
+.names V199(0) new_n10 new_n11
+10 1
+.names new_n9 new_n11 new_n12
+1- 1
+-1 1
+.names V199(0) new_n13
+0 1
+.names V96(21) V199(1) new_n14
+1- 1
+-0 1
+.names new_n13 new_n14 new_n15
+10 1
+.names new_n12 new_n15 V227(21)
+1- 1
+-1 1
+.end

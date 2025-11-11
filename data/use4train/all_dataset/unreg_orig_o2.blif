@@ -1,0 +1,20 @@
+# Benchmark "unreg_n0" written by ABC on Thu Oct 31 22:14:25 2024
+.model unreg_n0
+.inputs b s t u x y
+.outputs n0
+.names x new_n8
+0 1
+.names y t new_n9
+0- 1
+-0 1
+.names b t new_n10
+00 1
+.names new_n10 s new_n11
+1- 1
+-1 1
+.names new_n9 new_n11 new_n12
+10 1
+.names new_n8 new_n12 u n0
+1-0 1
+-11 1
+.end

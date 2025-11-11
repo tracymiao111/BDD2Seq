@@ -1,0 +1,6045 @@
+.model /Users/chromemono/Downloads/aiger/filtered_aigs/large_circuit_622.aig
+.inputs i2 i4 i6 i8 i10 i12 i14 i16 i18 i20 \
+i22 i24 i26 i28 i30 i32 i34 i36 i38 i40 \
+i42 i44 i46 i48 i50 i52 i54 i56 i58 i60 \
+i62 i64 i66 i68 i70 i72 i74 i76 i78 i80 \
+i82 i84 i86 i88 i90 i92 i94 i96 i98 i100 \
+i102 i104 i106 i108 i110 i112 i114 i116 i118 i120 \
+i122 i124 i126 i128 i130 i132 i134 i136 i138 i140 \
+i142 
+.outputs o0 o1 o2 o3 o4 o5 o6 o7 o8 o9 \
+o10 o11 o12 o13 o14 o15 o16 o17 o18 o19 \
+o20 o21 o22 o23 o24 
+.names i72 i16 a144
+10 1
+.names i108 i104 a146
+11 1
+.names i70 i14 a148
+00 1
+.names a148 a146 a150
+01 1
+.names a150 a144 a152
+10 1
+.names i46 i16 a154
+00 1
+.names i94 i52 a156
+10 1
+.names a156 a154 a158
+00 1
+.names a158 a148 a160
+10 1
+.names i56 i8 a162
+01 1
+.names i62 i44 a164
+10 1
+.names a164 i114 a166
+10 1
+.names a166 a162 a168
+11 1
+.names a168 a160 a170
+00 1
+.names i68 i12 a172
+11 1
+.names i64 i16 a174
+01 1
+.names a174 a148 a176
+01 1
+.names a176 a172 a178
+10 1
+.names i78 i24 a180
+01 1
+.names i54 i6 a182
+11 1
+.names a182 a180 a184
+11 1
+.names a184 i44 a186
+01 1
+.names i78 i60 a188
+01 1
+.names a188 i68 a190
+00 1
+.names i62 i58 a192
+11 1
+.names a192 i46 a194
+00 1
+.names a194 a190 a196
+01 1
+.names a196 a186 a198
+01 1
+.names i38 i2 a200
+00 1
+.names i82 i52 a202
+10 1
+.names a202 a200 a204
+11 1
+.names i100 i80 a206
+10 1
+.names i50 i46 a208
+10 1
+.names a208 a206 a210
+10 1
+.names a210 a204 a212
+01 1
+.names a204 a194 a214
+11 1
+.names a214 a212 a216
+11 1
+.names i108 i40 a218
+00 1
+.names i64 i48 a220
+00 1
+.names a220 a218 a222
+00 1
+.names a222 a212 a224
+01 1
+.names a224 a216 a226
+00 1
+.names a226 a198 a228
+10 1
+.names i42 i32 a230
+11 1
+.names i36 i4 a232
+00 1
+.names a232 a230 a234
+10 1
+.names i88 i18 a236
+00 1
+.names a236 i12 a238
+01 1
+.names a238 a234 a240
+00 1
+.names i50 i30 a242
+00 1
+.names i94 i66 a244
+10 1
+.names a244 a242 a246
+01 1
+.names i80 i4 a248
+11 1
+.names i88 i64 a250
+01 1
+.names a250 a248 a252
+11 1
+.names a252 a246 a254
+01 1
+.names a254 a240 a256
+00 1
+.names a194 i86 a258
+00 1
+.names a258 a252 a260
+10 1
+.names a260 a256 a262
+10 1
+.names i98 i30 a264
+11 1
+.names a264 i72 a266
+01 1
+.names i92 i10 a268
+11 1
+.names i98 i2 a270
+00 1
+.names a270 a268 a272
+01 1
+.names a272 a266 a274
+11 1
+.names i70 i56 a276
+01 1
+.names i104 i100 a278
+10 1
+.names a278 a276 a280
+01 1
+.names i104 i68 a282
+11 1
+.names i34 i16 a284
+11 1
+.names a284 a282 a286
+01 1
+.names a286 a280 a288
+10 1
+.names a288 i38 a290
+10 1
+.names i102 i60 a292
+11 1
+.names i20 i12 a294
+11 1
+.names a294 a292 a296
+10 1
+.names a296 i106 a298
+10 1
+.names a298 a240 a300
+00 1
+.names a300 a290 a302
+10 1
+.names a302 a274 a304
+11 1
+.names a304 a262 a306
+11 1
+.names a306 a228 a308
+11 1
+.names a194 i90 a310
+00 1
+.names a310 a290 a312
+01 1
+.names i100 i52 a314
+11 1
+.names i74 i36 a316
+11 1
+.names a316 a314 a318
+00 1
+.names a318 a296 a320
+00 1
+.names a320 a186 a322
+10 1
+.names a266 a190 a324
+00 1
+.names a324 a310 a326
+10 1
+.names a326 a322 a328
+00 1
+.names a328 a312 a330
+01 1
+.names a330 i120 a332
+00 1
+.names a216 a196 a334
+00 1
+.names a326 a288 a336
+01 1
+.names a336 a334 a338
+10 1
+.names a190 i48 a340
+00 1
+.names a340 a298 a342
+11 1
+.names a342 a226 a344
+10 1
+.names a344 a338 a346
+11 1
+.names a346 a332 a348
+00 1
+.names a348 a308 a350
+00 1
+.names i86 i36 a352
+01 1
+.names i96 i14 a354
+01 1
+.names a354 a352 a356
+00 1
+.names a356 a222 a358
+10 1
+.names i76 i10 a360
+11 1
+.names a360 i6 a362
+11 1
+.names a362 i74 a364
+11 1
+.names a364 a358 a366
+10 1
+.names a366 a332 a368
+11 1
+.names a362 a194 a370
+01 1
+.names a370 a274 a372
+11 1
+.names a372 a198 a374
+01 1
+.names a372 a322 a376
+10 1
+.names a376 a374 a378
+01 1
+.names a310 a186 a380
+00 1
+.names a380 a288 a382
+10 1
+.names a382 a198 a384
+11 1
+.names a384 a378 a386
+00 1
+.names a386 a234 a388
+00 1
+.names a388 a368 a390
+11 1
+.names a390 a350 a392
+00 1
+.names a382 a262 a394
+11 1
+.names a394 a384 a396
+01 1
+.names a318 a254 a398
+10 1
+.names a398 a322 a400
+10 1
+.names a380 a326 a402
+01 1
+.names a402 a382 a404
+10 1
+.names a404 a400 a406
+01 1
+.names a406 a396 a408
+11 1
+.names a402 a400 a410
+10 1
+.names a410 a228 a412
+11 1
+.names a412 a386 a414
+01 1
+.names a414 a408 a416
+00 1
+.names a396 a390 a418
+01 1
+.names a326 a196 a420
+11 1
+.names a420 a224 a422
+01 1
+.names a422 a326 a424
+00 1
+.names a424 a404 a426
+10 1
+.names a424 a406 a428
+11 1
+.names a428 a426 a430
+11 1
+.names a298 a196 a432
+10 1
+.names a340 a320 a434
+10 1
+.names a434 a432 a436
+10 1
+.names a436 a302 a438
+00 1
+.names a342 i118 a440
+01 1
+.names a440 a342 a442
+10 1
+.names a442 a438 a444
+10 1
+.names a398 i120 a446
+10 1
+.names a446 a444 a448
+11 1
+.names a448 a308 a450
+00 1
+.names a450 a430 a452
+11 1
+.names a452 a418 a454
+10 1
+.names a454 a416 a456
+10 1
+.names a456 i126 a458
+11 1
+.names a342 a304 a460
+10 1
+.names a460 a190 a462
+11 1
+.names a462 a368 a464
+11 1
+.names i94 i74 a466
+11 1
+.names a318 a272 a468
+10 1
+.names a468 a466 a470
+00 1
+.names a432 a326 a472
+00 1
+.names a472 a470 a474
+10 1
+.names a474 a372 a476
+11 1
+.names a404 a378 a478
+10 1
+.names a478 a476 a480
+00 1
+.names a480 a462 a482
+00 1
+.names a482 a464 a484
+00 1
+.names a312 a262 a486
+11 1
+.names a486 a442 a488
+00 1
+.names a488 a346 a490
+10 1
+.names a366 a224 a492
+00 1
+.names a470 a322 a494
+10 1
+.names a494 a492 a496
+10 1
+.names a496 i122 a498
+00 1
+.names a498 a490 a500
+01 1
+.names a496 a334 a502
+10 1
+.names a486 a378 a504
+11 1
+.names a504 a502 a506
+00 1
+.names a440 a322 a508
+00 1
+.names a508 a400 a510
+11 1
+.names a510 a494 a512
+01 1
+.names a512 a506 a514
+11 1
+.names a514 a500 a516
+11 1
+.names a516 a484 a518
+10 1
+.names a346 i120 a520
+00 1
+.names a520 a348 a522
+01 1
+.names a522 a350 a524
+11 1
+.names a524 a522 a526
+10 1
+.names a526 a518 a528
+11 1
+.names a496 a412 a530
+10 1
+.names a530 a520 a532
+00 1
+.names a532 a426 a534
+00 1
+.names a534 a452 a536
+10 1
+.names a534 a418 a538
+10 1
+.names a538 a536 a540
+01 1
+.names a540 a528 a542
+10 1
+.names a542 a458 a544
+10 1
+.names a478 a460 a546
+10 1
+.names a546 i122 a548
+00 1
+.names a548 a462 a550
+01 1
+.names a418 a350 a552
+00 1
+.names a552 a550 a554
+01 1
+.names a554 a422 a556
+00 1
+.names a556 i126 a558
+10 1
+.names a558 a544 a560
+00 1
+.names a560 a392 a562
+00 1
+.names a428 a388 a564
+10 1
+.names a564 a520 a566
+11 1
+.names a480 a408 a568
+00 1
+.names a568 a506 a570
+01 1
+.names a570 a566 a572
+10 1
+.names a548 a442 a574
+00 1
+.names a574 a550 a576
+01 1
+.names a576 a572 a578
+10 1
+.names a578 a528 a580
+11 1
+.names a512 a332 a582
+01 1
+.names a582 a500 a584
+10 1
+.names a430 a424 a586
+10 1
+.names a586 a584 a588
+01 1
+.names a588 a574 a590
+00 1
+.names a552 a538 a592
+01 1
+.names a592 a590 a594
+11 1
+.names a594 a580 a596
+10 1
+.names a576 i124 a598
+11 1
+.names a584 a516 a600
+11 1
+.names a600 a534 a602
+11 1
+.names a602 a598 a604
+00 1
+.names a604 i128 a606
+00 1
+.names a594 a592 a608
+10 1
+.names a608 a606 a610
+10 1
+.names a610 a596 a612
+00 1
+.names a612 a558 a614
+10 1
+.names a614 a562 a616
+10 1
+.names a522 a464 a618
+10 1
+.names a618 a524 a620
+11 1
+.names a620 a482 a622
+01 1
+.names a516 a388 a624
+01 1
+.names a624 a550 a626
+11 1
+.names a626 a622 a628
+00 1
+.names a534 i126 a630
+11 1
+.names a630 i128 a632
+10 1
+.names a632 a628 a634
+11 1
+.names a634 a610 a636
+00 1
+.names a636 a612 a638
+10 1
+.names a594 a542 a640
+01 1
+.names a626 a368 a642
+11 1
+.names a642 a630 a644
+01 1
+.names a644 a640 a646
+00 1
+.names a620 a454 a648
+11 1
+.names a648 a602 a650
+10 1
+.names a650 a576 a652
+11 1
+.names a652 a540 a654
+00 1
+.names a642 a570 a656
+11 1
+.names a604 i128 a658
+10 1
+.names a658 a656 a660
+01 1
+.names a660 a654 a662
+10 1
+.names a662 a646 a664
+01 1
+.names a664 a638 a666
+11 1
+.names a666 a616 a668
+10 1
+.names a520 a448 a670
+01 1
+.names a506 a448 a672
+11 1
+.names a672 a406 a674
+11 1
+.names a480 a426 a676
+00 1
+.names a676 a514 a678
+00 1
+.names a678 a674 a680
+00 1
+.names a680 a670 a682
+10 1
+.names a682 a566 a684
+01 1
+.names a592 a590 a686
+01 1
+.names a686 a628 a688
+10 1
+.names a484 a452 a690
+10 1
+.names a690 a574 a692
+10 1
+.names a670 a416 a694
+01 1
+.names a694 a392 a696
+11 1
+.names a696 a550 a698
+10 1
+.names a698 a692 a700
+01 1
+.names a700 a650 a702
+11 1
+.names a702 a688 a704
+11 1
+.names a704 a684 a706
+01 1
+.names a696 a660 a708
+11 1
+.names a660 a610 a710
+11 1
+.names a710 a708 a712
+00 1
+.names a712 a706 a714
+10 1
+.names a658 a632 a716
+00 1
+.names a716 a614 a718
+11 1
+.names a718 a714 a720
+11 1
+.names a720 a668 a722
+11 1
+.names a654 i130 a724
+01 1
+.names a698 a604 a726
+00 1
+.names a726 a630 a728
+00 1
+.names a672 a534 a730
+00 1
+.names a730 a624 a732
+10 1
+.names a732 a648 a734
+00 1
+.names a734 a684 a736
+11 1
+.names a736 a596 a738
+00 1
+.names a738 a728 a740
+01 1
+.names a740 a580 a742
+00 1
+.names a742 a724 a744
+00 1
+.names a686 a544 a746
+11 1
+.names a746 a740 a748
+01 1
+.names a748 a706 a750
+11 1
+.names a750 a744 a752
+10 1
+.names a752 a616 a754
+01 1
+.names a754 i138 a756
+01 1
+.names a694 a540 a758
+01 1
+.names a578 a540 a760
+11 1
+.names a760 a758 a762
+10 1
+.names a762 a656 a764
+10 1
+.names a764 a554 a766
+10 1
+.names a630 a622 a768
+10 1
+.names a768 a736 a770
+01 1
+.names a770 a734 a772
+11 1
+.names a772 a662 a774
+00 1
+.names a774 a766 a776
+00 1
+.names a776 a714 a778
+11 1
+.names a638 a612 a780
+01 1
+.names a780 a746 a782
+11 1
+.names a782 a778 a784
+10 1
+.names a784 a752 a786
+10 1
+.names a786 a756 a788
+00 1
+.names a788 a722 a790
+11 1
+.names a790 i142 a792
+11 1
+.names a684 a608 a794
+11 1
+.names a794 a610 a796
+11 1
+.names a686 a610 a798
+01 1
+.names a798 a706 a800
+10 1
+.names a800 a560 a802
+10 1
+.names a802 a796 a804
+00 1
+.names a644 a558 a806
+00 1
+.names a806 a770 a808
+11 1
+.names a808 a562 a810
+00 1
+.names a810 i132 a812
+11 1
+.names a812 a780 a814
+00 1
+.names a814 a752 a816
+11 1
+.names a816 a804 a818
+00 1
+.names a718 i134 a820
+01 1
+.names a820 i136 a822
+11 1
+.names a822 a804 a824
+00 1
+.names a824 a818 a826
+00 1
+.names a608 a606 a828
+01 1
+.names a828 a746 a830
+10 1
+.names a830 a688 a832
+10 1
+.names a832 a612 a834
+11 1
+.names a834 a748 a836
+11 1
+.names a836 a740 a838
+11 1
+.names a796 a764 a840
+11 1
+.names a772 a708 a842
+10 1
+.names a842 a840 a844
+11 1
+.names a844 a812 a846
+11 1
+.names a846 a718 a848
+10 1
+.names a848 a838 a850
+11 1
+.names a850 a818 a852
+00 1
+.names a716 a646 a854
+01 1
+.names a794 a654 a856
+10 1
+.names a856 a854 a858
+10 1
+.names a858 a644 a860
+11 1
+.names a860 a844 a862
+00 1
+.names a862 i136 a864
+00 1
+.names a864 a778 a866
+10 1
+.names a766 a728 a868
+11 1
+.names a868 a664 a870
+10 1
+.names a870 a742 a872
+10 1
+.names a872 a668 a874
+00 1
+.names a874 a722 a876
+01 1
+.names a876 a866 a878
+00 1
+.names a878 a852 a880
+01 1
+.names a880 a826 a882
+01 1
+.names a882 a792 a884
+01 1
+.names a826 a822 a886
+10 1
+.names a844 a718 a888
+01 1
+.names a888 a804 a890
+10 1
+.names a890 a872 a892
+11 1
+.names a892 a866 a894
+01 1
+.names a876 a838 a896
+00 1
+.names a850 a754 a898
+11 1
+.names a898 a896 a900
+10 1
+.names a834 a812 a902
+01 1
+.names a720 a616 a904
+11 1
+.names a904 i136 a906
+01 1
+.names a906 a824 a908
+01 1
+.names a908 a902 a910
+11 1
+.names a910 a900 a912
+00 1
+.names a912 a894 a914
+10 1
+.names a914 a886 a916
+00 1
+.names a898 a826 a918
+10 1
+.names a918 a878 a920
+11 1
+.names a920 a912 a922
+11 1
+.names a922 a912 a924
+11 1
+.names a924 a916 a926
+01 1
+.names a834 a668 a928
+10 1
+.names a928 a822 a930
+11 1
+.names a814 a668 a932
+11 1
+.names a932 a752 a934
+10 1
+.names a934 a930 a936
+01 1
+.names a894 i140 a938
+01 1
+.names a938 a936 a940
+00 1
+.names a932 a754 a942
+01 1
+.names a842 a742 a944
+11 1
+.names a772 a724 a946
+01 1
+.names a796 a560 a948
+10 1
+.names a948 a946 a950
+00 1
+.names a950 a944 a952
+10 1
+.names a952 a820 a954
+10 1
+.names a954 a944 a956
+10 1
+.names a932 a846 a958
+01 1
+.names a958 a956 a960
+11 1
+.names a960 i140 a962
+00 1
+.names a962 a942 a964
+00 1
+.names a964 a940 a966
+01 1
+.names a882 a792 a968
+00 1
+.names a968 a966 a970
+11 1
+.names a968 a914 a972
+01 1
+.names a972 a970 a974
+11 1
+.names a974 a926 a976
+10 1
+.names a976 a884 a978
+10 1
+.names a902 a844 a980
+11 1
+.names a980 a952 a982
+00 1
+.names a982 a930 a984
+01 1
+.names a984 a826 a986
+01 1
+.names a986 a818 a988
+11 1
+.names a988 a918 a990
+00 1
+.names a990 a864 a992
+01 1
+.names a992 a970 a994
+01 1
+.names a994 a916 a996
+11 1
+.names a996 a972 a998
+10 1
+.names a920 a918 a1000
+11 1
+.names a942 a846 a1002
+11 1
+.names a982 a818 a1004
+11 1
+.names a1004 a1002 a1006
+11 1
+.names a852 a826 a1008
+01 1
+.names a1008 a1006 a1010
+00 1
+.names a1010 a882 a1012
+00 1
+.names a1012 a1000 a1014
+10 1
+.names a1014 a972 a1016
+01 1
+.names a936 a908 a1018
+10 1
+.names a1018 a786 a1020
+01 1
+.names a922 a884 a1022
+00 1
+.names a1022 a1020 a1024
+00 1
+.names a1024 a1016 a1026
+10 1
+.names a824 a788 a1028
+11 1
+.names a934 a718 a1030
+00 1
+.names a1030 a960 a1032
+00 1
+.names a1032 a1028 a1034
+01 1
+.names a1034 a1020 a1036
+10 1
+.names a854 a834 a1038
+10 1
+.names a1038 a872 a1040
+01 1
+.names a1040 a776 a1042
+01 1
+.names a928 a722 a1044
+11 1
+.names a1044 a1042 a1046
+10 1
+.names a954 a850 a1048
+00 1
+.names a1048 a1046 a1050
+00 1
+.names a1050 a968 a1052
+10 1
+.names a1052 a968 a1054
+10 1
+.names a1054 a1036 a1056
+10 1
+.names a1056 a1026 a1058
+10 1
+.names a1036 a1000 a1060
+10 1
+.names a1060 a970 a1062
+10 1
+.names a1052 a1022 a1064
+00 1
+.names a1064 a1062 a1066
+10 1
+.names a1066 a1022 a1068
+00 1
+.names a1068 a1058 a1070
+00 1
+.names a962 a886 a1072
+10 1
+.names a1072 a1018 a1074
+10 1
+.names a1074 a1020 a1076
+01 1
+.names a1076 a1066 a1078
+10 1
+.names a1078 a1008 a1080
+11 1
+.names a1080 a1070 a1082
+11 1
+.names a1030 a894 a1084
+01 1
+.names a1084 a1050 a1086
+00 1
+.names a1086 a1010 a1088
+10 1
+.names a902 a886 a1090
+01 1
+.names a1090 a1006 a1092
+01 1
+.names a1092 a1088 a1094
+11 1
+.names a1020 a876 a1096
+10 1
+.names a1096 a1012 a1098
+00 1
+.names a1098 a1076 a1100
+10 1
+.names a1100 a1094 a1102
+01 1
+.names a1102 a912 a1104
+11 1
+.names a1104 a1078 a1106
+10 1
+.names a1000 a978 a1108
+11 1
+.names a1108 a1106 a1110
+01 1
+.names a1110 a1082 a1112
+11 1
+.names a1066 a1056 a1114
+01 1
+.names a1114 a1068 a1116
+11 1
+.names a1114 a1088 a1118
+01 1
+.names a1118 a1106 a1120
+11 1
+.names a1120 a1116 a1122
+10 1
+.names a1122 a1112 a1124
+10 1
+.names a1124 a998 a1126
+11 1
+.names a1126 a978 a1128
+01 1
+.names a1090 a998 a1130
+00 1
+.names a1062 a1024 a1132
+11 1
+.names a1132 a1114 a1134
+01 1
+.names a1134 a1130 a1136
+10 1
+.names a1108 a1106 a1138
+01 1
+.names a1138 a1136 a1140
+10 1
+.names a992 a990 a1142
+11 1
+.names a1142 a792 a1144
+01 1
+.names a1144 a916 a1146
+00 1
+.names a972 a970 a1148
+01 1
+.names a1148 a994 a1150
+01 1
+.names a1150 a1062 a1152
+11 1
+.names a1152 a1146 a1154
+11 1
+.names a1154 a1146 a1156
+01 1
+.names a1156 a998 a1158
+00 1
+.names a1158 a1156 a1160
+00 1
+.names a1160 a1140 a1162
+10 1
+.names a1116 a1022 a1164
+00 1
+.names a1130 a1070 a1166
+01 1
+.names a1166 a1164 a1168
+00 1
+.names a1168 a1140 a1170
+10 1
+.names a1170 a1082 a1172
+10 1
+.names a1092 a1036 a1174
+00 1
+.names a1174 a1094 a1176
+10 1
+.names a1076 a1014 a1178
+10 1
+.names a1178 a1176 a1180
+11 1
+.names a1180 a1016 a1182
+11 1
+.names a1182 a1062 a1184
+10 1
+.names a1184 a1116 a1186
+10 1
+.names a1184 a1116 a1188
+11 1
+.names a1188 a1186 a1190
+11 1
+.names a1188 a1110 a1192
+00 1
+.names a1192 a1190 a1194
+11 1
+.names a1192 a1190 a1196
+11 1
+.names a1196 a1194 a1198
+10 1
+.names a1198 a1172 a1200
+10 1
+.names a1200 a1162 a1202
+00 1
+.names a1202 a1136 a1204
+11 1
+.names a1204 a1128 a1206
+11 1
+.names a1192 a1168 a1208
+00 1
+.names a1208 a1124 a1210
+11 1
+.names a1210 a1162 a1212
+11 1
+.names a1192 a1188 a1214
+11 1
+.names a1214 a1208 a1216
+10 1
+.names a1216 a1194 a1218
+01 1
+.names a1122 a1068 a1220
+11 1
+.names a1220 a1214 a1222
+11 1
+.names a1222 a1140 a1224
+01 1
+.names a1224 a1218 a1226
+00 1
+.names a1226 a1212 a1228
+10 1
+.names a1142 a1054 a1230
+00 1
+.names a1062 a1016 a1232
+11 1
+.names a1232 a1230 a1234
+10 1
+.names a1234 a1146 a1236
+00 1
+.names a1236 a1118 a1238
+10 1
+.names a1238 a1236 a1240
+01 1
+.names a1240 a1190 a1242
+11 1
+.names a1242 a1160 a1244
+10 1
+.names a1242 a1190 a1246
+10 1
+.names a1246 a1244 a1248
+11 1
+.names a1234 a1016 a1250
+10 1
+.names a1064 a974 a1252
+00 1
+.names a1252 a1132 a1254
+10 1
+.names a976 a974 a1256
+11 1
+.names a1256 a1254 a1258
+11 1
+.names a1258 a1250 a1260
+10 1
+.names a1118 a1104 a1262
+00 1
+.names a1262 a1260 a1264
+00 1
+.names a1264 a1168 a1266
+00 1
+.names a1266 a1242 a1268
+11 1
+.names a1186 a1166 a1270
+00 1
+.names a1166 a1164 a1272
+00 1
+.names a1272 a1270 a1274
+11 1
+.names a1274 a1192 a1276
+00 1
+.names a1276 a1268 a1278
+11 1
+.names a1222 a1162 a1280
+10 1
+.names a1280 a1276 a1282
+00 1
+.names a1282 a1278 a1284
+11 1
+.names a1284 a1248 a1286
+01 1
+.names a1286 a1228 a1288
+00 1
+.names a1288 a1206 a1290
+11 1
+.names a1266 a1162 a1292
+11 1
+.names a1292 a1210 a1294
+10 1
+.names a1224 a1212 a1296
+00 1
+.names a1296 a1294 a1298
+00 1
+.names a1216 a1200 a1300
+10 1
+.names a1300 a1282 a1302
+10 1
+.names a1302 a1298 a1304
+01 1
+.names a1274 a1128 a1306
+10 1
+.names a1306 a1294 a1308
+00 1
+.names a1216 a1200 a1310
+00 1
+.names a1310 a1172 a1312
+10 1
+.names a1312 a1308 a1314
+00 1
+.names a1314 a1304 a1316
+00 1
+.names a1208 a978 a1318
+10 1
+.names a1318 a1214 a1320
+11 1
+.names a1166 a1156 a1322
+01 1
+.names a1188 a1110 a1324
+10 1
+.names a1324 a1322 a1326
+11 1
+.names a1158 a1122 a1328
+00 1
+.names a1328 a1326 a1330
+00 1
+.names a1330 a1210 a1332
+11 1
+.names a1332 a1278 a1334
+10 1
+.names a1334 a1320 a1336
+10 1
+.names a1268 a1222 a1338
+01 1
+.names a1338 a1186 a1340
+11 1
+.names a1340 a1296 a1342
+00 1
+.names a1342 a1278 a1344
+11 1
+.names a1344 a1336 a1346
+00 1
+.names a1346 a1316 a1348
+11 1
+.names a1348 a1290 a1350
+10 1
+.names a1304 a1228 a1352
+00 1
+.names a1352 a1304 a1354
+00 1
+.names a1210 a1166 a1356
+11 1
+.names a1356 a1196 a1358
+01 1
+.names a1358 a1128 a1360
+10 1
+.names a1334 a1300 a1362
+11 1
+.names a1362 a1360 a1364
+00 1
+.names a1364 a1206 a1366
+10 1
+.names a1366 a1346 a1368
+01 1
+.names a1368 a1354 a1370
+11 1
+.names a1370 a1350 a1372
+10 1
+.names a1212 a1128 a1374
+01 1
+.names a1374 a1338 a1376
+00 1
+.names a1376 a1320 a1378
+00 1
+.names a1378 a1348 a1380
+11 1
+.names a1336 a1282 a1382
+11 1
+.names a1382 a1288 a1384
+11 1
+.names a1384 a1368 a1386
+11 1
+.names a1386 a1380 a1388
+01 1
+.names a1388 a1372 a1390
+00 1
+.names a1384 a1368 a1392
+01 1
+.names a1362 a1202 a1394
+10 1
+.names a1394 a1298 a1396
+11 1
+.names a1320 a1248 a1398
+01 1
+.names a1398 a1228 a1400
+10 1
+.names a1400 a1344 a1402
+10 1
+.names a1402 a1316 a1404
+00 1
+.names a1404 a1396 a1406
+00 1
+.names a1406 a1392 a1408
+01 1
+.names a1398 a1202 a1410
+10 1
+.names a1410 a1292 a1412
+11 1
+.names a1412 a1394 a1414
+01 1
+.names a1414 a1378 a1416
+10 1
+.names a1352 a1346 a1418
+10 1
+.names a1418 a1416 a1420
+01 1
+.names a1364 a1206 a1422
+11 1
+.names a1412 a1382 a1424
+10 1
+.names a1424 a1422 a1426
+11 1
+.names a1426 a1368 a1428
+00 1
+.names a1428 a1420 a1430
+01 1
+.names a1430 a1408 a1432
+10 1
+.names a1416 a1386 a1434
+00 1
+.names a1434 a1430 a1436
+01 1
+.names a1436 a1432 a1438
+11 1
+.names a1438 a1390 a1440
+10 1
+.names a1378 a1312 a1442
+10 1
+.names a1442 a1402 a1444
+01 1
+.names a1410 a1278 a1446
+00 1
+.names a1308 a1218 a1448
+01 1
+.names a1448 a1446 a1450
+00 1
+.names a1450 a1366 a1452
+11 1
+.names a1452 a1444 a1454
+00 1
+.names a1454 a1422 a1456
+10 1
+.names a1370 a1350 a1458
+01 1
+.names a1400 a1312 a1460
+01 1
+.names a1460 a1316 a1462
+10 1
+.names a1462 a1426 a1464
+01 1
+.names a1464 a1368 a1466
+01 1
+.names a1466 a1412 a1468
+11 1
+.names a1468 a1458 a1470
+01 1
+.names a1470 a1456 a1472
+10 1
+.names a1472 a1440 a1474
+11 1
+.names a1368 a1290 a1476
+01 1
+.names a1476 a1460 a1478
+01 1
+.names a1478 a1458 a1480
+01 1
+.names a1396 a1346 a1482
+00 1
+.names a1482 a1404 a1484
+11 1
+.names a1484 a1416 a1486
+10 1
+.names a1486 a1484 a1488
+00 1
+.names a1488 a1480 a1490
+11 1
+.names a1490 a1428 a1492
+11 1
+.names a1492 a1472 a1494
+00 1
+.names a1486 a1370 a1496
+10 1
+.names a1454 a1316 a1498
+00 1
+.names a1498 a1388 a1500
+10 1
+.names a1500 a1496 a1502
+10 1
+.names a1502 a1490 a1504
+01 1
+.names a1462 a1354 a1506
+01 1
+.names a1506 a1386 a1508
+11 1
+.names a1508 a1498 a1510
+10 1
+.names a1510 a1416 a1512
+01 1
+.names a1394 a1390 a1514
+11 1
+.names a1514 a1512 a1516
+11 1
+.names a1516 a1504 a1518
+10 1
+.names a1518 a1494 a1520
+11 1
+.names a1520 a1474 a1522
+10 1
+.names a1466 a1408 a1524
+00 1
+.names a1524 a1400 a1526
+10 1
+.names a1526 a1512 a1528
+10 1
+.names a1528 a1350 a1530
+11 1
+.names a1530 a1474 a1532
+00 1
+.names a1514 a1488 a1534
+00 1
+.names a1534 a1470 a1536
+10 1
+.names a1430 a1428 a1538
+00 1
+.names a1538 a1498 a1540
+01 1
+.names a1444 a1380 a1542
+11 1
+.names a1542 a1434 a1544
+00 1
+.names a1544 a1368 a1546
+01 1
+.names a1546 a1540 a1548
+11 1
+.names a1548 a1434 a1550
+11 1
+.names a1528 a1390 a1552
+10 1
+.names a1552 a1550 a1554
+11 1
+.names a1554 a1536 a1556
+01 1
+.names a1556 a1532 a1558
+10 1
+.names a1558 a1522 a1560
+00 1
+.names a1550 a1440 a1562
+01 1
+.names a1506 a1456 a1564
+01 1
+.names a1564 a1392 a1566
+01 1
+.names a1566 a1480 a1568
+00 1
+.names a1568 a1488 a1570
+00 1
+.names a1570 a1474 a1572
+10 1
+.names a1572 a1562 a1574
+11 1
+.names a1570 a1494 a1576
+11 1
+.names a1576 a1532 a1578
+11 1
+.names a1578 a1574 a1580
+11 1
+.names a1514 a1490 a1582
+01 1
+.names a1582 a1470 a1584
+01 1
+.names a1584 a1536 a1586
+11 1
+.names a1586 a1554 a1588
+00 1
+.names a1572 a1554 a1590
+11 1
+.names a1590 a1588 a1592
+00 1
+.names a1592 a1580 a1594
+00 1
+.names a1594 a1560 a1596
+10 1
+.names a1582 a1436 a1598
+11 1
+.names a1552 a1514 a1600
+10 1
+.names a1600 a1548 a1602
+10 1
+.names a1602 a1588 a1604
+00 1
+.names a1604 a1598 a1606
+10 1
+.names a1550 a1532 a1608
+01 1
+.names a1608 a1526 a1610
+00 1
+.names a1570 a1438 a1612
+01 1
+.names a1612 a1556 a1614
+00 1
+.names a1614 a1610 a1616
+11 1
+.names a1616 a1606 a1618
+11 1
+.names a1618 a1596 a1620
+11 1
+.names a1598 a1568 a1622
+10 1
+.names a1622 a1612 a1624
+00 1
+.names a1624 a1522 a1626
+01 1
+.names a1626 a1590 a1628
+10 1
+.names a1592 a1558 a1630
+00 1
+.names a1630 a1628 a1632
+10 1
+.names a1632 a1628 a1634
+00 1
+.names a1634 a1620 a1636
+01 1
+.names a1602 a1588 a1638
+11 1
+.names a1608 a1556 a1640
+00 1
+.names a1640 a1638 a1642
+10 1
+.names a1630 a1560 a1644
+10 1
+.names a1644 a1472 a1646
+01 1
+.names a1646 a1642 a1648
+00 1
+.names a1648 a1636 a1650
+11 1
+.names a1616 a1560 a1652
+11 1
+.names a1652 a1644 a1654
+01 1
+.names a1642 a1572 a1656
+01 1
+.names a1626 a1614 a1658
+10 1
+.names a1658 a1638 a1660
+01 1
+.names a1660 a1656 a1662
+11 1
+.names a1662 a1654 a1664
+01 1
+.names a1622 a1520 a1666
+11 1
+.names a1666 a1546 a1668
+10 1
+.names a1668 a1580 a1670
+01 1
+.names a1670 a1520 a1672
+01 1
+.names a1672 a1628 a1674
+11 1
+.names a1674 a1672 a1676
+11 1
+.names a1676 a1664 a1678
+01 1
+.names a1656 a1644 a1680
+11 1
+.names a1680 a1634 a1682
+11 1
+.names a1662 a1596 a1684
+10 1
+.names a1684 a1682 a1686
+10 1
+.names a1686 a1678 a1688
+00 1
+.names a1688 a1650 a1690
+01 1
+.names a1592 a1590 a1692
+11 1
+.names a1692 a1658 a1694
+11 1
+.names a1694 a1632 a1696
+01 1
+.names a1628 a1606 a1698
+10 1
+.names a1698 a1644 a1700
+11 1
+.names a1700 a1680 a1702
+11 1
+.names a1702 a1696 a1704
+01 1
+.names a1696 a1616 a1706
+00 1
+.names a1706 a1648 a1708
+00 1
+.names a1708 a1704 a1710
+01 1
+.names a1710 a1678 a1712
+10 1
+.names a1712 a1690 a1714
+11 1
+.names a1656 a1634 a1716
+00 1
+.names a1716 a1682 a1718
+01 1
+.names a1718 a1708 a1720
+11 1
+.names a1698 a1670 a1722
+11 1
+.names a1722 a1628 a1724
+11 1
+.names a1724 a1664 a1726
+11 1
+.names a1726 a1704 a1728
+01 1
+.names a1728 a1720 a1730
+00 1
+.names a1684 a1620 a1732
+00 1
+.names a1676 a1664 a1734
+11 1
+.names a1734 a1726 a1736
+01 1
+.names a1736 a1732 a1738
+10 1
+.names a1738 a1730 a1740
+00 1
+.names a1740 a1714 a1742
+01 1
+.names a1718 a1708 a1744
+10 1
+.names a1710 a1688 a1746
+10 1
+.names a1746 a1744 a1748
+11 1
+.names a1724 a1662 a1750
+01 1
+.names a1750 a1734 a1752
+01 1
+.names a1752 a1744 a1754
+00 1
+.names a1754 a1730 a1756
+01 1
+.names a1756 a1748 a1758
+10 1
+.names a1758 a1742 a1760
+00 1
+.names a1738 a1650 a1762
+00 1
+.names a1732 a1650 a1764
+11 1
+.names a1732 a1686 a1766
+11 1
+.names a1766 a1764 a1768
+10 1
+.names a1768 a1728 a1770
+00 1
+.names a1770 a1746 a1772
+10 1
+.names a1772 a1762 a1774
+01 1
+.names a1774 a1760 a1776
+01 1
+.names a1762 a1738 a1778
+01 1
+.names a1778 a1742 a1780
+10 1
+.names a1780 a1738 a1782
+10 1
+.names a1782 a1760 a1784
+10 1
+.names a1732 a1678 a1786
+00 1
+.names a1786 a1710 a1788
+01 1
+.names a1786 a1634 a1790
+01 1
+.names a1790 a1786 a1792
+00 1
+.names a1792 a1788 a1794
+01 1
+.names a1768 a1766 a1796
+11 1
+.names a1796 a1770 a1798
+10 1
+.names a1798 a1794 a1800
+00 1
+.names a1800 a1758 a1802
+00 1
+.names a1780 a1760 a1804
+10 1
+.names a1804 a1802 a1806
+01 1
+.names a1806 a1784 a1808
+00 1
+.names a1808 a1776 a1810
+10 1
+.names a1796 a1748 a1812
+11 1
+.names a1812 a1684 a1814
+10 1
+.names a1814 a1774 a1816
+00 1
+.names a1816 a1782 a1818
+00 1
+.names a1754 a1738 a1820
+11 1
+.names a1786 a1726 a1822
+11 1
+.names a1822 a1788 a1824
+01 1
+.names a1824 a1820 a1826
+10 1
+.names a1826 a1770 a1828
+01 1
+.names a1828 a1796 a1830
+00 1
+.names a1830 a1802 a1832
+01 1
+.names a1832 a1818 a1834
+11 1
+.names a1834 a1818 a1836
+01 1
+.names a1836 a1810 a1838
+00 1
+.names a1778 a1772 a1840
+10 1
+.names a1798 a1772 a1842
+10 1
+.names a1842 a1840 a1844
+10 1
+.names a1814 a1742 a1846
+01 1
+.names a1846 a1844 a1848
+00 1
+.names a1848 a1784 a1850
+01 1
+.names a1848 a1784 a1852
+10 1
+.names a1852 a1834 a1854
+11 1
+.names a1854 a1850 a1856
+10 1
+.names a1856 a1838 a1858
+01 1
+.names a1832 a1748 a1860
+00 1
+.names a1860 a1760 a1862
+10 1
+.names a1852 a1808 a1864
+11 1
+.names a1864 a1862 a1866
+00 1
+.names a1770 a1762 a1868
+11 1
+.names a1868 a1776 a1870
+01 1
+.names a1846 a1844 a1872
+10 1
+.names a1872 a1870 a1874
+00 1
+.names a1874 a1834 a1876
+10 1
+.names a1876 a1794 a1878
+00 1
+.names a1878 a1866 a1880
+00 1
+.names a1880 a1858 a1882
+11 1
+.names a1882 a1858 a1884
+00 1
+.names a1860 a1852 a1886
+10 1
+.names a1792 a1726 a1888
+10 1
+.names a1758 a1708 a1890
+10 1
+.names a1890 a1888 a1892
+10 1
+.names a1892 a1770 a1894
+00 1
+.names a1894 a1818 a1896
+11 1
+.names a1896 a1850 a1898
+11 1
+.names a1898 a1886 a1900
+10 1
+.names a1816 a1806 a1902
+01 1
+.names a1902 a1834 a1904
+10 1
+.names a1904 a1854 a1906
+00 1
+.names a1906 a1900 a1908
+11 1
+.names a1878 a1876 a1910
+00 1
+.names a1910 a1908 a1912
+11 1
+.names a1816 a1762 a1914
+11 1
+.names a1914 a1774 a1916
+00 1
+.names a1888 a1868 a1918
+11 1
+.names a1918 a1760 a1920
+11 1
+.names a1920 a1830 a1922
+01 1
+.names a1922 a1870 a1924
+10 1
+.names a1924 a1916 a1926
+10 1
+.names a1926 a1836 a1928
+11 1
+.names a1928 a1904 a1930
+11 1
+.names a1862 a1836 a1932
+10 1
+.names a1886 a1850 a1934
+01 1
+.names a1934 a1932 a1936
+01 1
+.names a1936 a1930 a1938
+00 1
+.names a1938 a1912 a1940
+01 1
+.names a1926 a1886 a1942
+10 1
+.names a1942 a1878 a1944
+11 1
+.names a1934 a1932 a1946
+00 1
+.names a1946 a1910 a1948
+01 1
+.names a1948 a1944 a1950
+01 1
+.names a1950 a1940 a1952
+10 1
+.names a1952 a1884 a1954
+10 1
+.names a1866 a1856 a1956
+11 1
+.names a1956 a1900 a1958
+00 1
+.names a1958 a1880 a1960
+10 1
+.names a1960 a1858 a1962
+11 1
+.names a1962 a1950 a1964
+00 1
+.names a1964 a1954 a1966
+00 1
+.names a1962 a1882 a1968
+00 1
+.names a1968 a1954 a1970
+01 1
+.names a1970 a1966 a1972
+10 1
+.names a1946 a1858 a1974
+00 1
+.names a1934 a1898 a1976
+11 1
+.names a1976 a1944 a1978
+00 1
+.names a1978 a1974 a1980
+00 1
+.names a1956 a1946 a1982
+10 1
+.names a1912 a1910 a1984
+01 1
+.names a1984 a1982 a1986
+01 1
+.names a1986 a1980 a1988
+00 1
+.names a1988 a1884 a1990
+00 1
+.names a1990 a1970 a1992
+11 1
+.names a1982 a1974 a1994
+11 1
+.names a1994 a1978 a1996
+11 1
+.names a1948 a1936 a1998
+10 1
+.names a1998 a1956 a2000
+11 1
+.names a2000 a1996 a2002
+10 1
+.names a1976 a1944 a2004
+10 1
+.names a2004 a1948 a2006
+01 1
+.names a2006 a1946 a2008
+00 1
+.names a1980 a1932 a2010
+01 1
+.names a2010 a2008 a2012
+10 1
+.names a2012 a2002 a2014
+00 1
+.names a2006 a1986 a2016
+01 1
+.names a2016 a2012 a2018
+00 1
+.names a2018 a2014 a2020
+00 1
+.names a2020 a1992 a2022
+01 1
+.names a1986 a1944 a2024
+10 1
+.names a2024 a1994 a2026
+00 1
+.names a1956 a1946 a2028
+11 1
+.names a2028 a1958 a2030
+01 1
+.names a2030 a1980 a2032
+00 1
+.names a1978 a1884 a2034
+00 1
+.names a2034 a2032 a2036
+00 1
+.names a1950 a1912 a2038
+00 1
+.names a2038 a1962 a2040
+00 1
+.names a2040 a2036 a2042
+01 1
+.names a2042 a2026 a2044
+01 1
+.names a2044 a1972 a2046
+10 1
+.names a2002 a1930 a2048
+10 1
+.names a2048 a1994 a2050
+10 1
+.names a2050 a2044 a2052
+01 1
+.names a2052 a2046 a2054
+00 1
+.names a2054 a2022 a2056
+11 1
+.names a2056 a1972 a2058
+10 1
+.names a2016 a1984 a2060
+00 1
+.names a2060 a1986 a2062
+10 1
+.names a1988 a1954 a2064
+11 1
+.names a2064 a2016 a2066
+11 1
+.names a2066 a2062 a2068
+10 1
+.names a2068 a2050 a2070
+00 1
+.names a2014 a1966 a2072
+00 1
+.names a2072 a2050 a2074
+01 1
+.names a2018 a1990 a2076
+01 1
+.names a2076 a2066 a2078
+10 1
+.names a2078 a2074 a2080
+11 1
+.names a2080 a2070 a2082
+00 1
+.names a2076 a2062 a2084
+10 1
+.names a2072 a2026 a2086
+11 1
+.names a2086 a2084 a2088
+11 1
+.names a2064 a2040 a2090
+01 1
+.names a2090 a2066 a2092
+01 1
+.names a2092 a2084 a2094
+10 1
+.names a2094 a2088 a2096
+10 1
+.names a2096 a2082 a2098
+10 1
+.names a2098 a2058 a2100
+10 1
+.names a2050 a2036 a2102
+00 1
+.names a2102 a2072 a2104
+10 1
+.names a2084 a2066 a2106
+00 1
+.names a2106 a2094 a2108
+11 1
+.names a2108 a2104 a2110
+11 1
+.names a2084 a2074 a2112
+00 1
+.names a2112 a2068 a2114
+11 1
+.names a2114 a2070 a2116
+10 1
+.names a2116 a2110 a2118
+11 1
+.names a2118 a2100 a2120
+01 1
+.names a2054 a2020 a2122
+00 1
+.names a2122 a2044 a2124
+11 1
+.names a2124 a2110 a2126
+10 1
+.names a2126 a2116 a2128
+11 1
+.names a2128 a2120 a2130
+10 1
+.names a2088 a2078 a2132
+01 1
+.names a2092 a2022 a2134
+00 1
+.names a2102 a2078 a2136
+00 1
+.names a2136 a2134 a2138
+00 1
+.names a2138 a2132 a2140
+10 1
+.names a2140 a2132 a2142
+01 1
+.names a2140 a2124 a2144
+11 1
+.names a2144 a2142 a2146
+11 1
+.names a2138 a2070 a2148
+10 1
+.names a2148 a2114 a2150
+10 1
+.names a2116 a2096 a2152
+01 1
+.names a2152 a2150 a2154
+10 1
+.names a2154 a2146 a2156
+01 1
+.names a2142 a2126 a2158
+01 1
+.names a2158 a2154 a2160
+10 1
+.names a2160 a2156 a2162
+10 1
+.names a2162 a2130 a2164
+01 1
+.names a2144 a2058 a2166
+10 1
+.names a2166 a2154 a2168
+10 1
+.names a2168 a2156 a2170
+01 1
+.names a2102 a2094 a2172
+00 1
+.names a2172 a2106 a2174
+10 1
+.names a2174 a2152 a2176
+01 1
+.names a2176 a2160 a2178
+11 1
+.names a2178 a2170 a2180
+11 1
+.names a2180 a2164 a2182
+10 1
+.names a2172 a2070 a2184
+01 1
+.names a2184 a2176 a2186
+10 1
+.names a2186 a2100 a2188
+00 1
+.names a2168 a2130 a2190
+01 1
+.names a2190 a2188 a2192
+00 1
+.names a2170 a2112 a2194
+01 1
+.names a2194 a2192 a2196
+11 1
+.names a2196 a2182 a2198
+11 1
+.names a2196 a2192 a2200
+11 1
+.names a2200 a2198 a2202
+11 1
+.names a2118 a2096 a2204
+11 1
+.names a2204 a2148 a2206
+01 1
+.names a2206 a2194 a2208
+01 1
+.names a2104 a2066 a2210
+10 1
+.names a2210 a2082 a2212
+01 1
+.names a2212 a2174 a2214
+01 1
+.names a2184 a2116 a2216
+10 1
+.names a2216 a2214 a2218
+01 1
+.names a2218 a2172 a2220
+11 1
+.names a2184 a2082 a2222
+00 1
+.names a2222 a2126 a2224
+01 1
+.names a2224 a2204 a2226
+01 1
+.names a2226 a2220 a2228
+10 1
+.names a2228 a2178 a2230
+00 1
+.names a2230 a2194 a2232
+00 1
+.names a2232 a2208 a2234
+00 1
+.names a2234 a2200 a2236
+11 1
+.names a2236 a2202 a2238
+01 1
+.names a2206 a2162 a2240
+10 1
+.names a2226 a2176 a2242
+10 1
+.names a2242 a2240 a2244
+00 1
+.names a2214 a2192 a2246
+01 1
+.names a2246 a2244 a2248
+11 1
+.names a2248 a2240 a2250
+01 1
+.names a2250 a2200 a2252
+10 1
+.names a2252 a2238 a2254
+00 1
+.names a2230 a2164 a2256
+01 1
+.names a2256 a2230 a2258
+11 1
+.names a2206 a2160 a2260
+10 1
+.names a2260 a2242 a2262
+01 1
+.names a2262 a2244 a2264
+01 1
+.names a2264 a2258 a2266
+00 1
+.names a2266 a2250 a2268
+00 1
+.names a2268 a2238 a2270
+10 1
+.names a2224 a2056 a2272
+11 1
+.names a2166 a2158 a2274
+11 1
+.names a2274 a2272 a2276
+10 1
+.names a2226 a2152 a2278
+11 1
+.names a2278 a2276 a2280
+01 1
+.names a2246 a2180 a2282
+10 1
+.names a2208 a2196 a2284
+00 1
+.names a2284 a2282 a2286
+10 1
+.names a2228 a2162 a2288
+10 1
+.names a2288 a2262 a2290
+00 1
+.names a2290 a2164 a2292
+10 1
+.names a2292 a2248 a2294
+10 1
+.names a2294 a2286 a2296
+00 1
+.names a2296 a2280 a2298
+10 1
+.names a2298 a2270 a2300
+10 1
+.names a2300 a2254 a2302
+11 1
+.names a2280 a2110 a2304
+00 1
+.names a2242 a2162 a2306
+10 1
+.names a2306 a2272 a2308
+10 1
+.names a2308 a2304 a2310
+11 1
+.names a2310 a2208 a2312
+10 1
+.names a2312 a2266 a2314
+10 1
+.names a2314 a2296 a2316
+00 1
+.names a2314 a2296 a2318
+01 1
+.names a2318 a2316 a2320
+01 1
+.names a2276 a2234 a2322
+11 1
+.names a2322 a2288 a2324
+00 1
+.names a2324 a2162 a2326
+10 1
+.names a2326 a2294 a2328
+00 1
+.names a2328 a2320 a2330
+11 1
+.names a2330 a2302 a2332
+00 1
+.names a2322 a2252 a2334
+01 1
+.names a2334 a2254 a2336
+11 1
+.names a2336 a2252 a2338
+11 1
+.names a2248 a2226 a2340
+10 1
+.names a2340 a2266 a2342
+10 1
+.names a2312 a2248 a2344
+01 1
+.names a2344 a2342 a2346
+11 1
+.names a2346 a2342 a2348
+10 1
+.names a2234 a2200 a2350
+11 1
+.names a2350 a2292 a2352
+11 1
+.names a2352 a2312 a2354
+10 1
+.names a2354 a2344 a2356
+10 1
+.names a2356 a2348 a2358
+01 1
+.names a2358 a2330 a2360
+01 1
+.names a2360 a2338 a2362
+01 1
+.names a2362 a2332 a2364
+11 1
+.names a2354 a2298 a2366
+10 1
+.names a2366 a2202 a2368
+11 1
+.names a2366 a2318 a2370
+10 1
+.names a2352 a2270 a2372
+00 1
+.names a2372 a2286 a2374
+01 1
+.names a2374 a2370 a2376
+11 1
+.names a2376 a2368 a2378
+00 1
+.names a2318 a2270 a2380
+11 1
+.names a2380 a2270 a2382
+01 1
+.names a2382 a2338 a2384
+10 1
+.names a2384 a2360 a2386
+11 1
+.names a2386 a2378 a2388
+11 1
+.names a2370 a2358 a2390
+00 1
+.names a2390 a2378 a2392
+00 1
+.names a2392 a2388 a2394
+00 1
+.names a2394 a2364 a2396
+11 1
+.names a2390 a2332 a2398
+01 1
+.names a2322 a2200 a2400
+01 1
+.names a2400 a2324 a2402
+00 1
+.names a2402 a2296 a2404
+11 1
+.names a2404 a2344 a2406
+11 1
+.names a2328 a2320 a2408
+00 1
+.names a2408 a2406 a2410
+10 1
+.names a2410 a2326 a2412
+10 1
+.names a2412 a2398 a2414
+01 1
+.names a2406 a2270 a2416
+10 1
+.names a2416 a2374 a2418
+10 1
+.names a2418 a2416 a2420
+00 1
+.names a2420 a2414 a2422
+10 1
+.names a2408 a2368 a2424
+10 1
+.names a2424 a2358 a2426
+01 1
+.names a2372 a2368 a2428
+11 1
+.names a2358 a2330 a2430
+00 1
+.names a2430 a2428 a2432
+01 1
+.names a2432 a2426 a2434
+10 1
+.names a2434 a2388 a2436
+10 1
+.names a2436 a2422 a2438
+11 1
+.names a2410 a2282 a2440
+11 1
+.names a2440 a2390 a2442
+10 1
+.names a2442 a2364 a2444
+00 1
+.names a2424 a2332 a2446
+10 1
+.names a2446 a2376 a2448
+00 1
+.names a2448 a2392 a2450
+01 1
+.names a2450 a2444 a2452
+00 1
+.names a2452 a2442 a2454
+01 1
+.names a2454 a2438 a2456
+01 1
+.names a2456 a2396 a2458
+01 1
+.names a2450 a2386 a2460
+11 1
+.names a2460 a2414 a2462
+00 1
+.names a2418 a2390 a2464
+01 1
+.names a2464 a2420 a2466
+10 1
+.names a2394 a2364 a2468
+11 1
+.names a2468 a2466 a2470
+10 1
+.names a2470 a2462 a2472
+00 1
+.names a2454 a2364 a2474
+01 1
+.names a2474 a2472 a2476
+01 1
+.names a2476 a2458 a2478
+11 1
+.names a2420 a2392 a2480
+11 1
+.names a2480 a2444 a2482
+10 1
+.names a2482 a2468 a2484
+10 1
+.names a2460 a2388 a2486
+10 1
+.names a2486 a2452 a2488
+01 1
+.names a2488 a2452 a2490
+10 1
+.names a2490 a2484 a2492
+00 1
+.names a2492 a2478 a2494
+00 1
+.names a2482 a2454 a2496
+01 1
+.names a2496 a2474 a2498
+11 1
+.names a2386 a2362 a2500
+11 1
+.names a2500 a2464 a2502
+01 1
+.names a2502 a2386 a2504
+00 1
+.names a2504 a2438 a2506
+01 1
+.names a2506 a2484 a2508
+10 1
+.names a2508 a2462 a2510
+11 1
+.names a2500 a2414 a2512
+00 1
+.names a2420 a2388 a2514
+11 1
+.names a2514 a2512 a2516
+01 1
+.names a2516 a2396 a2518
+00 1
+.names a2518 a2444 a2520
+01 1
+.names a2520 a2472 a2522
+00 1
+.names a2522 a2510 a2524
+01 1
+.names a2524 a2498 a2526
+10 1
+.names a2526 a2494 a2528
+10 1
+.names a2480 a2426 a2530
+11 1
+.names a2530 a2452 a2532
+00 1
+.names a2466 a2414 a2534
+11 1
+.names a2534 a2466 a2536
+10 1
+.names a2536 a2532 a2538
+00 1
+.names a2538 a2454 a2540
+10 1
+.names a2530 a2438 a2542
+11 1
+.names a2542 a2518 a2544
+01 1
+.names a2544 a2542 a2546
+10 1
+.names a2546 a2540 a2548
+10 1
+.names a2548 a2486 a2550
+00 1
+.names a2550 a2526 a2552
+00 1
+.names a2544 a2520 a2554
+01 1
+.names a2554 a2506 a2556
+01 1
+.names a2556 a2536 a2558
+00 1
+.names a2532 a2518 a2560
+01 1
+.names a2560 a2544 a2562
+01 1
+.names a2562 a2472 a2564
+01 1
+.names a2564 a2524 a2566
+11 1
+.names a2566 a2558 a2568
+01 1
+.names a2568 a2552 a2570
+11 1
+.names a2570 a2528 a2572
+11 1
+.names a2478 a2476 a2574
+01 1
+.names a2574 a2568 a2576
+11 1
+.names a2576 a2494 a2578
+00 1
+.names a2558 a2494 a2580
+00 1
+.names a2580 a2568 a2582
+00 1
+.names a2520 a2498 a2584
+10 1
+.names a2584 a2524 a2586
+00 1
+.names a2586 a2526 a2588
+01 1
+.names a2588 a2566 a2590
+01 1
+.names a2590 a2582 a2592
+00 1
+.names a2592 a2578 a2594
+10 1
+.names a2594 a2572 a2596
+10 1
+.names a2504 a2492 a2598
+00 1
+.names a2598 a2526 a2600
+11 1
+.names a2600 a2568 a2602
+00 1
+.names a2552 a2528 a2604
+11 1
+.names a2560 a2554 a2606
+01 1
+.names a2606 a2564 a2608
+00 1
+.names a2608 a2598 a2610
+00 1
+.names a2600 a2588 a2612
+10 1
+.names a2612 a2610 a2614
+01 1
+.names a2614 a2604 a2616
+00 1
+.names a2616 a2602 a2618
+10 1
+.names a2610 a2540 a2620
+01 1
+.names a2620 a2604 a2622
+11 1
+.names a2614 a2576 a2624
+00 1
+.names a2624 a2622 a2626
+11 1
+.names a2626 a2618 a2628
+01 1
+.names a2628 a2596 a2630
+01 1
+.names a2562 a2520 a2632
+00 1
+.names a2498 a2476 a2634
+11 1
+.names a2634 a2632 a2636
+11 1
+.names a2636 a2558 a2638
+01 1
+.names a2638 a2604 a2640
+11 1
+.names a2640 a2624 a2642
+11 1
+.names a2642 a2596 a2644
+00 1
+.names a2614 a2578 a2646
+00 1
+.names a2646 a2594 a2648
+10 1
+.names a2574 a2556 a2650
+00 1
+.names a2650 a2582 a2652
+01 1
+.names a2652 a2572 a2654
+00 1
+.names a2652 a2622 a2656
+10 1
+.names a2656 a2654 a2658
+10 1
+.names a2658 a2648 a2660
+00 1
+.names a2660 a2644 a2662
+01 1
+.names a2662 a2630 a2664
+10 1
+.names a2624 a2614 a2666
+10 1
+.names a2666 a2642 a2668
+10 1
+.names a2650 a2638 a2670
+11 1
+.names a2670 a2602 a2672
+00 1
+.names a2672 a2622 a2674
+01 1
+.names a2620 a2550 a2676
+00 1
+.names a2676 a2552 a2678
+00 1
+.names a2678 a2674 a2680
+01 1
+.names a2680 a2594 a2682
+10 1
+.names a2682 a2668 a2684
+00 1
+.names a2566 a2550 a2686
+01 1
+.names a2686 a2610 a2688
+01 1
+.names a2688 a2588 a2690
+01 1
+.names a2690 a2640 a2692
+10 1
+.names a2640 a2564 a2694
+10 1
+.names a2694 a2692 a2696
+10 1
+.names a2674 a2596 a2698
+00 1
+.names a2698 a2696 a2700
+00 1
+.names a2700 a2684 a2702
+11 1
+.names a2702 a2664 a2704
+11 1
+.names a2696 a2624 a2706
+10 1
+.names a2706 a2698 a2708
+10 1
+.names a2684 a2630 a2710
+10 1
+.names a2710 a2708 a2712
+10 1
+.names a2712 a2704 a2714
+01 1
+.names a2696 a2680 a2716
+11 1
+.names a2716 a2658 a2718
+01 1
+.names a2718 a2644 a2720
+01 1
+.names a2720 a2716 a2722
+01 1
+.names a2682 a2668 a2724
+01 1
+.names a2724 a2708 a2726
+00 1
+.names a2726 a2648 a2728
+10 1
+.names a2728 a2722 a2730
+01 1
+.names a2730 a2684 a2732
+01 1
+.names a2732 a2714 a2734
+01 1
+.names a2674 a2572 a2736
+10 1
+.names a2736 a2672 a2738
+10 1
+.names a2696 a2596 a2740
+10 1
+.names a2740 a2738 a2742
+00 1
+.names a2742 a2682 a2744
+01 1
+.names a2724 a2644 a2746
+10 1
+.names a2746 a2744 a2748
+11 1
+.names a2748 a2714 a2750
+00 1
+.names a2750 a2748 a2752
+00 1
+.names a2752 a2734 a2754
+11 1
+.names a2716 a2698 a2756
+10 1
+.names a2756 a2704 a2758
+00 1
+.names a2740 a2668 a2760
+11 1
+.names a2760 a2708 a2762
+11 1
+.names a2762 a2708 a2764
+10 1
+.names a2764 a2748 a2766
+00 1
+.names a2766 a2758 a2768
+11 1
+.names a2756 a2708 a2770
+00 1
+.names a2770 a2710 a2772
+11 1
+.names a2772 a2704 a2774
+00 1
+.names a2774 a2730 a2776
+11 1
+.names a2776 a2768 a2778
+00 1
+.names a2768 a2732 a2780
+01 1
+.names a2780 a2778 a2782
+01 1
+.names a2782 a2754 a2784
+11 1
+.names a2770 a2712 a2786
+11 1
+.names a2728 a2664 a2788
+10 1
+.names a2788 a2786 a2790
+11 1
+.names a2724 a2708 a2792
+10 1
+.names a2792 a2770 a2794
+10 1
+.names a2794 a2792 a2796
+11 1
+.names a2796 a2712 a2798
+00 1
+.names a2798 a2790 a2800
+01 1
+.names a2800 a2778 a2802
+11 1
+.names a2800 a2798 a2804
+01 1
+.names a2804 a2802 a2806
+11 1
+.names a2778 a2732 a2808
+01 1
+.names a2808 a2752 a2810
+01 1
+.names a2810 a2806 a2812
+00 1
+.names a2812 a2784 a2814
+00 1
+.names a2774 a2722 a2816
+10 1
+.names a2816 a2774 a2818
+10 1
+.names a2818 a2752 a2820
+01 1
+.names a2794 a2714 a2822
+01 1
+.names a2746 a2724 a2824
+00 1
+.names a2792 a2664 a2826
+10 1
+.names a2826 a2824 a2828
+01 1
+.names a2828 a2748 a2830
+11 1
+.names a2830 a2822 a2832
+01 1
+.names a2832 a2734 a2834
+00 1
+.names a2834 a2820 a2836
+11 1
+.names a2836 a2810 a2838
+00 1
+.names a2806 a2754 a2840
+11 1
+.names a2840 a2838 a2842
+11 1
+.names a2842 a2814 a2844
+01 1
+.names a2798 a2780 a2846
+10 1
+.names a2846 a2820 a2848
+00 1
+.names a2768 a2754 a2850
+01 1
+.names a2850 a2848 a2852
+01 1
+.names a2852 a2838 a2854
+00 1
+.names a2764 a2748 a2856
+11 1
+.names a2856 a2828 a2858
+01 1
+.names a2858 a2816 a2860
+01 1
+.names a2822 a2798 a2862
+10 1
+.names a2862 a2860 a2864
+11 1
+.names a2864 a2804 a2866
+01 1
+.names a2866 a2784 a2868
+11 1
+.names a2868 a2840 a2870
+11 1
+.names a2870 a2854 a2872
+10 1
+.names a2872 a2844 a2874
+01 1
+.names a2802 a2800 a2876
+01 1
+.names a2876 a2834 a2878
+10 1
+.names a2878 a2810 a2880
+01 1
+.names a2880 a2876 a2882
+10 1
+.names a2816 a2798 a2884
+01 1
+.names a2884 a2798 a2886
+10 1
+.names a2886 a2864 a2888
+11 1
+.names a2888 a2806 a2890
+10 1
+.names a2834 a2808 a2892
+01 1
+.names a2892 a2848 a2894
+00 1
+.names a2894 a2890 a2896
+11 1
+.names a2896 a2880 a2898
+00 1
+.names a2898 a2882 a2900
+10 1
+.names a2900 a2874 a2902
+01 1
+.names a2890 a2838 a2904
+01 1
+.names a2904 a2854 a2906
+01 1
+.names a2880 a2854 a2908
+00 1
+.names a2908 a2906 a2910
+10 1
+.names a2892 a2784 a2912
+01 1
+.names a2912 a2812 a2914
+10 1
+.names a2914 a2870 a2916
+10 1
+.names a2884 a2842 a2918
+00 1
+.names a2918 a2916 a2920
+11 1
+.names a2920 a2910 a2922
+01 1
+.names a2896 a2840 a2924
+01 1
+.names a2924 a2838 a2926
+11 1
+.names a2926 a2906 a2928
+10 1
+.names a2928 a2922 a2930
+11 1
+.names a2930 a2902 a2932
+10 1
+.names a2892 a2876 a2934
+10 1
+.names a2934 a2866 a2936
+00 1
+.names a2878 a2852 a2938
+00 1
+.names a2938 a2936 a2940
+00 1
+.names a2898 a2848 a2942
+01 1
+.names a2942 a2940 a2944
+01 1
+.names a2872 a2844 a2946
+00 1
+.names a2898 a2882 a2948
+10 1
+.names a2948 a2946 a2950
+00 1
+.names a2950 a2902 a2952
+10 1
+.names a2952 a2944 a2954
+11 1
+.names a2952 a2950 a2956
+10 1
+.names a2956 a2954 a2958
+11 1
+.names a2942 a2920 a2960
+00 1
+.names a2960 a2928 a2962
+00 1
+.names a2916 a2812 a2964
+10 1
+.names a2964 a2874 a2966
+01 1
+.names a2966 a2960 a2968
+01 1
+.names a2968 a2962 a2970
+01 1
+.names a2902 a2872 a2972
+11 1
+.names a2928 a2900 a2974
+01 1
+.names a2974 a2972 a2976
+01 1
+.names a2976 a2970 a2978
+10 1
+.names a2978 a2958 a2980
+10 1
+.names a2980 a2932 a2982
+11 1
+.names a2940 a2914 a2984
+10 1
+.names a2984 a2900 a2986
+10 1
+.names a2942 a2910 a2988
+10 1
+.names a2988 a2986 a2990
+00 1
+.names a2966 a2910 a2992
+00 1
+.names a2992 a2990 a2994
+11 1
+.names a2964 a2920 a2996
+01 1
+.names a2996 a2944 a2998
+10 1
+.names a2998 a2930 a3000
+11 1
+.names a3000 a2994 a3002
+00 1
+.names a3002 a2956 a3004
+11 1
+.names a3004 a2980 a3006
+11 1
+.names a3006 a2982 a3008
+01 1
+.names a2974 a2944 a3010
+11 1
+.names a3010 a2932 a3012
+00 1
+.names a3012 a3000 a3014
+01 1
+.names a3014 a3006 a3016
+01 1
+.names a3016 a3008 a3018
+10 1
+.names a2944 a2924 a3020
+01 1
+.names a3020 a2998 a3022
+00 1
+.names a3022 a2994 a3024
+10 1
+.names a3024 a2992 a3026
+11 1
+.names a3026 a3004 a3028
+01 1
+.names a2972 a2970 a3030
+10 1
+.names a3030 a2978 a3032
+00 1
+.names a3032 a2980 a3034
+00 1
+.names a3034 a3028 a3036
+00 1
+.names a2998 a2962 a3038
+00 1
+.names a3038 a2962 a3040
+11 1
+.names a3040 a2958 a3042
+11 1
+.names a3030 a2958 a3044
+00 1
+.names a3044 a3042 a3046
+11 1
+.names a2994 a2916 a3048
+10 1
+.names a3048 a3030 a3050
+10 1
+.names a3050 a3004 a3052
+00 1
+.names a3052 a3046 a3054
+01 1
+.names a3054 a3036 a3056
+01 1
+.names a3056 a2992 a3058
+01 1
+.names a3058 a3018 a3060
+00 1
+.names a3042 a3026 a3062
+00 1
+.names a3062 a2982 a3064
+11 1
+.names a3050 a2982 a3066
+11 1
+.names a3066 a3064 a3068
+01 1
+.names a3068 a3018 a3070
+11 1
+.names a3070 a3058 a3072
+00 1
+.names a3072 a3060 a3074
+10 1
+.names a3012 a2974 a3076
+10 1
+.names a3076 a2998 a3078
+00 1
+.names a3078 a3062 a3080
+01 1
+.names a3080 a3066 a3082
+11 1
+.names a3000 a2932 a3084
+00 1
+.names a3084 a3014 a3086
+00 1
+.names a3086 a3046 a3088
+01 1
+.names a3088 a3066 a3090
+10 1
+.names a3034 a3006 a3092
+10 1
+.names a3092 a3064 a3094
+01 1
+.names a3094 a3090 a3096
+00 1
+.names a3094 a3056 a3098
+01 1
+.names a3098 a3096 a3100
+10 1
+.names a3100 a3082 a3102
+10 1
+.names a3102 a3074 a3104
+01 1
+.names a3070 a3064 a3106
+01 1
+.names a3022 a2976 a3108
+01 1
+.names a3108 a3084 a3110
+11 1
+.names a3110 a3022 a3112
+00 1
+.names a3112 a3050 a3114
+01 1
+.names a3114 a3080 a3116
+10 1
+.names a3092 a3054 a3118
+01 1
+.names a3118 a3116 a3120
+00 1
+.names a3120 a3090 a3122
+11 1
+.names a3122 a3106 a3124
+11 1
+.names a3124 a3074 a3126
+01 1
+.names a3120 a3106 a3128
+10 1
+.names a3122 a3098 a3130
+01 1
+.names a3130 a3128 a3132
+00 1
+.names a3132 a3126 a3134
+01 1
+.names a3094 a3082 a3136
+11 1
+.names a3136 a3118 a3138
+00 1
+.names a3016 a3008 a3140
+00 1
+.names a3140 a3056 a3142
+10 1
+.names a3142 a3120 a3144
+00 1
+.names a3144 a3138 a3146
+01 1
+.names a3080 a3008 a3148
+11 1
+.names a3148 a3140 a3150
+10 1
+.names a3148 a3018 a3152
+10 1
+.names a3152 a3150 a3154
+00 1
+.names a3154 a3122 a3156
+10 1
+.names a3156 a3146 a3158
+00 1
+.names a3158 a3104 a3160
+11 1
+.names a3160 a3134 a3162
+10 1
+.names a3106 a3072 a3164
+01 1
+.names a3118 a3116 a3166
+10 1
+.names a3166 a3068 a3168
+01 1
+.names a3146 a3102 a3170
+10 1
+.names a3170 a3168 a3172
+00 1
+.names a3172 a3164 a3174
+01 1
+.names a3174 a3162 a3176
+11 1
+.names a3138 a3098 a3178
+00 1
+.names a3178 a3164 a3180
+10 1
+.names a3180 a3156 a3182
+10 1
+.names a3182 a3126 a3184
+01 1
+.names a3184 a3162 a3186
+00 1
+.names a3186 a3176 a3188
+10 1
+.names a3188 a3104 a3190
+11 1
+.names a3184 a3080 a3192
+01 1
+.names a3130 a3104 a3194
+11 1
+.names a3120 a3058 a3196
+01 1
+.names a3196 a3168 a3198
+00 1
+.names a3198 a3102 a3200
+11 1
+.names a3200 a3180 a3202
+11 1
+.names a3202 a3194 a3204
+10 1
+.names a3202 a3156 a3206
+01 1
+.names a3206 a3204 a3208
+01 1
+.names a3208 a3176 a3210
+01 1
+.names a3210 a3192 a3212
+10 1
+.names a3178 a3164 a3214
+01 1
+.names a3214 a3158 a3216
+10 1
+.names a3180 a3158 a3218
+01 1
+.names a3218 a3216 a3220
+01 1
+.names a3218 a3172 a3222
+10 1
+.names a3222 a3220 a3224
+00 1
+.names a3170 a3168 a3226
+01 1
+.names a3156 a3130 a3228
+11 1
+.names a3146 a3120 a3230
+11 1
+.names a3230 a3228 a3232
+00 1
+.names a3232 a3226 a3234
+10 1
+.names a3226 a3172 a3236
+10 1
+.names a3236 a3234 a3238
+10 1
+.names a3238 a3224 a3240
+01 1
+.names a3194 a3182 a3242
+00 1
+.names a3242 a3160 a3244
+10 1
+.names a3244 a3192 a3246
+10 1
+.names a3246 a3240 a3248
+00 1
+.names a3248 a3212 a3250
+11 1
+.names a3250 a3190 a3252
+00 1
+.names a3186 a3176 a3254
+11 1
+.names a3254 a3246 a3256
+11 1
+.names a3256 a3190 a3258
+11 1
+.names a3258 a3212 a3260
+00 1
+.names a3260 a3252 a3262
+11 1
+.names a3244 a3162 a3264
+10 1
+.names a3264 a3186 a3266
+11 1
+.names a3214 a3162 a3268
+11 1
+.names a3268 a3192 a3270
+00 1
+.names a3184 a3176 a3272
+10 1
+.names a3272 a3270 a3274
+01 1
+.names a3274 a3266 a3276
+01 1
+.names a3248 a3208 a3278
+11 1
+.names a3278 a3250 a3280
+10 1
+.names a3280 a3276 a3282
+11 1
+.names a3282 a3262 a3284
+10 1
+.names a3276 a3270 a3286
+10 1
+.names a3286 a3246 a3288
+11 1
+.names a3254 a3246 a3290
+11 1
+.names a3290 a3186 a3292
+01 1
+.names a3292 a3248 a3294
+10 1
+.names a3254 a3220 a3296
+00 1
+.names a3274 a3264 a3298
+10 1
+.names a3298 a3296 a3300
+11 1
+.names a3300 a3294 a3302
+10 1
+.names a3302 a3288 a3304
+00 1
+.names a3304 a3284 a3306
+10 1
+.names a3296 a3238 a3308
+01 1
+.names a3184 a3134 a3310
+11 1
+.names a3234 a3206 a3312
+01 1
+.names a3312 a3310 a3314
+10 1
+.names a3314 a3242 a3316
+11 1
+.names a3316 a3266 a3318
+01 1
+.names a3318 a3308 a3320
+00 1
+.names a3320 a3294 a3322
+10 1
+.names a3300 a3292 a3324
+11 1
+.names a3324 a3322 a3326
+10 1
+.names a3326 a3260 a3328
+01 1
+.names a3328 a3306 a3330
+00 1
+.names a3224 a3162 a3332
+01 1
+.names a3332 a3254 a3334
+10 1
+.names a3334 a3224 a3336
+00 1
+.names a3336 a3278 a3338
+00 1
+.names a3316 a3184 a3340
+00 1
+.names a3340 a3292 a3342
+11 1
+.names a3342 a3338 a3344
+01 1
+.names a3300 a3134 a3346
+10 1
+.names a3346 a3344 a3348
+10 1
+.names a3340 a3248 a3350
+11 1
+.names a3350 a3240 a3352
+11 1
+.names a3352 a3322 a3354
+11 1
+.names a3354 a3348 a3356
+00 1
+.names a3346 a3286 a3358
+00 1
+.names a3358 a3304 a3360
+11 1
+.names a3360 a3356 a3362
+10 1
+.names a3362 a3330 a3364
+11 1
+.names a3356 a3328 a3366
+10 1
+.names a3366 a3328 a3368
+01 1
+.names a3368 a3364 a3370
+01 1
+.names a3326 a3284 a3372
+00 1
+.names a3372 a3304 a3374
+00 1
+.names a3350 a3248 a3376
+10 1
+.names a3376 a3258 a3378
+01 1
+.names a3378 a3326 a3380
+01 1
+.names a3344 a3260 a3382
+10 1
+.names a3382 a3378 a3384
+00 1
+.names a3384 a3380 a3386
+00 1
+.names a3386 a3380 a3388
+10 1
+.names a3388 a3374 a3390
+10 1
+.names a3390 a3370 a3392
+11 1
+.names a3384 a3352 a3394
+11 1
+.names a3394 a3304 a3396
+11 1
+.names a3396 a3394 a3398
+01 1
+.names a3346 a3286 a3400
+11 1
+.names a3400 a3352 a3402
+01 1
+.names a3352 a3252 a3404
+01 1
+.names a3404 a3358 a3406
+00 1
+.names a3406 a3308 a3408
+00 1
+.names a3408 a3402 a3410
+00 1
+.names a3358 a3348 a3412
+10 1
+.names a3412 a3356 a3414
+00 1
+.names a3414 a3374 a3416
+01 1
+.names a3416 a3410 a3418
+10 1
+.names a3418 a3398 a3420
+10 1
+.names a3420 a3398 a3422
+10 1
+.names a3422 a3392 a3424
+11 1
+.names a3412 a3304 a3426
+11 1
+.names a3426 a3412 a3428
+01 1
+.names a3426 a3374 a3430
+01 1
+.names a3430 a3290 a3432
+11 1
+.names a3432 a3428 a3434
+11 1
+.names a3432 a3390 a3436
+00 1
+.names a3436 a3434 a3438
+11 1
+.names a3416 a3398 a3440
+00 1
+.names a3440 a3436 a3442
+11 1
+.names a3442 a3438 a3444
+01 1
+.names a3392 a3390 a3446
+00 1
+.names a3416 a3366 a3448
+01 1
+.names a3448 a3434 a3450
+01 1
+.names a3450 a3446 a3452
+10 1
+.names a3452 a3444 a3454
+11 1
+.names a3454 a3424 a3456
+11 1
+.names a3426 a3356 a3458
+11 1
+.names a3458 a3380 a3460
+00 1
+.names a3402 a3306 a3462
+01 1
+.names a3462 a3384 a3464
+01 1
+.names a3464 a3428 a3466
+10 1
+.names a3466 a3460 a3468
+01 1
+.names a3458 a3388 a3470
+00 1
+.names a3470 a3398 a3472
+00 1
+.names a3472 a3468 a3474
+10 1
+.names a3474 a3436 a3476
+00 1
+.names a3470 a3436 a3478
+01 1
+.names a3440 a3416 a3480
+11 1
+.names a3480 a3478 a3482
+00 1
+.names a3482 a3476 a3484
+01 1
+.names a3480 a3476 a3486
+10 1
+.names a3486 a3484 a3488
+11 1
+.names a3488 a3456 a3490
+10 1
+.names a3470 a3418 a3492
+01 1
+.names a3462 a3368 a3494
+01 1
+.names a3494 a3448 a3496
+00 1
+.names a3496 a3492 a3498
+10 1
+.names a3444 a3424 a3500
+11 1
+.names a3500 a3498 a3502
+01 1
+.names a3502 a3456 a3504
+01 1
+.names a3504 a3454 a3506
+00 1
+.names a3506 a3490 a3508
+11 1
+.names a3450 a3418 a3510
+11 1
+.names a3510 a3486 a3512
+00 1
+.names a3512 a3488 a3514
+00 1
+.names a3470 a3398 a3516
+01 1
+.names a3516 a3440 a3518
+00 1
+.names a3518 a3446 a3520
+10 1
+.names a3478 a3450 a3522
+11 1
+.names a3522 a3520 a3524
+10 1
+.names a3510 a3440 a3526
+10 1
+.names a3526 a3524 a3528
+11 1
+.names a3528 a3512 a3530
+01 1
+.names a3530 a3514 a3532
+01 1
+.names a3480 a3418 a3534
+01 1
+.names a3534 a3460 a3536
+01 1
+.names a3482 a3442 a3538
+01 1
+.names a3538 a3536 a3540
+11 1
+.names a3540 a3528 a3542
+10 1
+.names a3542 a3524 a3544
+11 1
+.names a3500 a3444 a3546
+01 1
+.names a3498 a3370 a3548
+11 1
+.names a3548 a3480 a3550
+01 1
+.names a3550 a3484 a3552
+00 1
+.names a3552 a3546 a3554
+00 1
+.names a3510 a3424 a3556
+10 1
+.names a3556 a3478 a3558
+00 1
+.names a3558 a3488 a3560
+10 1
+.names a3560 a3554 a3562
+00 1
+.names a3562 a3544 a3564
+01 1
+.names a3564 a3532 a3566
+00 1
+.names a3524 a3444 a3568
+10 1
+.names a3568 a3528 a3570
+10 1
+.names a3570 a3558 a3572
+01 1
+.names a3538 a3530 a3574
+00 1
+.names a3574 a3554 a3576
+01 1
+.names a3576 a3572 a3578
+00 1
+.names a3578 a3566 a3580
+10 1
+.names a3580 a3508 a3582
+01 1
+.names a3574 a3562 a3584
+01 1
+.names a3584 a3532 a3586
+00 1
+.names a3550 a3490 a3588
+11 1
+.names a3568 a3456 a3590
+00 1
+.names a3588 a3560 a3592
+01 1
+.names a3592 a3590 a3594
+10 1
+.names a3594 a3588 a3596
+00 1
+.names a3596 a3586 a3598
+00 1
+.names a3598 a3582 a3600
+00 1
+.names a3584 a3566 a3602
+01 1
+.names a3602 a3596 a3604
+10 1
+.names a3536 a3502 a3606
+00 1
+.names a3606 a3590 a3608
+00 1
+.names a3608 a3508 a3610
+01 1
+.names a3608 a3572 a3612
+00 1
+.names a3612 a3574 a3614
+10 1
+.names a3614 a3610 a3616
+01 1
+.names a3616 a3506 a3618
+00 1
+.names a3618 a3604 a3620
+00 1
+.names a3620 a3600 a3622
+10 1
+.names a3612 a3572 a3624
+00 1
+.names a3624 a3584 a3626
+00 1
+.names a3554 a3544 a3628
+11 1
+.names a3628 a3606 a3630
+10 1
+.names a3560 a3514 a3632
+01 1
+.names a3632 a3532 a3634
+11 1
+.names a3554 a3504 a3636
+01 1
+.names a3636 a3530 a3638
+10 1
+.names a3638 a3634 a3640
+10 1
+.names a3640 a3630 a3642
+10 1
+.names a3642 a3626 a3644
+11 1
+.names a3586 a3508 a3646
+11 1
+.names a3646 a3616 a3648
+01 1
+.names a3648 a3644 a3650
+01 1
+.names a3562 a3514 a3652
+10 1
+.names a3652 a3532 a3654
+00 1
+.names a3654 a3576 a3656
+00 1
+.names a3628 a3586 a3658
+00 1
+.names a3658 a3656 a3660
+00 1
+.names a3660 a3582 a3662
+01 1
+.names a3662 a3650 a3664
+11 1
+.names a3664 a3622 a3666
+10 1
+.names a3612 a3578 a3668
+01 1
+.names a3668 a3594 a3670
+11 1
+.names a3616 a3594 a3672
+10 1
+.names a3672 a3670 a3674
+01 1
+.names a3640 a3616 a3676
+10 1
+.names a3676 a3596 a3678
+00 1
+.names a3678 a3674 a3680
+00 1
+.names a3676 a3660 a3682
+10 1
+.names a3660 a3598 a3684
+10 1
+.names a3684 a3682 a3686
+11 1
+.names a3686 a3680 a3688
+00 1
+.names a3688 a3666 a3690
+01 1
+.names a3690 a3666 a3692
+01 1
+.names a3672 a3644 a3694
+01 1
+.names a3694 a3646 a3696
+11 1
+.names a3678 a3620 a3698
+01 1
+.names a3698 a3696 a3700
+10 1
+.names a3700 a3664 a3702
+01 1
+.names a3700 a3688 a3704
+11 1
+.names a3704 a3702 a3706
+11 1
+.names a3706 a3692 a3708
+01 1
+.names i74 i44 a3710
+00 1
+.names a3660 a3578 a3712
+00 1
+.names a3712 a3678 a3714
+01 1
+.names a3684 a3678 a3716
+10 1
+.names a3716 a3714 a3718
+00 1
+.names a3716 a3600 a3720
+00 1
+.names a3712 a3694 a3722
+10 1
+.names a3722 a3716 a3724
+11 1
+.names a3724 a3720 a3726
+11 1
+.names a3700 a3622 a3728
+01 1
+.names a3728 a3726 a3730
+11 1
+.names a3730 a3718 a3732
+10 1
+.names a3732 a3710 a3734
+10 1
+.names a3734 a3708 a3736
+11 1
+.names a3736 a178 a3738
+00 1
+.names a3738 a170 a3740
+11 1
+.names a3740 a152 a3742
+10 1
+.names i22 i6 a3744
+00 1
+.names i102 i18 a3746
+10 1
+.names a3746 a3744 a3748
+11 1
+.names a3748 i112 a3750
+11 1
+.names i90 i28 a3752
+10 1
+.names i56 i34 a3754
+10 1
+.names a3754 a3710 a3756
+11 1
+.names a3756 a3752 a3758
+11 1
+.names i90 i14 a3760
+01 1
+.names i42 i20 a3762
+11 1
+.names a3730 a3702 a3764
+10 1
+.names a3764 a3762 a3766
+10 1
+.names a3766 a3760 a3768
+11 1
+.names i106 i12 a3770
+00 1
+.names i88 i20 a3772
+00 1
+.names a3772 a172 a3774
+10 1
+.names a3774 a3770 a3776
+10 1
+.names a3776 a3768 a3778
+00 1
+.names a3778 a3758 a3780
+10 1
+.names a3780 a3750 a3782
+10 1
+.names i104 i100 a3784
+01 1
+.names i48 i8 a3786
+11 1
+.names i96 i52 a3788
+11 1
+.names i94 i4 a3790
+10 1
+.names a3790 a3788 a3792
+10 1
+.names a3792 a3786 a3794
+11 1
+.names a3794 a3784 a3796
+11 1
+.names i74 i34 a3798
+10 1
+.names a3798 i110 a3800
+11 1
+.names a3800 a3784 a3802
+11 1
+.names a3802 a3796 a3804
+00 1
+.names i52 i20 a3806
+01 1
+.names i86 i32 a3808
+10 1
+.names i108 i56 a3810
+11 1
+.names a3810 a164 a3812
+01 1
+.names a3812 a3808 a3814
+10 1
+.names a3814 a3806 a3816
+10 1
+.names i32 i16 a3818
+01 1
+.names i56 i50 a3820
+10 1
+.names a3820 a164 a3822
+11 1
+.names a3822 a3762 a3824
+10 1
+.names a3824 a3818 a3826
+10 1
+.names a3826 a3816 a3828
+00 1
+.names i36 i34 a3830
+01 1
+.names i100 i72 a3832
+11 1
+.names a3832 a3830 a3834
+11 1
+.names a3834 a172 a3836
+10 1
+.names i96 i40 a3838
+00 1
+.names a3838 a3732 a3840
+11 1
+.names a3840 a3790 a3842
+10 1
+.names a3842 a3836 a3844
+00 1
+.names a3844 a3828 a3846
+11 1
+.names a3722 a3684 a3848
+11 1
+.names a3848 a3600 a3850
+01 1
+.names a3678 a3622 a3852
+00 1
+.names a3852 a3718 a3854
+01 1
+.names a3854 a3622 a3856
+00 1
+.names a3856 a3850 a3858
+01 1
+.names a3858 a3838 a3860
+01 1
+.names a3860 a3710 a3862
+10 1
+.names i84 i6 a3864
+01 1
+.names a3820 a3806 a3866
+01 1
+.names a3866 a3864 a3868
+10 1
+.names i66 i56 a3870
+01 1
+.names i52 i10 a3872
+10 1
+.names a3872 a3746 a3874
+11 1
+.names a3874 a162 a3876
+11 1
+.names a3876 a3870 a3878
+11 1
+.names i72 i70 a3880
+01 1
+.names a3786 a3772 a3882
+01 1
+.names a3882 a3880 a3884
+11 1
+.names a3884 a3878 a3886
+00 1
+.names a3886 a3868 a3888
+10 1
+.names i62 i32 a3890
+11 1
+.names a3890 i114 a3892
+10 1
+.names a3892 a3818 a3894
+11 1
+.names i72 i40 a3896
+00 1
+.names a3896 a3762 a3898
+11 1
+.names a3898 a3832 a3900
+10 1
+.names a3900 a3894 a3902
+00 1
+.names a3902 a3888 a3904
+11 1
+.names a3904 a3862 a3906
+10 1
+.names a3906 a3846 a3908
+11 1
+.names i96 i78 a3910
+10 1
+.names i66 i54 a3912
+11 1
+.names i104 i28 a3914
+01 1
+.names a3914 a3912 a3916
+00 1
+.names a3916 a3910 a3918
+10 1
+.names i98 i62 a3920
+00 1
+.names a3920 a3760 a3922
+01 1
+.names a3922 a3830 a3924
+10 1
+.names a3848 a3728 a3926
+10 1
+.names a3926 a3856 a3928
+01 1
+.names i78 i10 a3930
+11 1
+.names a3930 a3920 a3932
+11 1
+.names a3932 a3928 a3934
+10 1
+.names i88 i64 a3936
+11 1
+.names i86 i52 a3938
+10 1
+.names a3938 a3790 a3940
+00 1
+.names a3940 a3936 a3942
+10 1
+.names i76 i22 a3944
+10 1
+.names a3944 i110 a3946
+10 1
+.names a3946 a3838 a3948
+11 1
+.names i60 i8 a3950
+11 1
+.names a3950 a3920 a3952
+01 1
+.names a3952 a164 a3954
+10 1
+.names a3954 a3772 a3956
+11 1
+.names a3956 a3948 a3958
+00 1
+.names a3958 a3942 a3960
+10 1
+.names a3960 a3934 a3962
+10 1
+.names a3962 a3924 a3964
+10 1
+.names a3964 a3918 a3966
+10 1
+.names a3966 a3908 a3968
+11 1
+.names a3968 a3804 a3970
+11 1
+.names a3970 a3782 a3972
+11 1
+.names a3972 a3742 a3974
+11 1
+.names a3848 a3676 a3976
+11 1
+.names a3976 a3850 a3978
+01 1
+.names a3978 a3850 a3980
+00 1
+.names i54 i32 a3982
+00 1
+.names a3982 a3784 a3984
+10 1
+.names a3984 a3980 a3986
+10 1
+.names a3982 a174 a3988
+10 1
+.names a3988 a3980 a3990
+10 1
+.names i106 i28 a3992
+10 1
+.names a3992 i110 a3994
+10 1
+.names a3994 a3914 a3996
+10 1
+.names a3996 a3990 a3998
+00 1
+.names a3998 a3986 a4000
+10 1
+.names a3838 a3820 a4002
+01 1
+.names a4002 a3708 a4004
+11 1
+.names a3864 a3752 a4006
+01 1
+.names a4006 a162 a4008
+11 1
+.names a3950 a3788 a4010
+01 1
+.names a4010 a3890 a4012
+10 1
+.names a3864 a164 a4014
+11 1
+.names a4014 a3880 a4016
+10 1
+.names i96 i4 a4018
+10 1
+.names a3762 a3752 a4020
+00 1
+.names a4020 a4018 a4022
+10 1
+.names a3716 a3704 a4024
+00 1
+.names a3720 a3688 a4026
+10 1
+.names a4026 a3728 a4028
+10 1
+.names a4028 a4024 a4030
+01 1
+.names a4030 a144 a4032
+11 1
+.names a4032 a3910 a4034
+10 1
+.names a4034 a4022 a4036
+00 1
+.names a4036 a4016 a4038
+10 1
+.names a4038 a4012 a4040
+10 1
+.names a4040 a4008 a4042
+10 1
+.names a4042 a4004 a4044
+10 1
+.names i104 i66 a4046
+11 1
+.names a3820 a3810 a4048
+00 1
+.names a4048 a3880 a4050
+11 1
+.names a4050 a4046 a4052
+11 1
+.names i56 i16 a4054
+11 1
+.names i64 i16 a4056
+00 1
+.names a4056 a3786 a4058
+00 1
+.names a4058 a4054 a4060
+10 1
+.names a3830 a3764 a4062
+10 1
+.names a4062 a3764 a4064
+10 1
+.names a4064 a4060 a4066
+00 1
+.names a4066 a4052 a4068
+10 1
+.names a3850 a3720 a4070
+01 1
+.names a4070 a3706 a4072
+00 1
+.names a4072 a3770 a4074
+01 1
+.names a4074 a4056 a4076
+11 1
+.names a3950 i116 a4078
+00 1
+.names a4078 a3790 a4080
+11 1
+.names a4072 a3896 a4082
+11 1
+.names a4082 a3732 a4084
+10 1
+.names a3746 a164 a4086
+11 1
+.names a4086 a3752 a4088
+10 1
+.names a4024 a3978 a4090
+10 1
+.names a3732 a156 a4092
+00 1
+.names a4092 a3744 a4094
+10 1
+.names a4094 a4090 a4096
+11 1
+.names a4096 a4088 a4098
+00 1
+.names a4098 a4084 a4100
+10 1
+.names a4100 a4080 a4102
+10 1
+.names a4102 a4076 a4104
+10 1
+.names a4054 a3732 a4106
+00 1
+.names a4106 a3880 a4108
+10 1
+.names i104 i102 a4110
+10 1
+.names a4110 a3708 a4112
+00 1
+.names a4112 a3880 a4114
+10 1
+.names a4114 a4108 a4116
+00 1
+.names a3790 a3772 a4118
+00 1
+.names a4118 i116 a4120
+11 1
+.names a3870 a3798 a4122
+00 1
+.names a4122 a3912 a4124
+11 1
+.names i26 i18 a4126
+01 1
+.names a4054 a164 a4128
+10 1
+.names a4128 a3732 a4130
+11 1
+.names a4130 a4126 a4132
+11 1
+.names a4132 a4124 a4134
+00 1
+.names a4134 a4120 a4136
+10 1
+.names a4136 a4116 a4138
+11 1
+.names a4138 a4104 a4140
+11 1
+.names i16 i2 a4142
+11 1
+.names a4030 a3760 a4144
+01 1
+.names a4144 a3890 a4146
+11 1
+.names a4146 a4142 a4148
+10 1
+.names a4148 a3754 a4150
+11 1
+.names a4150 a4046 a4152
+11 1
+.names a4152 a3790 a4154
+10 1
+.names a3754 a144 a4156
+00 1
+.names a4156 a3872 a4158
+10 1
+.names a4018 a3936 a4160
+00 1
+.names a4160 a3786 a4162
+10 1
+.names a4162 a4158 a4164
+00 1
+.names i20 i16 a4166
+00 1
+.names a4166 a172 a4168
+00 1
+.names a4168 a3744 a4170
+10 1
+.names i94 i2 a4172
+00 1
+.names a4172 a3982 a4174
+11 1
+.names a4174 a3830 a4176
+10 1
+.names a4176 a146 a4178
+10 1
+.names a4178 a4170 a4180
+00 1
+.names a3896 a3786 a4182
+00 1
+.names a4182 a3870 a4184
+11 1
+.names a4110 a3830 a4186
+11 1
+.names a4186 a3896 a4188
+10 1
+.names a4188 a4184 a4190
+00 1
+.names a4190 a4180 a4192
+11 1
+.names a4192 a4164 a4194
+11 1
+.names a4194 a4154 a4196
+10 1
+.names a3938 a3784 a4198
+10 1
+.names a4198 i112 a4200
+11 1
+.names a4200 a3832 a4202
+10 1
+.names a4202 a3910 a4204
+10 1
+.names a4166 a3920 a4206
+01 1
+.names a4206 a3732 a4208
+11 1
+.names a4208 a4046 a4210
+10 1
+.names a4210 a4204 a4212
+00 1
+.names a164 a164 a4214
+01 1
+.names a4214 a3710 a4216
+10 1
+.names a4216 a3808 a4218
+11 1
+.names i114 i114 a4220
+01 1
+.names a4220 a3798 a4222
+11 1
+.names a3914 a154 a4224
+01 1
+.names a4224 a3772 a4226
+10 1
+.names a4226 a4222 a4228
+00 1
+.names a4228 a4218 a4230
+10 1
+.names a4230 a4212 a4232
+11 1
+.names a3830 a3746 a4234
+00 1
+.names a4234 a4142 a4236
+10 1
+.names a3820 a148 a4238
+00 1
+.names a4238 a3744 a4240
+11 1
+.names a4240 a3930 a4242
+11 1
+.names a4242 a4030 a4244
+10 1
+.names a4244 a4236 a4246
+00 1
+.names a4246 a4232 a4248
+11 1
+.names i80 i72 a4250
+00 1
+.names a4250 a3786 a4252
+10 1
+.names a4252 a144 a4254
+11 1
+.names a3896 a3786 a4256
+00 1
+.names a4256 a3896 a4258
+11 1
+.names a3912 i112 a4260
+00 1
+.names a4260 a3912 a4262
+10 1
+.names i82 i40 a4264
+10 1
+.names a4264 a3762 a4266
+10 1
+.names a4266 i110 a4268
+10 1
+.names a4250 a3872 a4270
+11 1
+.names a4270 i112 a4272
+11 1
+.names a4272 i110 a4274
+10 1
+.names i88 i10 a4276
+11 1
+.names a3658 a3600 a4278
+10 1
+.names a4278 a3674 a4280
+11 1
+.names a3698 a3686 a4282
+00 1
+.names a4282 a4280 a4284
+10 1
+.names a4284 a4026 a4286
+00 1
+.names a4286 a3692 a4288
+00 1
+.names a4288 a3832 a4290
+10 1
+.names a4290 a3896 a4292
+11 1
+.names a4292 a4276 a4294
+10 1
+.names a4294 a4274 a4296
+00 1
+.names a4296 a4268 a4298
+10 1
+.names a4298 a4262 a4300
+10 1
+.names a4300 a4258 a4302
+10 1
+.names a4302 a4254 a4304
+10 1
+.names a4304 a4248 a4306
+11 1
+.names a4306 a4196 a4308
+11 1
+.names a4276 a3980 a4310
+01 1
+.names a4310 a3764 a4312
+11 1
+.names a4250 a3980 a4314
+00 1
+.names a4314 a3830 a4316
+11 1
+.names a4316 a162 a4318
+10 1
+.names a4318 a3810 a4320
+11 1
+.names a3920 a3864 a4322
+00 1
+.names a4322 i114 a4324
+11 1
+.names a3938 a3830 a4326
+11 1
+.names a4326 a3982 a4328
+11 1
+.names i102 i32 a4330
+00 1
+.names i88 i50 a4332
+00 1
+.names a3770 a3752 a4334
+00 1
+.names a4334 a4332 a4336
+10 1
+.names a4336 a3830 a4338
+11 1
+.names a4338 a3764 a4340
+10 1
+.names a4340 i110 a4342
+11 1
+.names a4342 a4330 a4344
+11 1
+.names a4344 a4328 a4346
+00 1
+.names a4046 a3982 a4348
+10 1
+.names a4348 a162 a4350
+11 1
+.names a3896 a3784 a4352
+01 1
+.names a4352 a3982 a4354
+11 1
+.names a4354 a3838 a4356
+10 1
+.names a4356 a4350 a4358
+00 1
+.names a4358 a4346 a4360
+11 1
+.names a4360 a4324 a4362
+10 1
+.names i96 i84 a4364
+11 1
+.names a4364 a3752 a4366
+01 1
+.names a4366 i116 a4368
+10 1
+.names a4054 a3936 a4370
+00 1
+.names a4370 a4142 a4372
+10 1
+.names a4126 a3992 a4374
+00 1
+.names a4374 a3784 a4376
+11 1
+.names a4046 a3872 a4378
+10 1
+.names a4378 a156 a4380
+10 1
+.names a4380 a4376 a4382
+00 1
+.names a4382 a4372 a4384
+10 1
+.names a4384 a4368 a4386
+10 1
+.names a4386 a4362 a4388
+11 1
+.names a4388 a4320 a4390
+10 1
+.names a4390 a4312 a4392
+10 1
+.names a4392 a4308 a4394
+11 1
+.names a4072 a4030 a4396
+00 1
+.names a4396 a3770 a4398
+11 1
+.names a4398 a3708 a4400
+11 1
+.names a3912 a3708 a4402
+00 1
+.names a4402 a3764 a4404
+10 1
+.names a4404 a4400 a4406
+00 1
+.names a4166 a4166 a4408
+11 1
+.names a4408 a3746 a4410
+11 1
+.names a4056 a3818 a4412
+00 1
+.names a4412 a4046 a4414
+11 1
+.names a4414 a4410 a4416
+00 1
+.names a4416 a4406 a4418
+11 1
+.names a4056 a3788 a4420
+11 1
+.names a4420 a3818 a4422
+10 1
+.names a3808 a3760 a4424
+00 1
+.names a4424 i112 a4426
+11 1
+.names a4426 a4422 a4428
+00 1
+.names a3838 a3764 a4430
+11 1
+.names a4430 i110 a4432
+11 1
+.names a4432 a3710 a4434
+10 1
+.names a3910 a3818 a4436
+10 1
+.names a4436 a3936 a4438
+11 1
+.names a3950 a3746 a4440
+11 1
+.names a4440 i110 a4442
+10 1
+.names a3858 a3832 a4444
+11 1
+.names a4444 a162 a4446
+11 1
+.names a4446 a4442 a4448
+00 1
+.names a4448 a4438 a4450
+10 1
+.names a4450 a4434 a4452
+10 1
+.names a4364 a3870 a4454
+10 1
+.names a4454 a3936 a4456
+10 1
+.names a4456 a3872 a4458
+10 1
+.names a4458 a172 a4460
+10 1
+.names a4126 a3806 a4462
+11 1
+.names a4462 i110 a4464
+11 1
+.names a3938 a3810 a4466
+01 1
+.names a4466 i116 a4468
+11 1
+.names a4468 a4464 a4470
+00 1
+.names a4470 a4460 a4472
+10 1
+.names a4472 a4452 a4474
+11 1
+.names i62 i10 a4476
+01 1
+.names a4288 a3832 a4478
+01 1
+.names a4478 a148 a4480
+10 1
+.names a4480 a4476 a4482
+11 1
+.names a3920 a3910 a4484
+10 1
+.names a4484 a3938 a4486
+11 1
+.names a3818 i116 a4488
+01 1
+.names a4488 a4288 a4490
+10 1
+.names a4490 a4486 a4492
+00 1
+.names a3896 a164 a4494
+01 1
+.names a4494 a3764 a4496
+10 1
+.names a4496 a4126 a4498
+11 1
+.names a3920 a3914 a4500
+10 1
+.names a4500 a3982 a4502
+11 1
+.names a4502 a4498 a4504
+00 1
+.names a4504 a4492 a4506
+11 1
+.names a4506 a4482 a4508
+10 1
+.names a3928 a3806 a4510
+01 1
+.names a4510 a3928 a4512
+11 1
+.names a4512 a3806 a4514
+11 1
+.names a148 i116 a4516
+00 1
+.names a4516 a3772 a4518
+10 1
+.names a3982 a148 a4520
+01 1
+.names a4520 a3808 a4522
+11 1
+.names a4522 a4518 a4524
+00 1
+.names a4524 a4514 a4526
+10 1
+.names a3944 a3936 a4528
+11 1
+.names a4528 a3858 a4530
+10 1
+.names a4530 a3944 a4532
+10 1
+.names a4532 a3772 a4534
+10 1
+.names a4030 a3788 a4536
+01 1
+.names a4536 a4276 a4538
+11 1
+.names a4172 a3896 a4540
+10 1
+.names a4540 a3772 a4542
+11 1
+.names a4364 a156 a4544
+01 1
+.names a4544 a3764 a4546
+10 1
+.names a3982 a3936 a4548
+11 1
+.names a4548 a174 a4550
+10 1
+.names a4550 a4546 a4552
+00 1
+.names a4552 a4542 a4554
+10 1
+.names a4554 a4538 a4556
+10 1
+.names a4556 a4534 a4558
+10 1
+.names a4558 a4526 a4560
+11 1
+.names a4560 a4508 a4562
+11 1
+.names a4562 a4474 a4564
+11 1
+.names a4564 a4428 a4566
+11 1
+.names a4566 a4418 a4568
+11 1
+.names a3950 a3806 a4570
+10 1
+.names a4570 a4288 a4572
+11 1
+.names a4572 a3744 a4574
+11 1
+.names a4574 a174 a4576
+10 1
+.names a4250 a3760 a4578
+00 1
+.names a4578 a4126 a4580
+10 1
+.names a3870 a3784 a4582
+10 1
+.names a4582 a4330 a4584
+10 1
+.names a4584 a4580 a4586
+00 1
+.names a4586 a4576 a4588
+10 1
+.names a4288 a3784 a4590
+10 1
+.names a4590 a4276 a4592
+11 1
+.names a4126 a3830 a4594
+01 1
+.names a4594 a3752 a4596
+10 1
+.names a4166 a3788 a4598
+01 1
+.names a4598 a4250 a4600
+11 1
+.names a3762 a148 a4602
+01 1
+.names a4602 a3830 a4604
+11 1
+.names a4604 a4600 a4606
+00 1
+.names a4606 a4596 a4608
+10 1
+.names a4608 a4592 a4610
+10 1
+.names a4610 a4588 a4612
+11 1
+.names a4330 a3930 a4614
+01 1
+.names a4614 a3710 a4616
+11 1
+.names a4056 a3808 a4618
+10 1
+.names a4618 a144 a4620
+10 1
+.names a3764 a3732 a4622
+00 1
+.names a4622 a3790 a4624
+10 1
+.names a4624 a4620 a4626
+00 1
+.names a4364 a4330 a4628
+11 1
+.names a4628 a174 a4630
+10 1
+.names a4630 a3870 a4632
+10 1
+.names a3810 a3770 a4634
+11 1
+.names a4634 a4250 a4636
+10 1
+.names a4636 a4632 a4638
+00 1
+.names a4638 a4626 a4640
+11 1
+.names a4640 a4616 a4642
+10 1
+.names a3944 a3820 a4644
+00 1
+.names a4644 a4476 a4646
+11 1
+.names a3798 i110 a4648
+00 1
+.names a4648 a162 a4650
+10 1
+.names a4650 a3830 a4652
+10 1
+.names a3910 a3896 a4654
+00 1
+.names a4654 a4166 a4656
+10 1
+.names a4656 a4110 a4658
+10 1
+.names a4658 a4652 a4660
+00 1
+.names a4660 a4646 a4662
+10 1
+.names a4276 a4250 a4664
+11 1
+.names a4664 a174 a4666
+11 1
+.names a4072 a3762 a4668
+00 1
+.names a4668 a3784 a4670
+10 1
+.names a4670 i112 a4672
+11 1
+.names a4672 a4666 a4674
+00 1
+.names a4674 a4662 a4676
+11 1
+.names a4676 a4642 a4678
+11 1
+.names a3872 a3784 a4680
+01 1
+.names a4680 a3832 a4682
+11 1
+.names a4250 a3982 a4684
+10 1
+.names a4684 a3806 a4686
+10 1
+.names a3820 a3708 a4688
+10 1
+.names a4688 a4166 a4690
+11 1
+.names a4690 a4686 a4692
+00 1
+.names a4364 a3938 a4694
+10 1
+.names a4694 a3786 a4696
+11 1
+.names a3820 a164 a4698
+00 1
+.names a4698 i110 a4700
+11 1
+.names a4700 a4696 a4702
+00 1
+.names a4702 a4692 a4704
+11 1
+.names a4704 a4682 a4706
+10 1
+.names a4706 a4678 a4708
+11 1
+.names a4708 a4612 a4710
+11 1
+.names a144 i110 a4712
+11 1
+.names a4712 a174 a4714
+11 1
+.names a4476 a4110 a4716
+11 1
+.names a4716 a3732 a4718
+11 1
+.names a4054 a3790 a4720
+01 1
+.names a4720 a3944 a4722
+10 1
+.names a4110 a3708 a4724
+01 1
+.names a4724 a3762 a4726
+11 1
+.names a3808 i114 a4728
+10 1
+.names a4728 a3890 a4730
+11 1
+.names a4730 a3784 a4732
+11 1
+.names a4732 a3992 a4734
+10 1
+.names a4734 a4726 a4736
+00 1
+.names a4736 a4722 a4738
+10 1
+.names a4738 a4718 a4740
+10 1
+.names a4740 a4714 a4742
+10 1
+.names a3864 a3762 a4744
+11 1
+.names a4744 a3790 a4746
+10 1
+.names a3930 a3788 a4748
+10 1
+.names a4748 a3864 a4750
+11 1
+.names a4750 a3746 a4752
+10 1
+.names a4166 a3838 a4754
+10 1
+.names a4754 a3784 a4756
+11 1
+.names a3982 a3798 a4758
+00 1
+.names a4758 a4364 a4760
+11 1
+.names a3944 a3920 a4762
+00 1
+.names a4762 a3784 a4764
+11 1
+.names a4764 a4288 a4766
+11 1
+.names a4766 a4760 a4768
+00 1
+.names a4768 a4756 a4770
+10 1
+.names a4770 a4752 a4772
+10 1
+.names a3838 a3760 a4774
+00 1
+.names a4774 a148 a4776
+10 1
+.names a4776 a3754 a4778
+10 1
+.names a3710 i114 a4780
+00 1
+.names a4780 a4054 a4782
+11 1
+.names a4172 a3746 a4784
+01 1
+.names a4784 a4030 a4786
+11 1
+.names a4786 a4782 a4788
+00 1
+.names a4788 a4778 a4790
+10 1
+.names a4054 a3762 a4792
+11 1
+.names a4792 a4264 a4794
+11 1
+.names a4126 a3810 a4796
+10 1
+.names a4796 a3810 a4798
+10 1
+.names a4798 a3912 a4800
+11 1
+.names a4800 a4794 a4802
+00 1
+.names a4802 a4790 a4804
+11 1
+.names a4804 a4772 a4806
+11 1
+.names a4806 a4746 a4808
+10 1
+.names a4476 a3760 a4810
+00 1
+.names a4810 a3830 a4812
+10 1
+.names a4090 a3858 a4814
+00 1
+.names a4814 i110 a4816
+11 1
+.names a3982 a3770 a4818
+01 1
+.names a4818 a4364 a4820
+10 1
+.names a4090 a3746 a4822
+11 1
+.names a4822 a3914 a4824
+11 1
+.names a4824 a4820 a4826
+00 1
+.names a4826 a4816 a4828
+10 1
+.names a4828 a4812 a4830
+10 1
+.names a3830 i110 a4832
+10 1
+.names a4832 a3944 a4834
+10 1
+.names a174 a172 a4836
+00 1
+.names a4836 a172 a4838
+10 1
+.names a4838 a4834 a4840
+00 1
+.names a4276 a4126 a4842
+00 1
+.names a4842 a3890 a4844
+11 1
+.names a3930 a3870 a4846
+10 1
+.names a4846 a4264 a4848
+10 1
+.names a4072 a3830 a4850
+01 1
+.names a4850 a3772 a4852
+11 1
+.names a4852 i112 a4854
+10 1
+.names a4854 a4848 a4856
+00 1
+.names a4856 a4844 a4858
+10 1
+.names a3770 a3762 a4860
+11 1
+.names a4860 a3920 a4862
+10 1
+.names a3890 i114 a4864
+11 1
+.names a4864 a3764 a4866
+10 1
+.names a4866 a4862 a4868
+00 1
+.names a3936 a144 a4870
+00 1
+.names a4870 a4364 a4872
+11 1
+.names a4872 a3754 a4874
+10 1
+.names a4874 a4172 a4876
+10 1
+.names a4250 a4172 a4878
+00 1
+.names a4878 a4054 a4880
+11 1
+.names a4332 a3930 a4882
+01 1
+.names a4882 a164 a4884
+10 1
+.names a4884 a3890 a4886
+11 1
+.names a4886 a3772 a4888
+10 1
+.names a3832 i110 a4890
+01 1
+.names a4890 a3764 a4892
+11 1
+.names a4892 a4888 a4894
+00 1
+.names a4894 a4880 a4896
+10 1
+.names a4896 a4876 a4898
+10 1
+.names a3786 a144 a4900
+01 1
+.names a4900 a3798 a4902
+10 1
+.names a4364 a4288 a4904
+01 1
+.names a4904 a3880 a4906
+10 1
+.names a3944 a3864 a4908
+01 1
+.names a4908 a4166 a4910
+11 1
+.names a4910 a3864 a4912
+10 1
+.names a3830 a3830 a4914
+01 1
+.names a4914 a4288 a4916
+10 1
+.names a4916 a4912 a4918
+00 1
+.names a4918 a4906 a4920
+10 1
+.names a4920 a4902 a4922
+10 1
+.names a4922 a4898 a4924
+11 1
+.names a4924 a4868 a4926
+11 1
+.names a4926 a4858 a4928
+11 1
+.names a4928 a4840 a4930
+11 1
+.names a4930 a4830 a4932
+11 1
+.names a3754 a148 a4934
+11 1
+.names a4934 a3838 a4936
+11 1
+.names a4172 a144 a4938
+11 1
+.names a4938 a3858 a4940
+11 1
+.names a3928 a144 a4942
+01 1
+.names a4942 a3980 a4944
+10 1
+.names a3896 a3788 a4946
+11 1
+.names a4946 a4264 a4948
+11 1
+.names a4948 a3920 a4950
+11 1
+.names a3820 a3788 a4952
+10 1
+.names a4952 a162 a4954
+10 1
+.names a4126 a4054 a4956
+10 1
+.names a4956 a3710 a4958
+10 1
+.names a4958 a4954 a4960
+00 1
+.names a4960 a4950 a4962
+10 1
+.names a4962 a4944 a4964
+10 1
+.names a3790 a3754 a4966
+10 1
+.names a4966 a144 a4968
+10 1
+.names a4476 a3770 a4970
+01 1
+.names a4970 a4046 a4972
+10 1
+.names a4972 a3936 a4974
+11 1
+.names a4974 a4968 a4976
+00 1
+.names a4976 a4964 a4978
+11 1
+.names a4978 a4940 a4980
+10 1
+.names a3864 a146 a4982
+10 1
+.names a4982 a4110 a4984
+10 1
+.names a4984 a146 a4986
+11 1
+.names a3788 a144 a4988
+10 1
+.names a4988 a3762 a4990
+11 1
+.names a4330 a4172 a4992
+00 1
+.names a4992 a3788 a4994
+11 1
+.names a3992 a3930 a4996
+01 1
+.names a4996 a4126 a4998
+11 1
+.names a4110 a146 a5000
+01 1
+.names a5000 a3772 a5002
+11 1
+.names a5002 a3708 a5004
+11 1
+.names a5004 i116 a5006
+11 1
+.names a3870 a162 a5008
+01 1
+.names a5008 a3746 a5010
+11 1
+.names a5010 a4054 a5012
+11 1
+.names a5012 a5006 a5014
+00 1
+.names a5014 a4998 a5016
+10 1
+.names a5016 a4994 a5018
+10 1
+.names a5018 a4990 a5020
+10 1
+.names a5020 a4986 a5022
+10 1
+.names a3980 a3818 a5024
+01 1
+.names a5024 a3930 a5026
+11 1
+.names a4476 a174 a5028
+11 1
+.names a5028 a3872 a5030
+10 1
+.names a5030 a3806 a5032
+10 1
+.names a3788 a3754 a5034
+10 1
+.names a5034 a3890 a5036
+10 1
+.names a5036 i112 a5038
+10 1
+.names a3912 a172 a5040
+11 1
+.names a5040 a4364 a5042
+11 1
+.names a5042 a5038 a5044
+00 1
+.names a5044 a5032 a5046
+10 1
+.names a5046 a5026 a5048
+10 1
+.names a5048 a5022 a5050
+11 1
+.names a5050 a4980 a5052
+11 1
+.names a3992 a3936 a5054
+11 1
+.names a5054 a4364 a5056
+11 1
+.names a5056 a3938 a5058
+11 1
+.names a5058 a164 a5060
+11 1
+.names a5060 a3710 a5062
+11 1
+.names a3910 a3760 a5064
+00 1
+.names a5064 a3790 a5066
+11 1
+.names a4054 a3760 a5068
+00 1
+.names a5068 a3830 a5070
+11 1
+.names a5070 a5066 a5072
+00 1
+.names a5072 a5062 a5074
+10 1
+.names a3762 a164 a5076
+01 1
+.names a5076 a146 a5078
+11 1
+.names a5078 a4142 a5080
+11 1
+.names a4018 a3980 a5082
+01 1
+.names a5082 a4476 a5084
+10 1
+.names a5084 a4056 a5086
+11 1
+.names a4090 a3914 a5088
+11 1
+.names a5088 a3936 a5090
+11 1
+.names a5090 a5086 a5092
+00 1
+.names a5092 a5080 a5094
+10 1
+.names a4056 a3930 a5096
+10 1
+.names a5096 a4332 a5098
+10 1
+.names a4250 a4142 a5100
+11 1
+.names a5100 a3858 a5102
+10 1
+.names a3938 a3744 a5104
+00 1
+.names a5104 a4126 a5106
+11 1
+.names a5106 a4288 a5108
+11 1
+.names a5108 i112 a5110
+10 1
+.names a5110 a5102 a5112
+00 1
+.names a5112 a5098 a5114
+10 1
+.names a5114 a5094 a5116
+11 1
+.names a5116 a5074 a5118
+11 1
+.names a3982 a3762 a5120
+01 1
+.names a5120 a3752 a5122
+11 1
+.names a4332 a4276 a5124
+10 1
+.names a5124 a4166 a5126
+11 1
+.names a3936 a3752 a5128
+10 1
+.names a5128 a4276 a5130
+10 1
+.names a4276 a3950 a5132
+10 1
+.names a5132 a3936 a5134
+10 1
+.names a5134 a148 a5136
+11 1
+.names a3764 a3710 a5138
+01 1
+.names a5138 a3830 a5140
+10 1
+.names a5140 a5136 a5142
+00 1
+.names a5142 a5130 a5144
+10 1
+.names a5144 a5126 a5146
+10 1
+.names a5146 a5122 a5148
+10 1
+.names a3980 a144 a5150
+01 1
+.names a5150 a3936 a5152
+10 1
+.names a4072 a3914 a5154
+10 1
+.names a5154 a3896 a5156
+11 1
+.names a5156 a3764 a5158
+10 1
+.names a3864 a3790 a5160
+00 1
+.names a5160 a4166 a5162
+11 1
+.names a3914 a3806 a5164
+01 1
+.names a5164 a4054 a5166
+11 1
+.names a5166 a144 a5168
+11 1
+.names a5168 a5162 a5170
+00 1
+.names a5170 a5158 a5172
+10 1
+.names a5172 a5152 a5174
+10 1
+.names a4264 a4046 a5176
+11 1
+.names a5176 a3914 a5178
+10 1
+.names a3880 a3810 a5180
+01 1
+.names a5180 a3870 a5182
+11 1
+.names a5182 a4030 a5184
+11 1
+.names a4264 a3870 a5186
+11 1
+.names a5186 i110 a5188
+11 1
+.names a5188 a144 a5190
+11 1
+.names a3838 a3784 a5192
+10 1
+.names a5192 a3790 a5194
+10 1
+.names a3930 a3870 a5196
+01 1
+.names a5196 a3764 a5198
+11 1
+.names a3788 i112 a5200
+11 1
+.names a5200 a3708 a5202
+11 1
+.names a5202 a3710 a5204
+10 1
+.names a4332 a146 a5206
+10 1
+.names a5206 a3890 a5208
+10 1
+.names a5208 a4332 a5210
+10 1
+.names a3864 a3752 a5212
+10 1
+.names a5212 a3950 a5214
+11 1
+.names a5214 a4166 a5216
+11 1
+.names a5216 a5210 a5218
+00 1
+.names a5218 a5204 a5220
+10 1
+.names a5220 a5198 a5222
+10 1
+.names a5222 a5194 a5224
+10 1
+.names a5224 a5190 a5226
+10 1
+.names a5226 a5184 a5228
+10 1
+.names a5228 a5178 a5230
+10 1
+.names a5230 a5174 a5232
+11 1
+.names a3944 a3832 a5234
+01 1
+.names a5234 a3870 a5236
+11 1
+.names a3762 i110 a5238
+01 1
+.names a5238 a3912 a5240
+10 1
+.names a5240 a4126 a5242
+10 1
+.names a3950 a3732 a5244
+01 1
+.names a5244 a4090 a5246
+10 1
+.names a5246 a3784 a5248
+10 1
+.names a5248 a5242 a5250
+00 1
+.names a5250 a5236 a5252
+10 1
+.names a4250 a174 a5254
+10 1
+.names a5254 i114 a5256
+11 1
+.names a5256 a3838 a5258
+11 1
+.names a5258 a3928 a5260
+11 1
+.names a5260 a4332 a5262
+10 1
+.names a4172 a162 a5264
+11 1
+.names a5264 a3880 a5266
+11 1
+.names a3858 a3710 a5268
+10 1
+.names a5268 a3764 a5270
+11 1
+.names a5270 a5266 a5272
+00 1
+.names a5272 a5262 a5274
+10 1
+.names a3938 a3744 a5276
+11 1
+.names a5276 a3790 a5278
+10 1
+.names a4476 a4018 a5280
+00 1
+.names a5280 a3790 a5282
+10 1
+.names a4090 a3752 a5284
+11 1
+.names a5284 a3710 a5286
+10 1
+.names a5286 a5282 a5288
+00 1
+.names a5288 a5278 a5290
+10 1
+.names a3708 i116 a5292
+01 1
+.names a5292 a148 a5294
+10 1
+.names a3928 a3912 a5296
+10 1
+.names a5296 a3838 a5298
+10 1
+.names a5298 a5294 a5300
+00 1
+.names a3944 a3764 a5302
+11 1
+.names a5302 a144 a5304
+11 1
+.names a3858 i116 a5306
+10 1
+.names a5306 i110 a5308
+11 1
+.names a5308 a3752 a5310
+11 1
+.names a5310 a3770 a5312
+11 1
+.names a5312 a5304 a5314
+00 1
+.names a5314 a5300 a5316
+11 1
+.names a5316 a5290 a5318
+11 1
+.names a5318 a5274 a5320
+11 1
+.names a5320 a5252 a5322
+11 1
+.names a4364 a3928 a5324
+11 1
+.names a5324 a3920 a5326
+10 1
+.names a5326 a3864 a5328
+11 1
+.names a5328 a3980 a5330
+11 1
+.names a3910 a3708 a5332
+01 1
+.names a5332 a3708 a5334
+10 1
+.names a4276 a3936 a5336
+01 1
+.names a5336 i116 a5338
+11 1
+.names a5338 a3928 a5340
+11 1
+.names a5340 a5334 a5342
+00 1
+.names a5342 a5330 a5344
+10 1
+.names a3880 a3870 a5346
+10 1
+.names a5346 a3818 a5348
+10 1
+.names a4288 a4250 a5350
+10 1
+.names a5350 a146 a5352
+10 1
+.names a5352 a4172 a5354
+11 1
+.names a5354 a5348 a5356
+00 1
+.names a4476 a4030 a5358
+01 1
+.names a5358 a3938 a5360
+10 1
+.names a4332 a3710 a5362
+11 1
+.names a5362 a4072 a5364
+10 1
+.names a5364 a5360 a5366
+00 1
+.names a4264 a3764 a5368
+10 1
+.names a5368 a146 a5370
+10 1
+.names a3830 a174 a5372
+10 1
+.names a5372 i110 a5374
+11 1
+.names a5374 a172 a5376
+11 1
+.names a5376 a5370 a5378
+00 1
+.names a5378 a5366 a5380
+11 1
+.names a5380 a5356 a5382
+11 1
+.names a3930 a162 a5384
+10 1
+.names a5384 a162 a5386
+10 1
+.names a3914 a3818 a5388
+01 1
+.names a5388 a3806 a5390
+11 1
+.names a3944 a3754 a5392
+01 1
+.names a5392 a4276 a5394
+11 1
+.names a3912 a3838 a5396
+00 1
+.names a5396 a3896 a5398
+10 1
+.names a3944 a3864 a5400
+01 1
+.names a5400 a144 a5402
+10 1
+.names a5402 a5398 a5404
+00 1
+.names a5404 a5394 a5406
+10 1
+.names a5406 a5390 a5408
+10 1
+.names a5408 a5386 a5410
+10 1
+.names a4332 a3760 a5412
+00 1
+.names a5412 a4054 a5414
+11 1
+.names a5414 a3760 a5416
+10 1
+.names a3896 a3752 a5418
+00 1
+.names a5418 a4056 a5420
+10 1
+.names a4264 a4056 a5422
+01 1
+.names a5422 a3770 a5424
+10 1
+.names a5424 a5420 a5426
+00 1
+.names a5426 a5416 a5428
+10 1
+.names a4250 a3752 a5430
+10 1
+.names a5430 a3950 a5432
+10 1
+.names a5432 a3912 a5434
+11 1
+.names a5434 a4142 a5436
+11 1
+.names a3910 a3864 a5438
+10 1
+.names a5438 a3832 a5440
+11 1
+.names a3938 a172 a5442
+11 1
+.names a5442 a3770 a5444
+10 1
+.names a4090 a3752 a5446
+01 1
+.names a5446 a3760 a5448
+11 1
+.names a5448 a3936 a5450
+10 1
+.names a5450 a3880 a5452
+10 1
+.names a5452 a3806 a5454
+11 1
+.names a5454 a5444 a5456
+00 1
+.names a5456 a5440 a5458
+10 1
+.names a5458 a5436 a5460
+10 1
+.names a5460 a5428 a5462
+11 1
+.names a5462 a5410 a5464
+11 1
+.names a5464 a5382 a5466
+11 1
+.names a5466 a5344 a5468
+11 1
+.names a5468 a5322 a5470
+11 1
+.names i116 i110 a5472
+11 1
+.names a5472 a4172 a5474
+10 1
+.names a3980 a3864 a5476
+01 1
+.names a5476 a174 a5478
+11 1
+.names a5478 a5474 a5480
+00 1
+.names a4072 i116 a5482
+00 1
+.names a5482 a3950 a5484
+10 1
+.names a3784 a3754 a5486
+00 1
+.names a5486 a154 a5488
+11 1
+.names a5488 a5484 a5490
+00 1
+.names a5490 a5480 a5492
+11 1
+.names a4030 a3830 a5494
+01 1
+.names a5494 a3896 a5496
+10 1
+.names a5496 a3930 a5498
+11 1
+.names a5498 a3708 a5500
+10 1
+.names a3928 a3788 a5502
+01 1
+.names a5502 a174 a5504
+10 1
+.names a3992 i116 a5506
+11 1
+.names a5506 a3938 a5508
+11 1
+.names a4110 a3788 a5510
+01 1
+.names a5510 a3950 a5512
+10 1
+.names a5512 a5508 a5514
+00 1
+.names a5514 a5504 a5516
+10 1
+.names a5516 a5500 a5518
+10 1
+.names a5518 a5492 a5520
+11 1
+.names a4090 a3770 a5522
+10 1
+.names a5522 a3752 a5524
+10 1
+.names a3810 a3746 a5526
+11 1
+.names a5526 a3806 a5528
+11 1
+.names a3920 a3764 a5530
+01 1
+.names a5530 a3930 a5532
+11 1
+.names a5532 a3930 a5534
+10 1
+.names a5534 a164 a5536
+10 1
+.names a3938 a3880 a5538
+01 1
+.names a5538 a3784 a5540
+10 1
+.names a5540 a5536 a5542
+00 1
+.names a5542 a5528 a5544
+10 1
+.names a5544 a5524 a5546
+10 1
+.names a3754 a164 a5548
+11 1
+.names a5548 a3772 a5550
+11 1
+.names a5550 a3786 a5552
+10 1
+.names a4030 a3762 a5554
+01 1
+.names a5554 a3982 a5556
+10 1
+.names a3872 a154 a5558
+01 1
+.names a5558 a3938 a5560
+11 1
+.names a5560 a4166 a5562
+11 1
+.names a3950 a3830 a5564
+11 1
+.names a5564 a4250 a5566
+11 1
+.names a5566 a5562 a5568
+00 1
+.names a5568 a5556 a5570
+10 1
+.names a3980 a3912 a5572
+01 1
+.names a5572 a3770 a5574
+11 1
+.names a4476 a3858 a5576
+11 1
+.names a5576 a4056 a5578
+11 1
+.names a4110 a3830 a5580
+01 1
+.names a5580 a3762 a5582
+10 1
+.names a5582 a5578 a5584
+00 1
+.names a5584 a5574 a5586
+10 1
+.names a5586 a5570 a5588
+11 1
+.names a5588 a5552 a5590
+10 1
+.names a4364 a3752 a5592
+11 1
+.names a5592 a144 a5594
+10 1
+.names a5594 a3858 a5596
+11 1
+.names a3784 a3710 a5598
+10 1
+.names a5598 a4166 a5600
+11 1
+.names a4250 a154 a5602
+01 1
+.names a5602 a3754 a5604
+11 1
+.names a5604 a4110 a5606
+11 1
+.names a5606 a5600 a5608
+00 1
+.names a5608 a5596 a5610
+10 1
+.names a4288 a3930 a5612
+11 1
+.names a5612 a4332 a5614
+10 1
+.names a5614 a3910 a5616
+10 1
+.names a4056 a3810 a5618
+11 1
+.names a5618 a3762 a5620
+11 1
+.names a4072 a3708 a5622
+11 1
+.names a5622 a4276 a5624
+10 1
+.names a5624 a5620 a5626
+00 1
+.names a5626 a5616 a5628
+10 1
+.names a5628 a5610 a5630
+11 1
+.names a4264 i114 a5632
+00 1
+.names a5632 a3806 a5634
+11 1
+.names a4018 a3808 a5636
+11 1
+.names a5636 a148 a5638
+11 1
+.names a5638 a5634 a5640
+00 1
+.names a3880 a3710 a5642
+00 1
+.names a5642 a4110 a5644
+10 1
+.names a5644 i114 a5646
+11 1
+.names a3890 a3790 a5648
+10 1
+.names a5648 a3914 a5650
+10 1
+.names a5650 a5646 a5652
+00 1
+.names a3788 a3760 a5654
+01 1
+.names a5654 a148 a5656
+11 1
+.names a3832 a146 a5658
+11 1
+.names a5658 a3746 a5660
+11 1
+.names a3760 a172 a5662
+01 1
+.names a5662 a3944 a5664
+11 1
+.names a5664 a3820 a5666
+10 1
+.names a5666 a5660 a5668
+00 1
+.names a5668 a5656 a5670
+10 1
+.names a5670 a5652 a5672
+11 1
+.names a5672 a5640 a5674
+11 1
+.names a5674 a5630 a5676
+11 1
+.names a4288 a4288 a5678
+01 1
+.names a5678 a3784 a5680
+10 1
+.names a4276 a3764 a5682
+11 1
+.names a5682 a4288 a5684
+11 1
+.names a5684 a5680 a5686
+00 1
+.names a4142 i110 a5688
+01 1
+.names a5688 a3798 a5690
+11 1
+.names a3784 a156 a5692
+00 1
+.names a5692 a4264 a5694
+11 1
+.names a5694 a3798 a5696
+11 1
+.names a3786 a3744 a5698
+11 1
+.names a5698 a3928 a5700
+10 1
+.names a5700 a5696 a5702
+00 1
+.names a3830 a3732 a5704
+00 1
+.names a5704 a3752 a5706
+11 1
+.names a4288 a4276 a5708
+00 1
+.names a5708 a3914 a5710
+11 1
+.names a5710 a3870 a5712
+10 1
+.names a3838 a3808 a5714
+10 1
+.names a5714 a3920 a5716
+10 1
+.names a5716 a172 a5718
+11 1
+.names a4172 a3928 a5720
+10 1
+.names a5720 a4090 a5722
+10 1
+.names a3944 a3820 a5724
+11 1
+.names a5724 a4054 a5726
+11 1
+.names a5726 a5722 a5728
+00 1
+.names a5728 a5718 a5730
+10 1
+.names a5730 a5712 a5732
+10 1
+.names a5732 a5706 a5734
+10 1
+.names a5734 a5702 a5736
+11 1
+.names a3912 a154 a5738
+11 1
+.names a5738 a3864 a5740
+10 1
+.names a4476 a144 a5742
+00 1
+.names a5742 a4250 a5744
+10 1
+.names a5744 a5740 a5746
+00 1
+.names a5746 a5736 a5748
+11 1
+.names a5748 a5690 a5750
+10 1
+.names a5750 a5686 a5752
+11 1
+.names a4476 a3772 a5754
+11 1
+.names a5754 a3930 a5756
+11 1
+.names a3784 a3732 a5758
+01 1
+.names a5758 a3914 a5760
+10 1
+.names a3920 a156 a5762
+11 1
+.names a5762 a3784 a5764
+11 1
+.names a5764 a5760 a5766
+00 1
+.names a4018 a3896 a5768
+10 1
+.names a5768 a3896 a5770
+10 1
+.names a3914 a3764 a5772
+00 1
+.names a5772 a3920 a5774
+11 1
+.names a4056 a3764 a5776
+00 1
+.names a5776 a3928 a5778
+11 1
+.names a5778 a5774 a5780
+00 1
+.names a5780 a5770 a5782
+10 1
+.names a5782 a5766 a5784
+11 1
+.names a4030 a3992 a5786
+11 1
+.names a5786 a4364 a5788
+11 1
+.names a3928 a3832 a5790
+10 1
+.names a5790 a3870 a5792
+10 1
+.names a3980 a164 a5794
+00 1
+.names a5794 a4018 a5796
+10 1
+.names a5796 a3760 a5798
+10 1
+.names a5798 a162 a5800
+11 1
+.names a5800 a3910 a5802
+10 1
+.names a4030 a3938 a5804
+00 1
+.names a5804 a3864 a5806
+11 1
+.names a5806 a4072 a5808
+10 1
+.names a5808 a5802 a5810
+00 1
+.names a5810 a5792 a5812
+10 1
+.names a5812 a5788 a5814
+10 1
+.names a3810 a3752 a5816
+10 1
+.names a5816 a4250 a5818
+11 1
+.names a5818 a3770 a5820
+10 1
+.names a5820 a4090 a5822
+11 1
+.names a3992 a3784 a5824
+00 1
+.names a5824 a3880 a5826
+11 1
+.names a3880 a3732 a5828
+10 1
+.names a5828 a3880 a5830
+10 1
+.names a4250 a164 a5832
+00 1
+.names a5832 a174 a5834
+10 1
+.names a4056 a3798 a5836
+00 1
+.names a5836 a3896 a5838
+11 1
+.names a5838 a5834 a5840
+00 1
+.names a5840 a5830 a5842
+10 1
+.names a5842 a5826 a5844
+10 1
+.names a5844 a5822 a5846
+10 1
+.names a3910 a3818 a5848
+10 1
+.names a5848 a4046 a5850
+10 1
+.names a5850 a3930 a5852
+10 1
+.names a4330 a3890 a5854
+01 1
+.names a5854 a3938 a5856
+11 1
+.names a5856 a3708 a5858
+10 1
+.names a4250 a3896 a5860
+01 1
+.names a5860 a146 a5862
+10 1
+.names a5862 a5858 a5864
+00 1
+.names a5864 a5852 a5866
+10 1
+.names a4364 a3746 a5868
+10 1
+.names a5868 a3772 a5870
+10 1
+.names a4288 a3772 a5872
+00 1
+.names a5872 a3890 a5874
+10 1
+.names a174 i110 a5876
+01 1
+.names a5876 a3708 a5878
+10 1
+.names a3896 a162 a5880
+01 1
+.names a5880 a4330 a5882
+11 1
+.names a5882 a146 a5884
+10 1
+.names a5884 a3982 a5886
+11 1
+.names a5886 a5878 a5888
+00 1
+.names a5888 a5874 a5890
+10 1
+.names a5890 a5870 a5892
+10 1
+.names a3764 a3762 a5894
+10 1
+.names a5894 a4330 a5896
+10 1
+.names a5896 a3992 a5898
+11 1
+.names a3944 a164 a5900
+11 1
+.names a5900 a4476 a5902
+11 1
+.names a5902 a3930 a5904
+11 1
+.names a5904 i112 a5906
+11 1
+.names a5906 a3772 a5908
+11 1
+.names a3744 i110 a5910
+00 1
+.names a5910 a164 a5912
+10 1
+.names a5912 a3710 a5914
+11 1
+.names a4250 a4142 a5916
+00 1
+.names a5916 a3760 a5918
+10 1
+.names a5918 a5914 a5920
+00 1
+.names a5920 a5908 a5922
+10 1
+.names a5922 a5898 a5924
+10 1
+.names a5924 a5892 a5926
+11 1
+.names a5926 a5866 a5928
+11 1
+.names a5928 a5846 a5930
+11 1
+.names a5930 a5814 a5932
+11 1
+.names a5932 a5784 a5934
+11 1
+.names a5934 a5756 a5936
+10 1
+.names a3818 a3788 a5938
+00 1
+.names a5938 a3808 a5940
+11 1
+.names a3936 i116 a5942
+10 1
+.names a5942 i114 a5944
+11 1
+.names a5944 a3858 a5946
+10 1
+.names a4142 a3928 a5948
+11 1
+.names a5948 a3786 a5950
+10 1
+.names a3838 a3786 a5952
+01 1
+.names a5952 a4046 a5954
+11 1
+.names a5954 a5950 a5956
+00 1
+.names a5956 a5946 a5958
+10 1
+.names a5958 a5940 a5960
+10 1
+.names a5960 a5936 a5962
+11 1
+.names a5962 a5752 a5964
+11 1
+.names a4276 a3928 a5966
+01 1
+.names a5966 a156 a5968
+11 1
+.names a5968 a4476 a5970
+11 1
+.names a4056 a3982 a5972
+11 1
+.names a5972 a4288 a5974
+10 1
+.names a4126 a3806 a5976
+01 1
+.names a5976 a3710 a5978
+10 1
+.names a5978 a3760 a5980
+11 1
+.names a5980 a5974 a5982
+00 1
+.names a3910 a148 a5984
+00 1
+.names a5984 a164 a5986
+11 1
+.names a3838 a3808 a5988
+01 1
+.names a5988 a4276 a5990
+11 1
+.names a5990 a4476 a5992
+10 1
+.names a3820 a3762 a5994
+01 1
+.names a5994 a4030 a5996
+10 1
+.names a5996 a3732 a5998
+11 1
+.names a4046 a3938 a6000
+10 1
+.names a6000 a3910 a6002
+10 1
+.names a6002 a5998 a6004
+00 1
+.names a6004 a5992 a6006
+10 1
+.names a6006 a5986 a6008
+10 1
+.names a6008 a5982 a6010
+11 1
+.names a6010 a5970 a6012
+10 1
+.names a3930 a3754 a6014
+10 1
+.names a6014 a164 a6016
+11 1
+.names a3890 a3788 a6018
+01 1
+.names a6018 a3838 a6020
+11 1
+.names a4030 a3992 a6022
+01 1
+.names a6022 a3930 a6024
+11 1
+.names a6024 a3864 a6026
+10 1
+.names a6026 a6020 a6028
+00 1
+.names a3938 a146 a6030
+01 1
+.names a6030 a3760 a6032
+11 1
+.names a6032 a4072 a6034
+10 1
+.names a3808 a3760 a6036
+11 1
+.names a6036 a4264 a6038
+10 1
+.names a6038 a3818 a6040
+10 1
+.names a4172 i116 a6042
+11 1
+.names a6042 a3870 a6044
+11 1
+.names a6044 a3708 a6046
+10 1
+.names a6046 a6040 a6048
+00 1
+.names a6048 a6034 a6050
+10 1
+.names a6050 a6028 a6052
+11 1
+.names a6052 a6016 a6054
+10 1
+.names a4110 a3818 a6056
+00 1
+.names a6056 a3752 a6058
+10 1
+.names a4054 a3928 a6060
+00 1
+.names a6060 a164 a6062
+10 1
+.names a6062 a6058 a6064
+00 1
+.names a3870 i114 a6066
+10 1
+.names a6066 a3938 a6068
+10 1
+.names a4332 a162 a6070
+00 1
+.names a6070 a3806 a6072
+11 1
+.names a6072 a6068 a6074
+00 1
+.names a3764 a3746 a6076
+11 1
+.names a6076 a3870 a6078
+11 1
+.names a6078 a3928 a6080
+10 1
+.names a4142 a3992 a6082
+11 1
+.names a6082 a3832 a6084
+11 1
+.names a6084 a6080 a6086
+00 1
+.names a6086 a6074 a6088
+11 1
+.names a6088 a6064 a6090
+11 1
+.names a6090 a6054 a6092
+11 1
+.names a4250 a3784 a6094
+01 1
+.names a6094 i112 a6096
+10 1
+.names a6096 a148 a6098
+11 1
+.names a6098 a4056 a6100
+10 1
+.names a4330 a3818 a6102
+00 1
+.names a6102 a3938 a6104
+11 1
+.names a172 a164 a6106
+10 1
+.names a6106 a3830 a6108
+10 1
+.names a6108 a6104 a6110
+00 1
+.names a3920 a3710 a6112
+01 1
+.names a6112 a3786 a6114
+11 1
+.names a4288 a162 a6116
+01 1
+.names a6116 a4046 a6118
+11 1
+.names a6118 a6114 a6120
+00 1
+.names a6120 a6110 a6122
+11 1
+.names a6122 a6100 a6124
+10 1
+.names a3974 o0
+1 1
+.names a4000 o1
+1 1
+.names a4044 o2
+1 1
+.names a4068 o3
+1 1
+.names a4140 o4
+1 1
+.names a4394 o5
+1 1
+.names a4568 o6
+1 1
+.names a4710 o7
+1 1
+.names a4742 o8
+1 1
+.names a4808 o9
+1 1
+.names a4932 o10
+1 1
+.names a4936 o11
+0 1
+.names a5052 o12
+1 1
+.names a5118 o13
+1 1
+.names a5148 o14
+1 1
+.names a5232 o15
+1 1
+.names a5470 o16
+1 1
+.names a5520 o17
+1 1
+.names a5546 o18
+1 1
+.names a5590 o19
+1 1
+.names a5676 o20
+1 1
+.names a5964 o21
+1 1
+.names a6012 o22
+1 1
+.names a6092 o23
+1 1
+.names a6124 o24
+1 1
+.end

@@ -1,0 +1,11 @@
+# Benchmark "pm1_r" written by ABC on Thu Oct 31 22:13:52 2024
+.model pm1_r
+.inputs b m n
+.outputs r
+.names m n new_n5
+1- 1
+-1 1
+.names new_n5 b r
+1- 1
+-1 1
+.end

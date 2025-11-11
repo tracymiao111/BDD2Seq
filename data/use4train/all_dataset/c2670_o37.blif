@@ -1,0 +1,36 @@
+# Benchmark "c2670_N2014" written by ABC on Thu Oct 31 22:14:44 2024
+.model c2670_N2014
+.inputs N51 N63 N76 N89 N227 N234
+.outputs N2014
+.names N227 N89 new_n8
+1- 1
+-0 1
+.names new_n8 N234 new_n9
+1- 1
+-1 1
+.names N234 new_n10
+0 1
+.names N51 N227 new_n11
+0- 1
+-0 1
+.names new_n10 new_n11 new_n12
+10 1
+.names new_n9 new_n12 new_n13
+10 1
+.names N227 N63 new_n14
+1- 1
+-0 1
+.names N234 new_n14 new_n15
+10 1
+.names new_n13 new_n15 new_n16
+10 1
+.names N76 N227 new_n17
+0- 1
+-0 1
+.names N234 new_n17 new_n18
+10 1
+.names new_n16 new_n18 new_n19
+10 1
+.names new_n19 N2014
+0 1
+.end

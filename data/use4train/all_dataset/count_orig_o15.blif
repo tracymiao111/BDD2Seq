@@ -1,0 +1,63 @@
+# Benchmark "count_z0" written by ABC on Thu Oct 31 22:14:26 2024
+.model count_z0
+.inputs a q r s u v w x y z a0 b0 c0 d0 e0 f0 g0 h0 i0 j0
+.outputs z0
+.names a q new_n22
+00 1
+.names new_n22 s new_n23
+1- 1
+-1 1
+.names r u new_n24
+1- 1
+-1 1
+.names new_n24 v new_n25
+1- 1
+-1 1
+.names new_n25 w new_n26
+1- 1
+-1 1
+.names new_n26 x new_n27
+1- 1
+-1 1
+.names new_n27 y new_n28
+1- 1
+-1 1
+.names new_n28 z new_n29
+1- 1
+-1 1
+.names new_n29 a0 new_n30
+1- 1
+-1 1
+.names new_n30 b0 new_n31
+1- 1
+-1 1
+.names new_n31 c0 new_n32
+1- 1
+-1 1
+.names new_n32 d0 new_n33
+1- 1
+-1 1
+.names new_n33 e0 new_n34
+1- 1
+-1 1
+.names new_n34 f0 new_n35
+1- 1
+-1 1
+.names new_n35 g0 new_n36
+1- 1
+-1 1
+.names new_n36 h0 new_n37
+1- 1
+-1 1
+.names new_n37 i0 new_n38
+1- 1
+-1 1
+.names new_n38 j0 new_n39
+10 1
+01 1
+.names q new_n39 new_n40
+10 1
+.names new_n23 new_n40 z0
+1- 1
+-1 1
+.end

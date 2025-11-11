@@ -1,0 +1,17 @@
+# Benchmark "rot_j5" written by ABC on Thu Oct 31 22:15:06 2024
+.model rot_j5
+.inputs n p q c1 l2
+.outputs j5
+.names l2 c1 new_n7
+10 1
+.names p n new_n8
+1- 1
+-0 1
+.names q new_n8 new_n9
+10 1
+.names l2 new_n9 new_n10
+10 1
+.names new_n7 new_n10 j5
+1- 1
+-1 1
+.end

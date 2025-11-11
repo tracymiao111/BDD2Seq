@@ -1,0 +1,28 @@
+# Benchmark "CM151_m" written by ABC on Thu Oct 31 22:14:31 2024
+.model CM151_m
+.inputs a b c d e f g h i j k l
+.outputs m
+.names a b i new_n14
+1-0 1
+-11 1
+.names c d i new_n15
+1-0 1
+-11 1
+.names new_n14 new_n15 j new_n16
+1-0 1
+-11 1
+.names e f i new_n17
+1-0 1
+-11 1
+.names g h i new_n18
+1-0 1
+-11 1
+.names new_n17 new_n18 j new_n19
+1-0 1
+-11 1
+.names new_n16 new_n19 k new_n20
+1-0 1
+-11 1
+.names new_n20 l m
+10 1
+.end

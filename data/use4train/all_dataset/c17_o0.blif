@@ -1,0 +1,14 @@
+# Benchmark "c17_N22" written by ABC on Thu Oct 31 22:14:52 2024
+.model c17_N22
+.inputs N1 N2 N3 N6
+.outputs N22
+.names N3 N1 new_n6
+11 1
+.names N6 N3 new_n7
+11 1
+.names N2 new_n7 new_n8
+10 1
+.names new_n6 new_n8 N22
+1- 1
+-1 1
+.end

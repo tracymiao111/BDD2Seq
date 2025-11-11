@@ -1,0 +1,31 @@
+# Benchmark "x3.blif_h5" written by ABC on Thu Oct 31 22:15:10 2024
+.model x3.blif_h5
+.inputs s y b0 m1 y1
+.outputs h5
+.names y1 new_n7
+0 1
+.names m1 s new_n8
+00 1
+.names y m1 new_n9
+00 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names b0 m1 new_n11
+10 1
+.names new_n10 new_n11 new_n12
+1- 1
+-1 1
+.names b0 new_n13
+0 1
+.names y s new_n14
+1- 1
+-0 1
+.names new_n13 new_n14 new_n15
+10 1
+.names new_n12 new_n15 new_n16
+1- 1
+-1 1
+.names new_n7 new_n16 h5
+10 1
+.end

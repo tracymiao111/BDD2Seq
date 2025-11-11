@@ -1,0 +1,50 @@
+# Benchmark "CM162_p" written by ABC on Thu Oct 31 22:13:53 2024
+.model CM162_p
+.inputs b c d e f i j k n
+.outputs p
+.names b new_n11
+0 1
+.names c d new_n12
+11 1
+.names new_n12 e new_n13
+0- 1
+-0 1
+.names new_n13 i new_n14
+1- 1
+-1 1
+.names new_n14 k new_n15
+10 1
+01 1
+.names new_n11 new_n15 new_n16
+10 1
+.names f d new_n17
+10 1
+.names new_n17 new_n18
+0 1
+.names new_n18 new_n15 new_n19
+10 1
+.names new_n16 new_n19 new_n20
+1- 1
+-1 1
+.names j n new_n21
+0- 1
+-0 1
+.names new_n21 new_n13 new_n22
+1- 1
+-1 1
+.names d f new_n23
+0- 1
+-0 1
+.names new_n22 new_n23 new_n24
+10 1
+.names new_n11 new_n24 new_n25
+10 1
+.names new_n20 new_n25 new_n26
+1- 1
+-1 1
+.names new_n18 new_n24 new_n27
+10 1
+.names new_n26 new_n27 p
+1- 1
+-1 1
+.end

@@ -1,0 +1,65 @@
+# Benchmark "rot_u6" written by ABC on Thu Oct 31 22:15:07 2024
+.model rot_u6
+.inputs g0 t0 w0 x0 y0 z0 u1
+.outputs u6
+.names z0 new_n9
+0 1
+.names x0 w0 new_n10
+00 1
+.names y0 new_n11
+0 1
+.names new_n10 new_n11 new_n12
+0- 1
+-0 1
+.names new_n9 new_n12 new_n13
+10 1
+.names new_n13 u1 new_n14
+0- 1
+-0 1
+.names x0 w0 new_n15
+0- 1
+-0 1
+.names new_n15 new_n11 new_n16
+1- 1
+-1 1
+.names new_n16 new_n9 new_n17
+1- 1
+-1 1
+.names u1 new_n17 new_n18
+10 1
+.names w0 x0 new_n19
+1- 1
+-0 1
+.names new_n19 y0 new_n20
+1- 1
+-1 1
+.names new_n20 new_n9 new_n21
+1- 1
+-1 1
+.names u1 new_n21 new_n22
+10 1
+.names new_n18 new_n22 new_n23
+1- 1
+-1 1
+.names x0 w0 new_n24
+1- 1
+-0 1
+.names new_n24 new_n11 new_n25
+1- 1
+-1 1
+.names new_n25 z0 new_n26
+1- 1
+-1 1
+.names u1 new_n26 new_n27
+10 1
+.names new_n23 new_n27 new_n28
+1- 1
+-1 1
+.names new_n14 new_n28 new_n29
+10 1
+.names t0 g0 new_n30
+0- 1
+-0 1
+.names new_n29 new_n30 u6
+10 1
+.end

@@ -1,0 +1,81 @@
+# Benchmark "term1_m0" written by ABC on Thu Oct 31 22:14:30 2024
+.model term1_m0
+.inputs b c d p q r s t u v w x y z a0 c0
+.outputs m0
+.names d c new_n18
+0- 1
+-0 1
+.names y t new_n19
+1- 1
+-1 1
+.names u v new_n20
+0- 1
+-0 1
+.names new_n20 w new_n21
+1- 1
+-0 1
+.names p q new_n22
+0- 1
+-0 1
+.names r new_n22 new_n23
+10 1
+.names u q new_n24
+0- 1
+-0 1
+.names r new_n24 new_n25
+10 1
+.names new_n23 new_n25 new_n26
+1- 1
+-1 1
+.names p v new_n27
+0- 1
+-0 1
+.names r new_n27 new_n28
+10 1
+.names new_n26 new_n28 new_n29
+1- 1
+-1 1
+.names r new_n20 new_n30
+10 1
+.names new_n29 new_n30 new_n31
+1- 1
+-1 1
+.names w new_n22 new_n32
+10 1
+.names new_n31 new_n32 new_n33
+1- 1
+-1 1
+.names w new_n24 new_n34
+10 1
+.names new_n33 new_n34 new_n35
+1- 1
+-1 1
+.names w new_n27 new_n36
+10 1
+.names new_n35 new_n36 new_n37
+1- 1
+-1 1
+.names new_n21 new_n37 new_n38
+10 1
+.names x s new_n39
+00 1
+.names new_n38 new_n39 new_n40
+1- 1
+-1 1
+.names new_n19 new_n40 new_n41
+10 1
+.names new_n18 new_n41 new_n42
+10 1
+.names c0 a0 new_n43
+00 1
+.names new_n43 z new_n44
+0- 1
+-0 1
+.names b new_n45
+0 1
+.names new_n44 new_n45 new_n46
+1- 1
+-1 1
+.names new_n42 new_n46 m0
+10 1
+.end

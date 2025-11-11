@@ -1,0 +1,60 @@
+Successfully loaded network from BLIF file: ../../split_3/i10_orig_o122.blif
+the reorder method is = 16
+Built BDD for node: V1(0)
+Built BDD for node: V11(0)
+Built BDD for node: V1428
+Total number of unique BDD nodes (shared among outputs): 3
+read reordering times = 1**** CUDD modifiable parameters ****
+Hard limit for cache size: 2796202
+Cache hit threshold for resizing: 30%
+Garbage collection enabled: yes
+Limit for fast unique table growth: 1677721
+Maximum number of variables sifted per reordering: 1000
+Maximum number of variable swaps per reordering: 2000000
+Maximum growth while sifting a variable: 1.2
+Dynamic reordering of BDDs enabled: yes
+Default BDD reordering method: 16
+Dynamic reordering of ZDDs enabled: no
+Default ZDD reordering method: 4
+Realignment of ZDDs to BDDs enabled: no
+Realignment of BDDs to ZDDs enabled: no
+Dead nodes counted in triggering reordering: no
+Group checking criterion: 7
+Recombination threshold: 0
+Symmetry violation threshold: 0
+Arc violation threshold: 0
+GA population size: 0
+Number of crossovers for GA: 0
+Next reordering threshold: 12
+**** CUDD non-modifiable parameters ****
+Memory in use: 10523080
+Peak number of nodes: 1022
+Peak number of live nodes: 7
+Number of BDD variables: 2
+Number of ZDD variables: 0
+Number of cache entries: 262144
+Number of cache look-ups: 1
+Number of cache hits: 0
+Number of cache insertions: 1
+Number of cache collisions: 0
+Number of cache deletions: 1
+Cache used slots = 0.00% (expected 0.00%)
+Soft limit for cache size: 3072
+Number of buckets in unique table: 768
+Used buckets in unique table: 0.91% (expected 0.91%)
+Number of BDD and ADD nodes: 7
+Number of ZDD nodes: 0
+Number of dead BDD and ADD nodes: 0
+Number of dead ZDD nodes: 0
+Total number of nodes allocated: 7
+Total number of nodes reclaimed: 0
+Garbage collections so far: 0
+Time for garbage collection: 0.00 sec
+Reorderings so far: 1
+Time for reordering: 0.00 sec
+
+Current variable ordering in BDD:
+Position 0: Variable index 0
+Position 1: Variable index 1
+
+Completed: CUDD_REORDER_ANNEALING.

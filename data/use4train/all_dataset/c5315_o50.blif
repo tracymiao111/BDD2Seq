@@ -1,0 +1,44 @@
+# Benchmark "c5315_N6877" written by ABC on Thu Oct 31 22:14:13 2024
+.model c5315_N6877
+.inputs N206 N210 N218 N226 N234 N257 N265 N273 N281 N289
+.outputs N6877
+.names N273 N265 new_n12
+11 1
+00 1
+.names N289 N281 new_n13
+11 1
+00 1
+.names new_n12 new_n13 new_n14
+0- 1
+-0 1
+.names new_n13 new_n12 new_n15
+1- 1
+-0 1
+.names N257 N234 new_n16
+11 1
+00 1
+.names new_n14 new_n15 new_n16 new_n17
+1-0 1
+-11 1
+.names new_n12 new_n13 new_n18
+00 1
+.names new_n13 new_n12 new_n19
+10 1
+.names new_n18 new_n19 new_n16 new_n20
+1-0 1
+-11 1
+.names new_n17 new_n20 new_n21
+10 1
+.names N206 N210 new_n22
+11 1
+00 1
+.names N226 N218 new_n23
+10 1
+01 1
+.names new_n22 new_n23 new_n24
+10 1
+01 1
+.names new_n21 new_n24 N6877
+10 1
+01 1
+.end

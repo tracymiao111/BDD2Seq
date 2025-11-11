@@ -1,0 +1,234 @@
+.model /Users/chromemono/Downloads/aiger/filtered_aigs/small_circuit_169.aig
+.inputs i2 i4 i6 i8 i10 i12 i14 i16 i18 i20 \
+i22 i24 i26 i28 i30 i32 i34 i36 i38 i40 \
+i42 i44 i46 
+.outputs o0 o1 o2 o3 o4 o5 o6 o7 o8 o9 
+.names i30 i28 a48
+11 1
+.names i26 i24 a50
+11 1
+.names a50 a48 a52
+11 1
+.names i44 i16 a54
+00 1
+.names i46 i38 a56
+00 1
+.names a56 a54 a58
+01 1
+.names i40 i10 a60
+00 1
+.names i12 i6 a62
+01 1
+.names a62 a60 a64
+10 1
+.names a64 a58 a66
+11 1
+.names i18 i14 a68
+01 1
+.names i42 i8 a70
+01 1
+.names a70 a68 a72
+10 1
+.names i36 i2 a74
+11 1
+.names a74 a50 a76
+00 1
+.names a76 a72 a78
+10 1
+.names i32 i4 a80
+11 1
+.names a80 a60 a82
+00 1
+.names a82 a52 a84
+11 1
+.names a84 a78 a86
+00 1
+.names a86 a66 a88
+01 1
+.names a88 a52 a90
+10 1
+.names a50 a48 a92
+00 1
+.names a68 a54 a94
+10 1
+.names a94 a92 a96
+01 1
+.names a72 i20 a98
+10 1
+.names a98 a96 a100
+11 1
+.names a70 a62 a102
+10 1
+.names a102 a76 a104
+10 1
+.names a104 a78 a106
+01 1
+.names a106 a100 a108
+10 1
+.names a104 a84 a110
+10 1
+.names a110 a54 a112
+11 1
+.names a112 a108 a114
+00 1
+.names a102 a82 a116
+11 1
+.names a116 a58 a118
+01 1
+.names a118 a110 a120
+11 1
+.names a120 a66 a122
+00 1
+.names a122 a114 a124
+00 1
+.names a122 a114 a126
+11 1
+.names a126 a124 a128
+00 1
+.names a128 a90 a130
+10 1
+.names a128 a90 a132
+01 1
+.names a132 a130 a134
+00 1
+.names a74 a56 a136
+01 1
+.names a136 a52 a138
+01 1
+.names a138 a96 a140
+11 1
+.names a140 a100 a142
+10 1
+.names a116 a58 a144
+10 1
+.names a144 a110 a146
+11 1
+.names a146 a142 a148
+00 1
+.names a66 a58 a150
+00 1
+.names a150 a86 a152
+11 1
+.names a152 a108 a154
+01 1
+.names a154 a148 a156
+11 1
+.names a154 a148 a158
+00 1
+.names a158 a156 a160
+00 1
+.names a150 a78 a162
+10 1
+.names a162 a146 a164
+00 1
+.names a104 a86 a166
+00 1
+.names a166 a142 a168
+00 1
+.names a136 a58 a170
+11 1
+.names a170 a84 a172
+01 1
+.names a172 a144 a174
+00 1
+.names a174 a84 a176
+10 1
+.names a106 a78 a178
+00 1
+.names a178 a112 a180
+00 1
+.names a142 a112 a182
+00 1
+.names a166 a96 a184
+01 1
+.names a184 a182 a186
+10 1
+.names a184 a182 a188
+01 1
+.names a188 a186 a190
+00 1
+.names a190 a180 a192
+00 1
+.names a190 a180 a194
+11 1
+.names a194 a192 a196
+00 1
+.names a196 a176 a198
+11 1
+.names a196 a176 a200
+00 1
+.names a200 a198 a202
+00 1
+.names a202 a168 a204
+00 1
+.names a202 a168 a206
+11 1
+.names a206 a204 a208
+00 1
+.names a146 a120 a210
+11 1
+.names a88 a72 a212
+00 1
+.names a108 a86 a214
+01 1
+.names a166 a66 a216
+00 1
+.names a216 a214 a218
+10 1
+.names a216 a214 a220
+01 1
+.names a220 a218 a222
+00 1
+.names a222 a212 a224
+01 1
+.names a222 a212 a226
+10 1
+.names a226 a224 a228
+00 1
+.names a60 i34 a230
+01 1
+.names a68 i22 a232
+00 1
+.names a232 a230 a234
+10 1
+.names a234 a66 a236
+10 1
+.names a236 a136 a238
+01 1
+.names a238 a118 a240
+11 1
+.names a152 a88 a242
+01 1
+.names a242 a240 a244
+10 1
+.names a242 a240 a246
+01 1
+.names a246 a244 a248
+00 1
+.names a238 a146 a250
+11 1
+.names a236 a162 a252
+01 1
+.names a174 a146 a254
+10 1
+.names a134 o0
+0 1
+.names a160 o1
+0 1
+.names a164 o2
+1 1
+.names a208 o3
+0 1
+.names a210 o4
+0 1
+.names a228 o5
+0 1
+.names a248 o6
+0 1
+.names a250 o7
+0 1
+.names a252 o8
+1 1
+.names a254 o9
+1 1
+.end

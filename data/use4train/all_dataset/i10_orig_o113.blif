@@ -1,0 +1,50 @@
+# Benchmark "i10_V1378" written by ABC on Thu Oct 31 22:14:08 2024
+.model i10_V1378
+.inputs V10(0) V13(0) V174(0) V149(4) V7(0) V149(0) V149(1) V149(2) V149(3) \
+ V52(0) V51(0)
+.outputs V1378
+.names V10(0) V13(0) new_n13
+10 1
+.names V7(0) new_n14
+0 1
+.names new_n13 new_n14 new_n15
+10 1
+.names V52(0) V51(0) new_n16
+00 1
+.names new_n16 new_n17
+0 1
+.names V149(2) V149(3) new_n18
+0- 1
+-0 1
+.names V149(1) new_n19
+0 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names new_n20 V149(0) new_n21
+1- 1
+-1 1
+.names V149(3) new_n22
+0 1
+.names V149(0) V149(4) new_n23
+1- 1
+-0 1
+.names new_n23 new_n19 new_n24
+1- 1
+-1 1
+.names V149(2) new_n25
+0 1
+.names new_n24 new_n25 new_n26
+1- 1
+-1 1
+.names new_n22 new_n26 new_n27
+10 1
+.names new_n27 V174(0) new_n28
+10 1
+.names new_n21 new_n28 new_n29
+10 1
+.names new_n17 new_n29 new_n30
+10 1
+.names new_n15 new_n30 V1378
+11 1
+.end

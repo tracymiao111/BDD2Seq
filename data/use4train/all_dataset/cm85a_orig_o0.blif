@@ -1,0 +1,57 @@
+# Benchmark "CM85_l" written by ABC on Thu Oct 31 22:14:53 2024
+.model CM85_l
+.inputs a b d e f g h i j k
+.outputs l
+.names i h new_n12
+10 1
+.names e d new_n13
+10 1
+.names new_n13 a new_n14
+1- 1
+-1 1
+.names a b new_n15
+00 1
+.names new_n14 new_n15 new_n16
+10 1
+.names g f new_n17
+10 1
+.names d e new_n18
+11 1
+00 1
+.names new_n18 b new_n19
+0- 1
+-0 1
+.names new_n17 new_n19 new_n20
+10 1
+.names new_n16 new_n20 new_n21
+1- 1
+-1 1
+.names new_n12 new_n21 new_n22
+1- 1
+-1 1
+.names f g new_n23
+10 1
+.names new_n17 new_n23 new_n24
+1- 1
+-1 1
+.names new_n19 new_n24 new_n25
+1- 1
+-1 1
+.names new_n25 new_n21 new_n26
+10 1
+.names new_n22 new_n26 new_n27
+10 1
+.names h i new_n28
+11 1
+00 1
+.names new_n28 new_n25 new_n29
+10 1
+.names j k new_n30
+1- 1
+-0 1
+.names new_n29 new_n30 new_n31
+10 1
+.names new_n27 new_n31 l
+1- 1
+-1 1
+.end

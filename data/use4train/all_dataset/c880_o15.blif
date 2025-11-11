@@ -1,0 +1,32 @@
+# Benchmark "c880_N767" written by ABC on Thu Oct 31 22:13:56 2024
+.model c880_N767
+.inputs N91 N96 N101 N106 N111 N116 N121 N126 N130 N135
+.outputs N767
+.names N126 N121 new_n12
+10 1
+01 1
+.names N116 N111 new_n13
+10 1
+01 1
+.names new_n12 new_n13 new_n14
+10 1
+01 1
+.names new_n14 N135 new_n15
+10 1
+01 1
+.names N106 N101 new_n16
+10 1
+01 1
+.names N96 N91 new_n17
+10 1
+01 1
+.names new_n16 new_n17 new_n18
+10 1
+01 1
+.names new_n18 N130 new_n19
+10 1
+01 1
+.names new_n15 new_n19 N767
+10 1
+01 1
+.end

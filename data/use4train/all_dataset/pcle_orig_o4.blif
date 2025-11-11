@@ -1,0 +1,39 @@
+# Benchmark "pcle_cl_x" written by ABC on Thu Oct 31 22:13:55 2024
+.model pcle_cl_x
+.inputs d i j k l m n o
+.outputs x
+.names d i new_n10
+11 1
+.names i j new_n11
+1- 1
+-0 1
+.names new_n11 k new_n12
+1- 1
+-1 1
+.names new_n12 o new_n13
+1- 1
+-1 1
+.names m l new_n14
+0- 1
+-0 1
+.names n new_n15
+0 1
+.names new_n14 new_n15 new_n16
+1- 1
+-1 1
+.names new_n13 new_n16 new_n17
+00 1
+.names new_n10 new_n17 new_n18
+1- 1
+-1 1
+.names o new_n19
+0 1
+.names new_n12 new_n19 new_n20
+1- 1
+-1 1
+.names new_n16 new_n20 new_n21
+10 1
+.names new_n18 new_n21 x
+1- 1
+-1 1
+.end

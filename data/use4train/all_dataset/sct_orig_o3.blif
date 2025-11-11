@@ -1,0 +1,29 @@
+# Benchmark "sct_w" written by ABC on Thu Oct 31 22:15:09 2024
+.model sct_w
+.inputs c d e g h q
+.outputs w
+.names g h new_n8
+11 1
+.names e new_n9
+0 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names q c new_n11
+10 1
+.names new_n10 new_n11 new_n12
+1- 1
+-1 1
+.names q d new_n13
+11 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names h new_n14 new_n15
+10 1
+.names g new_n14 new_n16
+10 1
+.names new_n15 new_n16 w
+1- 1
+-1 1
+.end

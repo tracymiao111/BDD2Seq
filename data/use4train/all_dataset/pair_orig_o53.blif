@@ -1,0 +1,62 @@
+# Benchmark "pair_t7" written by ABC on Thu Oct 31 22:14:18 2024
+.model pair_t7
+.inputs b l l1 m1 n1 p1 q1 z1 b2 c2 d2 e2 f2 g2 h2 i2 j2 k2 l2 m2 n2
+.outputs t7
+.names l2 k2 new_n23
+0- 1
+-0 1
+.names j2 i2 new_n24
+0- 1
+-0 1
+.names l p1 new_n25
+00 1
+.names c2 d2 new_n26
+11 1
+.names new_n26 b2 new_n27
+0- 1
+-0 1
+.names q1 l new_n28
+10 1
+.names new_n27 new_n28 new_n29
+10 1
+.names g2 new_n29 new_n30
+10 1
+.names new_n25 new_n30 new_n31
+10 1
+.names e2 new_n31 new_n32
+10 1
+.names h2 f2 new_n33
+0- 1
+-0 1
+.names new_n32 new_n33 new_n34
+10 1
+.names new_n24 new_n34 new_n35
+1- 1
+-0 1
+.names new_n35 l new_n36
+10 1
+.names new_n23 new_n36 new_n37
+00 1
+.names new_n37 m2 new_n38
+10 1
+01 1
+.names b new_n39
+0 1
+.names n1 m1 new_n40
+10 1
+.names new_n40 l1 new_n41
+0- 1
+-0 1
+.names new_n39 new_n41 new_n42
+10 1
+.names new_n32 n2 new_n43
+11 1
+.names new_n42 new_n43 new_n44
+00 1
+.names z1 new_n38 new_n44 new_n45
+1-0 1
+-11 1
+.names new_n45 b t7
+1- 1
+-1 1
+.end

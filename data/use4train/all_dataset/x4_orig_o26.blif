@@ -1,0 +1,24 @@
+# Benchmark "x4_w3" written by ABC on Thu Oct 31 22:14:33 2024
+.model x4_w3
+.inputs g h i g0 h0 i0 m1 v2
+.outputs w3
+.names g0 i0 new_n10
+1- 1
+-0 1
+.names new_n10 m1 new_n11
+1- 1
+-1 1
+.names h g new_n12
+1- 1
+-1 1
+.names new_n12 i new_n13
+1- 1
+-1 1
+.names h0 new_n13 new_n14
+10 1
+.names new_n11 new_n14 new_n15
+1- 1
+-1 1
+.names v2 new_n15 w3
+10 1
+.end

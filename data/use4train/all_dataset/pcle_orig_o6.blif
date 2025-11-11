@@ -1,0 +1,49 @@
+# Benchmark "pcle_cl_z" written by ABC on Thu Oct 31 22:13:55 2024
+.model pcle_cl_z
+.inputs f i j k l m n o p q
+.outputs z
+.names f i new_n12
+11 1
+.names i j new_n13
+1- 1
+-0 1
+.names new_n13 k new_n14
+1- 1
+-1 1
+.names new_n14 q new_n15
+1- 1
+-1 1
+.names m l new_n16
+0- 1
+-0 1
+.names n new_n17
+0 1
+.names new_n16 new_n17 new_n18
+1- 1
+-1 1
+.names o new_n19
+0 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names p new_n21
+0 1
+.names new_n20 new_n21 new_n22
+1- 1
+-1 1
+.names new_n15 new_n22 new_n23
+00 1
+.names new_n12 new_n23 new_n24
+1- 1
+-1 1
+.names q new_n25
+0 1
+.names new_n14 new_n25 new_n26
+1- 1
+-1 1
+.names new_n22 new_n26 new_n27
+10 1
+.names new_n24 new_n27 z
+1- 1
+-1 1
+.end

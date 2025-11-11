@@ -1,0 +1,85 @@
+# Benchmark "cmb_r" written by ABC on Thu Oct 31 22:14:48 2024
+.model cmb_r
+.inputs e f g h i j k l m n o p
+.outputs r
+.names f g new_n14
+1- 1
+-1 1
+.names new_n14 h new_n15
+1- 1
+-1 1
+.names j k new_n16
+1- 1
+-0 1
+.names l new_n17
+0 1
+.names n new_n17 m new_n18
+1-0 1
+-11 1
+.names o n new_n19
+10 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names e p new_n21
+10 1
+.names new_n20 new_n21 new_n22
+1- 1
+-1 1
+.names new_n22 k new_n23
+1- 1
+-0 1
+.names new_n17 new_n22 new_n24
+10 1
+.names new_n23 new_n24 new_n25
+10 1
+.names i h new_n26
+10 1
+.names new_n25 new_n26 new_n27
+1- 1
+-1 1
+.names j i new_n28
+10 1
+.names new_n27 new_n28 new_n29
+1- 1
+-1 1
+.names new_n16 new_n29 new_n30
+10 1
+.names new_n15 new_n30 new_n31
+1- 1
+-0 1
+.names e f new_n32
+0- 1
+-0 1
+.names g new_n33
+0 1
+.names new_n32 new_n33 new_n34
+1- 1
+-1 1
+.names new_n30 new_n34 new_n35
+10 1
+.names new_n32 h new_n36
+1- 1
+-1 1
+.names new_n30 new_n36 new_n37
+10 1
+.names new_n35 new_n37 new_n38
+1- 1
+-1 1
+.names g e new_n39
+1- 1
+-0 1
+.names new_n39 h new_n40
+1- 1
+-1 1
+.names new_n30 new_n40 new_n41
+10 1
+.names new_n38 new_n41 new_n42
+1- 1
+-1 1
+.names new_n31 new_n42 new_n43
+10 1
+.names new_n43 p r
+1- 1
+-1 1
+.end

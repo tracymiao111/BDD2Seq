@@ -1,0 +1,15 @@
+# Benchmark "c880_N447" written by ABC on Thu Oct 31 22:13:56 2024
+.model c880_N447
+.inputs N1 N26 N51
+.outputs N447
+.names N26 N1 new_n5
+0- 1
+-0 1
+.names N51 new_n6
+0 1
+.names new_n5 new_n6 new_n7
+1- 1
+-1 1
+.names new_n7 N447
+0 1
+.end

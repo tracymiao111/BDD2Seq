@@ -1,0 +1,27 @@
+# Benchmark "x1_y1" written by ABC on Thu Oct 31 22:14:24 2024
+.model x1_y1
+.inputs j z f0 g0 h0 r0
+.outputs y1
+.names h0 new_n8
+0 1
+.names z j new_n9
+1- 1
+-0 1
+.names new_n8 new_n9 new_n10
+10 1
+.names g0 new_n11
+0 1
+.names z h0 new_n12
+1- 1
+-1 1
+.names new_n12 f0 new_n13
+1- 1
+-1 1
+.names new_n11 new_n13 new_n14
+10 1
+.names new_n14 r0 new_n15
+10 1
+.names new_n10 new_n15 y1
+1- 1
+-1 1
+.end

@@ -1,0 +1,78 @@
+# Benchmark "c3540_N3195" written by ABC on Thu Oct 31 22:14:27 2024
+.model c3540_N3195
+.inputs N1 N13 N20 N50 N58 N68 N77 N87 N97 N107 N116 N226 N232 N238 N244 \
+ N250 N257 N264 N270
+.outputs N3195
+.names N68 N58 new_n21
+00 1
+.names N50 new_n22
+0 1
+.names new_n21 new_n22 new_n23
+1- 1
+-1 1
+.names N13 N1 new_n24
+0- 1
+-0 1
+.names N20 new_n24 new_n25
+10 1
+.names new_n23 new_n25 new_n26
+1- 1
+-0 1
+.names N264 N257 new_n27
+00 1
+.names N250 new_n27 new_n28
+10 1
+.names N1 N13 new_n29
+10 1
+.names new_n29 N20 new_n30
+0- 1
+-0 1
+.names new_n28 new_n30 new_n31
+10 1
+.names new_n26 new_n31 new_n32
+10 1
+.names N270 N116 new_n33
+11 1
+.names N264 N107 new_n34
+11 1
+.names N257 N97 new_n35
+11 1
+.names N250 N87 new_n36
+11 1
+.names new_n35 new_n36 new_n37
+1- 1
+-1 1
+.names new_n34 new_n37 new_n38
+1- 1
+-1 1
+.names new_n33 new_n38 new_n39
+1- 1
+-1 1
+.names N244 N77 new_n40
+11 1
+.names N238 N68 new_n41
+11 1
+.names N232 N58 new_n42
+11 1
+.names N226 N50 new_n43
+11 1
+.names new_n42 new_n43 new_n44
+1- 1
+-1 1
+.names new_n41 new_n44 new_n45
+1- 1
+-1 1
+.names new_n40 new_n45 new_n46
+1- 1
+-1 1
+.names new_n39 new_n46 new_n47
+1- 1
+-1 1
+.names new_n25 new_n30 new_n48
+1- 1
+-0 1
+.names new_n47 new_n48 new_n49
+10 1
+.names new_n32 new_n49 N3195
+10 1
+.end

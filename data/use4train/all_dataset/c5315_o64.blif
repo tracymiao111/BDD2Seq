@@ -1,0 +1,136 @@
+# Benchmark "c5315_N7470" written by ABC on Thu Oct 31 22:14:13 2024
+.model c5315_N7470
+.inputs N4 N122 N234 N241 N257 N264 N265 N272 N273 N280 N281 N288 N335 N374 \
+ N389 N400 N411 N435 N595 N596 N597 N598 N619 N625
+.outputs N7470
+.names N596 N595 N234 new_n26
+1-0 1
+-11 1
+.names new_n26 N435 new_n27
+10 1
+.names N435 N597 new_n28
+10 1
+.names N435 N598 new_n29
+10 1
+.names new_n28 new_n29 N234 new_n30
+1-0 1
+-11 1
+.names new_n27 new_n30 new_n31
+00 1
+.names N619 new_n32
+0 1
+.names new_n31 new_n32 new_n33
+0- 1
+-0 1
+.names new_n33 N625 new_n34
+1- 1
+-1 1
+.names N625 new_n35
+0 1
+.names N257 N264 N335 new_n36
+1-0 1
+-11 1
+.names new_n36 N389 new_n37
+0- 1
+-0 1
+.names N265 N272 N335 new_n38
+1-0 1
+-11 1
+.names N400 new_n39
+0 1
+.names new_n38 new_n39 new_n40
+10 1
+.names N389 new_n41
+0 1
+.names new_n36 new_n41 new_n42
+10 1
+01 1
+.names new_n40 new_n42 new_n43
+10 1
+.names new_n37 new_n43 new_n44
+10 1
+.names N273 N280 N335 new_n45
+1-0 1
+-11 1
+.names new_n45 N411 new_n46
+0- 1
+-0 1
+.names new_n38 new_n39 new_n47
+10 1
+01 1
+.names new_n46 new_n47 new_n48
+00 1
+.names new_n48 new_n42 new_n49
+10 1
+.names new_n44 new_n49 new_n50
+10 1
+.names new_n42 new_n51
+0 1
+.names N281 N288 N335 new_n52
+1-0 1
+-11 1
+.names new_n52 N374 new_n53
+0- 1
+-0 1
+.names N411 new_n54
+0 1
+.names new_n45 new_n54 new_n55
+10 1
+01 1
+.names new_n55 new_n47 new_n56
+1- 1
+-1 1
+.names new_n53 new_n56 new_n57
+1- 1
+-1 1
+.names new_n51 new_n57 new_n58
+10 1
+.names new_n50 new_n58 new_n59
+10 1
+.names N374 new_n60
+0 1
+.names new_n52 new_n60 new_n61
+10 1
+01 1
+.names N4 new_n61 new_n62
+10 1
+.names new_n47 new_n63
+0 1
+.names new_n62 new_n63 new_n64
+0- 1
+-0 1
+.names new_n64 new_n55 new_n65
+1- 1
+-1 1
+.names new_n51 new_n65 new_n66
+10 1
+.names new_n59 new_n66 new_n67
+10 1
+.names N234 N241 N335 new_n68
+1-0 1
+-11 1
+.names N435 new_n69
+0 1
+.names new_n68 new_n69 new_n70
+10 1
+01 1
+.names new_n70 new_n71
+0 1
+.names new_n67 new_n71 new_n72
+10 1
+01 1
+.names new_n72 new_n32 new_n73
+1- 1
+-1 1
+.names new_n35 new_n73 new_n74
+10 1
+.names new_n34 new_n74 new_n75
+10 1
+.names N619 N122 new_n76
+1- 1
+-0 1
+.names N625 new_n76 new_n77
+10 1
+.names new_n75 new_n77 N7470
+10 1
+.end

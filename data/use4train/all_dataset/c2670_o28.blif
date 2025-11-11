@@ -1,0 +1,34 @@
+# Benchmark "c2670_N1818" written by ABC on Thu Oct 31 22:14:44 2024
+.model c2670_N1818
+.inputs N102 N114 N126 N138 N319 N322
+.outputs N1818
+.names N319 N138 new_n8
+1- 1
+-0 1
+.names new_n8 N322 new_n9
+1- 1
+-1 1
+.names N322 new_n10
+0 1
+.names N102 N319 new_n11
+0- 1
+-0 1
+.names new_n10 new_n11 new_n12
+10 1
+.names new_n9 new_n12 new_n13
+10 1
+.names N319 N126 new_n14
+1- 1
+-0 1
+.names N322 new_n14 new_n15
+10 1
+.names new_n13 new_n15 new_n16
+10 1
+.names N114 N319 new_n17
+0- 1
+-0 1
+.names N322 new_n17 new_n18
+10 1
+.names new_n16 new_n18 N1818
+10 1
+.end

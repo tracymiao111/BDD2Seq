@@ -1,0 +1,57 @@
+# Benchmark "i10_V1832" written by ABC on Thu Oct 31 22:14:10 2024
+.model i10_V1832
+.inputs V56(0) V62(0) V59(0) V258(0) V14(0) V268(5) V268(3) V268(1) V268(2) \
+ V268(4) V259(0) V260(0) V50(0) V261(0) V262(0) V268(0)
+.outputs V1832
+.names V268(3) V268(5) new_n18
+0- 1
+-0 1
+.names new_n18 V268(1) new_n19
+1- 1
+-0 1
+.names V268(2) new_n19 new_n20
+10 1
+.names new_n20 V268(4) new_n21
+0- 1
+-0 1
+.names V268(0) new_n21 new_n22
+10 1
+.names new_n22 new_n23
+0 1
+.names V259(0) V59(0) new_n24
+1- 1
+-1 1
+.names new_n24 V260(0) new_n25
+1- 1
+-1 1
+.names V258(0) new_n26
+0 1
+.names new_n25 new_n26 new_n27
+1- 1
+-1 1
+.names V14(0) V262(0) new_n28
+0- 1
+-0 1
+.names new_n27 new_n28 new_n29
+10 1
+.names V262(0) new_n30
+0 1
+.names new_n29 new_n30 new_n31
+1- 1
+-1 1
+.names V62(0) new_n32
+0 1
+.names V50(0) V56(0) new_n33
+1- 1
+-1 1
+.names new_n32 new_n33 new_n34
+10 1
+.names new_n31 new_n34 new_n35
+00 1
+.names V261(0) new_n35 new_n36
+10 1
+.names new_n23 new_n36 new_n37
+10 1
+.names V14(0) new_n37 V1832
+10 1
+.end

@@ -1,0 +1,39 @@
+# Benchmark "pm1_c0" written by ABC on Thu Oct 31 22:13:52 2024
+.model pm1_c0
+.inputs a b c d e k l m n
+.outputs c0
+.names b n new_n11
+1- 1
+-0 1
+.names l a new_n12
+1- 1
+-0 1
+.names new_n11 new_n12 new_n13
+10 1
+.names b m new_n14
+1- 1
+-0 1
+.names new_n13 new_n14 new_n15
+10 1
+.names c d new_n16
+0- 1
+-0 1
+.names e new_n16 new_n17
+10 1
+.names k n new_n18
+0- 1
+-0 1
+.names new_n17 new_n18 new_n19
+1- 1
+-1 1
+.names m new_n20
+0 1
+.names new_n19 new_n20 new_n21
+1- 1
+-1 1
+.names new_n13 new_n21 new_n22
+10 1
+.names new_n15 new_n22 c0
+1- 1
+-1 1
+.end

@@ -1,0 +1,12 @@
+# Benchmark "c2670_N792" written by ABC on Thu Oct 31 22:14:44 2024
+.model c2670_N792
+.inputs N297 N301 N305 N309
+.outputs N792
+.names N309 N305 new_n6
+11 1
+.names new_n6 N301 new_n7
+11 1
+.names new_n7 N297 N792
+0- 1
+-0 1
+.end

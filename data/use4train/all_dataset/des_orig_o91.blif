@@ -1,0 +1,35 @@
+# Benchmark "DES_outreg_new?28?" written by ABC on Thu Oct 31 22:14:59 2024
+.model DES_outreg_new?28?
+.inputs outreg?36? outreg?28? data?52? count?3? count?2? count?1? count?0?
+.outputs outreg_new?28?
+.names count?1? count?0? new_n9
+0- 1
+-0 1
+.names count?2? new_n10
+0 1
+.names new_n9 new_n10 new_n11
+1- 1
+-1 1
+.names count?3? new_n11 new_n12
+10 1
+.names new_n12 data?52? new_n13
+11 1
+.names new_n12 count?0? new_n14
+1- 1
+-1 1
+.names outreg?28? new_n14 new_n15
+10 1
+.names new_n13 new_n15 new_n16
+1- 1
+-1 1
+.names count?0? new_n17
+0 1
+.names new_n12 new_n17 new_n18
+1- 1
+-1 1
+.names outreg?36? new_n18 new_n19
+10 1
+.names new_n16 new_n19 outreg_new?28?
+1- 1
+-1 1
+.end

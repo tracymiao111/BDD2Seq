@@ -1,0 +1,163 @@
+# Benchmark "DES_C_new?21?" written by ABC on Thu Oct 31 22:15:02 2024
+.model DES_C_new?21?
+.inputs reset?0? encrypt?0? load_key?0? inreg?10? inreg?2? count?3? \
+ count?2? count?1? count?0? C?23? C?22? C?21? C?20? C?19? encrypt_mode?0?
+.outputs C_new?21?
+.names reset?0? new_n17
+0 1
+.names count?1? count?0? new_n18
+0- 1
+-0 1
+.names count?2? new_n19
+0 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names count?3? new_n20 new_n21
+10 1
+.names new_n21 load_key?0? new_n22
+11 1
+.names new_n22 C?21? new_n23
+1- 1
+-0 1
+.names encrypt?0? new_n24
+0 1
+.names new_n21 new_n24 new_n25
+10 1
+.names new_n21 encrypt?0? new_n26
+10 1
+.names new_n25 new_n26 encrypt_mode?0? new_n27
+1-0 1
+-11 1
+.names new_n23 new_n27 new_n28
+1- 1
+-0 1
+.names new_n17 new_n28 new_n29
+10 1
+.names new_n22 new_n24 new_n30
+0- 1
+-0 1
+.names inreg?10? new_n31
+0 1
+.names new_n30 new_n31 new_n32
+1- 1
+-1 1
+.names new_n17 new_n32 new_n33
+10 1
+.names new_n29 new_n33 new_n34
+1- 1
+-1 1
+.names new_n22 encrypt?0? new_n35
+0- 1
+-0 1
+.names inreg?2? new_n36
+0 1
+.names new_n35 new_n36 new_n37
+1- 1
+-1 1
+.names new_n17 new_n37 new_n38
+10 1
+.names new_n34 new_n38 new_n39
+1- 1
+-1 1
+.names new_n22 C?22? new_n40
+1- 1
+-0 1
+.names encrypt_mode?0? new_n41
+0 1
+.names new_n40 new_n41 new_n42
+1- 1
+-1 1
+.names new_n42 new_n27 new_n43
+1- 1
+-1 1
+.names count?0? count?1? new_n44
+1- 1
+-0 1
+.names new_n44 new_n19 new_n45
+1- 1
+-1 1
+.names count?3? new_n45 new_n46
+10 1
+.names new_n21 new_n46 new_n47
+1- 1
+-1 1
+.names count?3? new_n48
+0 1
+.names new_n48 new_n20 new_n49
+10 1
+.names new_n47 new_n49 new_n50
+1- 1
+-1 1
+.names count?1? count?0? new_n51
+1- 1
+-1 1
+.names new_n51 count?2? new_n52
+1- 1
+-1 1
+.names new_n48 new_n52 new_n53
+10 1
+.names new_n50 new_n53 new_n54
+00 1
+.names new_n43 new_n54 new_n55
+1- 1
+-1 1
+.names new_n17 new_n55 new_n56
+10 1
+.names new_n39 new_n56 new_n57
+1- 1
+-1 1
+.names new_n22 C?20? new_n58
+1- 1
+-0 1
+.names new_n58 encrypt_mode?0? new_n59
+1- 1
+-1 1
+.names new_n59 new_n27 new_n60
+1- 1
+-1 1
+.names new_n60 new_n54 new_n61
+1- 1
+-1 1
+.names new_n17 new_n61 new_n62
+10 1
+.names new_n57 new_n62 new_n63
+1- 1
+-1 1
+.names new_n22 C?23? new_n64
+1- 1
+-0 1
+.names new_n64 new_n41 new_n65
+1- 1
+-1 1
+.names new_n65 new_n27 new_n66
+1- 1
+-1 1
+.names new_n54 new_n67
+0 1
+.names new_n66 new_n67 new_n68
+1- 1
+-1 1
+.names new_n17 new_n68 new_n69
+10 1
+.names new_n63 new_n69 new_n70
+1- 1
+-1 1
+.names new_n22 C?19? new_n71
+1- 1
+-0 1
+.names new_n71 encrypt_mode?0? new_n72
+1- 1
+-1 1
+.names new_n72 new_n27 new_n73
+1- 1
+-1 1
+.names new_n73 new_n67 new_n74
+1- 1
+-1 1
+.names new_n17 new_n74 new_n75
+10 1
+.names new_n70 new_n75 C_new?21?
+1- 1
+-1 1
+.end

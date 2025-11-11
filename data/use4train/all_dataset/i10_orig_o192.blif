@@ -1,0 +1,40 @@
+# Benchmark "i10_V1901(0)" written by ABC on Thu Oct 31 22:14:10 2024
+.model i10_V1901(0)
+.inputs V56(0) V149(7) V149(6) V149(5) V149(4) V149(0) V149(1) V149(2) \
+ V149(3) V16(0) V15(0) V108(5)
+.outputs V1901(0)
+.names V149(7) V149(5) new_n14
+1- 1
+-1 1
+.names V149(3) new_n15
+0 1
+.names new_n14 new_n15 new_n16
+1- 1
+-1 1
+.names V149(2) V149(1) new_n17
+1- 1
+-0 1
+.names new_n17 V149(0) new_n18
+1- 1
+-1 1
+.names new_n16 new_n18 new_n19
+1- 1
+-1 1
+.names new_n19 V149(4) new_n20
+1- 1
+-1 1
+.names V149(6) new_n21
+0 1
+.names new_n20 new_n21 new_n22
+1- 1
+-1 1
+.names V56(0) new_n22 new_n23
+10 1
+.names V108(5) new_n23 new_n24
+10 1
+.names V16(0) V15(0) new_n25
+10 1
+.names new_n24 new_n25 V1901(0)
+1- 1
+-1 1
+.end

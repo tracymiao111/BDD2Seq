@@ -1,0 +1,17 @@
+# Benchmark "decod_f" written by ABC on Thu Oct 31 22:14:24 2024
+.model decod_f
+.inputs a b c d e
+.outputs f
+.names e a new_n7
+11 1
+.names d c new_n8
+0- 1
+-0 1
+.names b new_n9
+0 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names new_n7 new_n10 f
+10 1
+.end

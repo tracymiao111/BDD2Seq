@@ -1,0 +1,39 @@
+# Benchmark "x2_n" written by ABC on Thu Oct 31 22:14:48 2024
+.model x2_n
+.inputs a b c h i j
+.outputs n
+.names i h new_n8
+00 1
+.names h i new_n9
+10 1
+.names new_n8 new_n9 j new_n10
+1-0 1
+-11 1
+.names j i new_n11
+11 1
+.names new_n10 new_n11 new_n12
+1- 1
+-1 1
+.names j h new_n13
+10 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names new_n14 c new_n15
+1- 1
+-1 1
+.names new_n15 a new_n16
+1- 1
+-1 1
+.names new_n16 b new_n17
+1- 1
+-1 1
+.names j h new_n18
+1- 1
+-0 1
+.names new_n18 new_n19
+0 1
+.names new_n17 new_n19 n
+1- 1
+-1 1
+.end

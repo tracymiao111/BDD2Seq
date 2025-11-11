@@ -1,0 +1,71 @@
+# Benchmark "sct_z" written by ABC on Thu Oct 31 22:15:09 2024
+.model sct_z
+.inputs c d e g h i j k q
+.outputs z
+.names k j new_n11
+00 1
+.names new_n11 d new_n12
+1- 1
+-1 1
+.names q h new_n13
+00 1
+.names q i new_n14
+00 1
+.names new_n13 new_n14 new_n15
+1- 1
+-1 1
+.names q g new_n16
+00 1
+.names new_n15 new_n16 new_n17
+1- 1
+-1 1
+.names q new_n18
+0 1
+.names new_n18 new_n11 new_n19
+10 1
+.names new_n17 new_n19 new_n20
+1- 1
+-1 1
+.names d i new_n21
+00 1
+.names new_n20 new_n21 new_n22
+1- 1
+-1 1
+.names d h new_n23
+00 1
+.names new_n22 new_n23 new_n24
+1- 1
+-1 1
+.names d g new_n25
+1- 1
+-1 1
+.names new_n25 new_n26
+0 1
+.names new_n24 new_n26 new_n27
+1- 1
+-1 1
+.names new_n12 new_n27 new_n28
+10 1
+.names e new_n29
+0 1
+.names new_n28 new_n29 new_n30
+1- 1
+-1 1
+.names i j new_n31
+10 1
+.names new_n31 h new_n32
+0- 1
+-0 1
+.names g new_n32 new_n33
+10 1
+.names k new_n33 new_n34
+10 1
+.names new_n30 new_n34 new_n35
+1- 1
+-1 1
+.names q c new_n36
+10 1
+.names new_n35 new_n36 z
+1- 1
+-1 1
+.end

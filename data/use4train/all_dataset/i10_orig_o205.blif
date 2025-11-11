@@ -1,0 +1,77 @@
+# Benchmark "i10_V1953(2)" written by ABC on Thu Oct 31 22:14:11 2024
+.model i10_V1953(2)
+.inputs V149(7) V149(6) V149(5) V149(4) V149(0) V149(1) V149(2) V149(3) \
+ V132(2) V118(0)
+.outputs V1953(2)
+.names V149(7) V149(5) new_n12
+1- 1
+-1 1
+.names V149(3) new_n13
+0 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names V149(2) V149(1) new_n15
+1- 1
+-0 1
+.names new_n15 V149(0) new_n16
+1- 1
+-1 1
+.names new_n14 new_n16 new_n17
+1- 1
+-1 1
+.names new_n17 V149(4) new_n18
+1- 1
+-1 1
+.names V149(6) new_n19
+0 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names new_n12 V149(3) new_n21
+1- 1
+-1 1
+.names new_n21 new_n16 new_n22
+1- 1
+-1 1
+.names V149(4) new_n23
+0 1
+.names new_n22 new_n23 new_n24
+1- 1
+-1 1
+.names new_n19 new_n24 new_n25
+10 1
+.names new_n25 V132(2) new_n26
+0- 1
+-0 1
+.names V149(5) V149(7) new_n27
+1- 1
+-0 1
+.names new_n27 V149(3) new_n28
+1- 1
+-1 1
+.names new_n28 new_n16 new_n29
+1- 1
+-1 1
+.names new_n29 new_n23 new_n30
+1- 1
+-1 1
+.names new_n19 new_n30 new_n31
+10 1
+.names new_n26 new_n31 new_n32
+1- 1
+-1 1
+.names new_n20 new_n32 new_n33
+10 1
+.names new_n25 V118(0) new_n34
+1- 1
+-0 1
+.names new_n34 new_n31 new_n35
+1- 1
+-0 1
+.names new_n20 new_n35 new_n36
+10 1
+.names new_n33 new_n36 V1953(2)
+1- 1
+-1 1
+.end

@@ -1,0 +1,29 @@
+# Benchmark "DES_count_new?1?" written by ABC on Thu Oct 31 22:15:02 2024
+.model DES_count_new?1?
+.inputs reset?0? load_key?0? count?3? count?2? count?1? count?0?
+.outputs count_new?1?
+.names count?1? count?0? new_n8
+0- 1
+-0 1
+.names count?2? new_n9
+0 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names count?3? new_n10 new_n11
+10 1
+.names new_n11 load_key?0? new_n12
+11 1
+.names new_n12 reset?0? new_n13
+1- 1
+-1 1
+.names count?0? new_n13 new_n14
+10 1
+.names count?0? new_n15
+0 1
+.names new_n15 new_n13 new_n16
+10 1
+.names new_n14 new_n16 count?1? count_new?1?
+1-0 1
+-11 1
+.end

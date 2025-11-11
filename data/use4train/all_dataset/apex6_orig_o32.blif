@@ -1,0 +1,22 @@
+# Benchmark "apex6_I2ZZZ4_P" written by ABC on Thu Oct 31 22:15:25 2024
+.model apex6_I2ZZZ4_P
+.inputs INYBB0 INYBB5 INZZZE I2ZZZ4 RYZ
+.outputs I2ZZZ4_P
+.names INYBB0 INZZZE new_n7
+11 1
+.names new_n7 RYZ new_n8
+1- 1
+-1 1
+.names I2ZZZ4 new_n8 new_n9
+10 1
+.names RYZ new_n10
+0 1
+.names new_n7 new_n10 new_n11
+0- 1
+-0 1
+.names INYBB5 new_n11 new_n12
+10 1
+.names new_n9 new_n12 I2ZZZ4_P
+1- 1
+-1 1
+.end

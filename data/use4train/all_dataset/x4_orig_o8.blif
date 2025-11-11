@@ -1,0 +1,27 @@
+# Benchmark "x4_e3" written by ABC on Thu Oct 31 22:14:32 2024
+.model x4_e3
+.inputs l0 c1 e1 n2 o2 p2 q2 r2
+.outputs e3
+.names l0 c1 new_n10
+10 1
+.names o2 new_n11
+0 1
+.names q2 r2 new_n12
+1- 1
+-1 1
+.names new_n12 p2 new_n13
+1- 1
+-1 1
+.names new_n11 new_n13 new_n14
+10 1
+.names e1 c1 new_n15
+10 1
+.names new_n15 n2 new_n16
+0- 1
+-0 1
+.names new_n14 new_n16 new_n17
+10 1
+.names new_n10 new_n17 e3
+1- 1
+-1 1
+.end

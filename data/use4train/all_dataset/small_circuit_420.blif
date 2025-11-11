@@ -1,0 +1,126 @@
+.model /Users/chromemono/Downloads/aiger/filtered_aigs/small_circuit_420.aig
+.inputs i2 i4 i6 i8 i10 i12 i14 i16 i18 i20 \
+i22 
+.outputs o0 o1 o2 o3 o4 o5 o6 o7 o8 o9 \
+o10 o11 o12 
+.names i8 i6 a24
+00 1
+.names i20 i14 a26
+11 1
+.names a26 a24 a28
+01 1
+.names i20 i16 a30
+00 1
+.names i18 i16 a32
+11 1
+.names a32 a30 a34
+00 1
+.names a34 a28 a36
+10 1
+.names i22 i12 a38
+01 1
+.names i6 i2 a40
+11 1
+.names a40 a38 a42
+00 1
+.names a38 a24 a44
+11 1
+.names a44 a42 a46
+10 1
+.names a46 a36 a48
+00 1
+.names i16 i14 a50
+10 1
+.names a50 a38 a52
+01 1
+.names i18 i16 a54
+11 1
+.names i12 i4 a56
+11 1
+.names a56 a54 a58
+01 1
+.names a58 a52 a60
+00 1
+.names i14 i4 a62
+00 1
+.names a62 i6 a64
+10 1
+.names i20 i8 a66
+10 1
+.names a66 a56 a68
+11 1
+.names a68 a64 a70
+01 1
+.names i18 i2 a72
+00 1
+.names a72 a40 a74
+11 1
+.names a74 a32 a76
+01 1
+.names a56 a24 a78
+00 1
+.names a38 i10 a80
+10 1
+.names a80 a78 a82
+01 1
+.names a72 a32 a84
+10 1
+.names a66 a62 a86
+11 1
+.names a86 a84 a88
+10 1
+.names i22 i10 a90
+01 1
+.names a90 a62 a92
+00 1
+.names a92 a58 a94
+11 1
+.names a56 a54 a96
+11 1
+.names a96 a52 a98
+00 1
+.names a92 a44 a100
+00 1
+.names a90 i8 a102
+11 1
+.names a102 a86 a104
+01 1
+.names a102 a74 a106
+01 1
+.names a66 i10 a108
+10 1
+.names a108 a38 a110
+00 1
+.names a68 a64 a112
+11 1
+.names a78 a52 a114
+01 1
+.names a114 a112 a116
+11 1
+.names a48 o0
+0 1
+.names a60 o1
+1 1
+.names a70 o2
+1 1
+.names a76 o3
+0 1
+.names a82 o4
+0 1
+.names a88 o5
+1 1
+.names a94 o6
+0 1
+.names a98 o7
+1 1
+.names a100 o8
+1 1
+.names a104 o9
+1 1
+.names a106 o10
+1 1
+.names a110 o11
+1 1
+.names a116 o12
+0 1
+.end

@@ -1,0 +1,26 @@
+# Benchmark "c3540_N3833" written by ABC on Thu Oct 31 22:14:27 2024
+.model c3540_N3833
+.inputs N226 N232 N238 N244 N250 N257 N264 N270
+.outputs N3833
+.names N232 N226 new_n10
+11 1
+00 1
+.names N244 N238 new_n11
+10 1
+01 1
+.names new_n10 new_n11 new_n12
+10 1
+01 1
+.names N257 N250 new_n13
+11 1
+00 1
+.names N270 N264 new_n14
+11 1
+00 1
+.names new_n13 new_n14 new_n15
+11 1
+00 1
+.names new_n12 new_n15 N3833
+11 1
+00 1
+.end

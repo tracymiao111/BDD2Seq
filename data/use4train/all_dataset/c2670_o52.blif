@@ -1,0 +1,44 @@
+# Benchmark "c2670_N2971" written by ABC on Thu Oct 31 22:14:45 2024
+.model c2670_N2971
+.inputs N263 N266 N269 N272 N275 N278 N281 N284 N287 N352
+.outputs N2971
+.names N269 N266 new_n12
+11 1
+00 1
+.names N263 N352 new_n13
+11 1
+00 1
+.names new_n12 new_n13 new_n14
+0- 1
+-0 1
+.names new_n13 new_n12 new_n15
+1- 1
+-0 1
+.names N275 N272 new_n16
+11 1
+00 1
+.names new_n14 new_n15 new_n16 new_n17
+1-0 1
+-11 1
+.names new_n12 new_n13 new_n18
+00 1
+.names new_n13 new_n12 new_n19
+10 1
+.names new_n18 new_n19 new_n16 new_n20
+1-0 1
+-11 1
+.names new_n17 new_n20 new_n21
+10 1
+.names N287 N284 new_n22
+11 1
+00 1
+.names N281 N278 new_n23
+11 1
+00 1
+.names new_n22 new_n23 new_n24
+10 1
+01 1
+.names new_n21 new_n24 N2971
+10 1
+01 1
+.end

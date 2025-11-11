@@ -1,0 +1,53 @@
+# Benchmark "CM150_v" written by ABC on Thu Oct 31 22:13:56 2024
+.model CM150_v
+.inputs a b c d e f g h i j k l m n o p q r s t u
+.outputs v
+.names a b q new_n23
+1-0 1
+-11 1
+.names c d q new_n24
+1-0 1
+-11 1
+.names new_n23 new_n24 r new_n25
+1-0 1
+-11 1
+.names e f q new_n26
+1-0 1
+-11 1
+.names g h q new_n27
+1-0 1
+-11 1
+.names new_n26 new_n27 r new_n28
+1-0 1
+-11 1
+.names new_n25 new_n28 s new_n29
+1-0 1
+-11 1
+.names i j q new_n30
+1-0 1
+-11 1
+.names k l q new_n31
+1-0 1
+-11 1
+.names new_n30 new_n31 r new_n32
+1-0 1
+-11 1
+.names m n q new_n33
+1-0 1
+-11 1
+.names o p q new_n34
+1-0 1
+-11 1
+.names new_n33 new_n34 r new_n35
+1-0 1
+-11 1
+.names new_n32 new_n35 s new_n36
+1-0 1
+-11 1
+.names new_n29 new_n36 t new_n37
+1-0 1
+-11 1
+.names u new_n37 v
+1- 1
+-0 1
+.end

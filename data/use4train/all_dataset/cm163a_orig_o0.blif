@@ -1,0 +1,35 @@
+# Benchmark "CM163_q" written by ABC on Thu Oct 31 22:14:51 2024
+.model CM163_q
+.inputs a c d e f j
+.outputs q
+.names a new_n8
+0 1
+.names c d new_n9
+0- 1
+-0 1
+.names new_n9 j new_n10
+10 1
+01 1
+.names new_n8 new_n10 new_n11
+10 1
+.names e f new_n12
+1- 1
+-0 1
+.names new_n12 new_n10 new_n13
+10 1
+.names new_n11 new_n13 new_n14
+1- 1
+-1 1
+.names f e new_n15
+11 1
+.names new_n8 new_n15 new_n16
+10 1
+.names new_n14 new_n16 new_n17
+1- 1
+-1 1
+.names new_n12 new_n15 new_n18
+10 1
+.names new_n17 new_n18 q
+1- 1
+-1 1
+.end

@@ -1,0 +1,121 @@
+# Benchmark "pair_w6" written by ABC on Thu Oct 31 22:14:17 2024
+.model pair_w6
+.inputs b d e l1 m1 n1 p1 q1 r1
+.outputs w6
+.names b new_n11
+0 1
+.names m1 l1 new_n12
+0- 1
+-0 1
+.names n1 new_n13
+0 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names new_n11 new_n14 new_n15
+10 1
+.names new_n15 e new_n16
+00 1
+.names q1 new_n17
+0 1
+.names new_n16 new_n17 new_n18
+0- 1
+-0 1
+.names m1 l1 new_n19
+1- 1
+-1 1
+.names new_n19 new_n13 new_n20
+1- 1
+-1 1
+.names new_n11 new_n20 new_n21
+10 1
+.names new_n21 d new_n22
+00 1
+.names new_n18 new_n22 new_n23
+1- 1
+-1 1
+.names p1 q1 new_n24
+00 1
+.names new_n24 r1 new_n25
+10 1
+.names new_n24 new_n26
+0 1
+.names new_n16 new_n26 new_n27
+10 1
+.names new_n25 new_n27 new_n28
+1- 1
+-1 1
+.names q1 r1 new_n29
+1- 1
+-1 1
+.names new_n29 new_n16 new_n30
+00 1
+.names new_n28 new_n30 new_n31
+1- 1
+-1 1
+.names p1 r1 new_n32
+00 1
+.names new_n32 new_n33
+0 1
+.names new_n22 new_n33 new_n34
+10 1
+.names new_n31 new_n34 new_n35
+1- 1
+-1 1
+.names p1 new_n36
+0 1
+.names new_n16 new_n36 new_n37
+0- 1
+-0 1
+.names new_n22 new_n37 new_n38
+10 1
+.names new_n35 new_n38 new_n39
+1- 1
+-1 1
+.names new_n16 r1 new_n40
+1- 1
+-1 1
+.names new_n22 new_n40 new_n41
+10 1
+.names new_n39 new_n41 new_n42
+1- 1
+-1 1
+.names new_n29 new_n22 new_n43
+00 1
+.names new_n42 new_n43 new_n44
+1- 1
+-1 1
+.names new_n23 new_n44 new_n45
+10 1
+.names new_n24 new_n32 new_n46
+1- 1
+-1 1
+.names new_n29 new_n46 new_n47
+10 1
+.names new_n47 new_n36 new_n48
+1- 1
+-1 1
+.names new_n11 new_n48 new_n49
+10 1
+.names r1 new_n50
+0 1
+.names new_n47 new_n50 new_n51
+1- 1
+-1 1
+.names new_n11 new_n51 new_n52
+10 1
+.names new_n49 new_n52 new_n53
+1- 1
+-1 1
+.names new_n47 new_n17 new_n54
+1- 1
+-1 1
+.names new_n11 new_n54 new_n55
+10 1
+.names new_n53 new_n55 new_n56
+1- 1
+-1 1
+.names new_n45 new_n56 w6
+1- 1
+-0 1
+.end

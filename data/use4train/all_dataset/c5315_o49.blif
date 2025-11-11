@@ -1,0 +1,41 @@
+# Benchmark "c5315_N6716" written by ABC on Thu Oct 31 22:14:13 2024
+.model c5315_N6716
+.inputs N293 N302 N308 N316 N324 N341 N351 N361 N369
+.outputs N6716
+.names N351 N341 new_n11
+11 1
+00 1
+.names N369 N361 new_n12
+11 1
+00 1
+.names new_n11 new_n12 new_n13
+0- 1
+-0 1
+.names new_n12 new_n11 new_n14
+1- 1
+-0 1
+.names new_n13 new_n14 N324 new_n15
+1-0 1
+-11 1
+.names new_n11 new_n12 new_n16
+00 1
+.names new_n12 new_n11 new_n17
+10 1
+.names new_n16 new_n17 N324 new_n18
+1-0 1
+-11 1
+.names new_n15 new_n18 new_n19
+10 1
+.names N302 N293 new_n20
+11 1
+00 1
+.names N316 N308 new_n21
+10 1
+01 1
+.names new_n20 new_n21 new_n22
+10 1
+01 1
+.names new_n19 new_n22 N6716
+10 1
+01 1
+.end

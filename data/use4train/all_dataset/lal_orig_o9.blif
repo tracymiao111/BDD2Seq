@@ -1,0 +1,14 @@
+# Benchmark "lal_k0" written by ABC on Thu Oct 31 22:14:32 2024
+.model lal_k0
+.inputs e f h q
+.outputs k0
+.names q new_n6
+0 1
+.names f h new_n7
+10 1
+.names new_n7 e new_n8
+0- 1
+-0 1
+.names new_n6 new_n8 k0
+10 1
+.end

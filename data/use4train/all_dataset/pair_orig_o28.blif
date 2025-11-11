@@ -1,0 +1,100 @@
+# Benchmark "pair_u6" written by ABC on Thu Oct 31 22:14:17 2024
+.model pair_u6
+.inputs b e1 f1 l1 m1 n1 y2 z2 a3 b3 c3 d3 e3
+.outputs u6
+.names b new_n15
+0 1
+.names m1 l1 new_n16
+0- 1
+-0 1
+.names n1 b new_n17
+00 1
+.names new_n16 new_n17 new_n18
+1- 1
+-0 1
+.names n1 new_n19
+0 1
+.names new_n16 new_n19 new_n20
+1- 1
+-1 1
+.names new_n15 new_n20 new_n21
+10 1
+.names new_n18 new_n21 new_n22
+10 1
+.names f1 e1 new_n23
+1- 1
+-0 1
+.names new_n23 new_n21 new_n24
+10 1
+.names new_n22 new_n24 new_n25
+1- 1
+-1 1
+.names b3 c3 new_n26
+1- 1
+-1 1
+.names new_n26 d3 new_n27
+00 1
+.names new_n27 e3 new_n28
+10 1
+.names z2 y2 new_n29
+1- 1
+-0 1
+.names new_n29 a3 new_n30
+1- 1
+-1 1
+.names new_n28 new_n30 new_n31
+10 1
+.names new_n31 new_n21 new_n32
+10 1
+.names new_n25 new_n32 new_n33
+1- 1
+-1 1
+.names d3 e3 new_n34
+0- 1
+-0 1
+.names c3 new_n35
+0 1
+.names new_n34 new_n35 new_n36
+1- 1
+-1 1
+.names new_n36 new_n21 new_n37
+10 1
+.names new_n33 new_n37 new_n38
+1- 1
+-1 1
+.names m1 l1 new_n39
+1- 1
+-0 1
+.names new_n39 n1 new_n40
+1- 1
+-1 1
+.names new_n15 new_n40 new_n41
+10 1
+.names new_n41 new_n31 new_n42
+1- 1
+-1 1
+.names m1 l1 new_n43
+1- 1
+-1 1
+.names new_n43 new_n19 new_n44
+1- 1
+-1 1
+.names new_n15 new_n44 new_n45
+10 1
+.names new_n42 new_n45 new_n46
+1- 1
+-1 1
+.names new_n18 new_n47
+0 1
+.names new_n41 new_n47 new_n48
+1- 1
+-1 1
+.names new_n48 new_n45 new_n49
+00 1
+.names new_n46 new_n49 new_n50
+10 1
+.names new_n38 new_n50 new_n51
+10 1
+.names new_n15 new_n51 u6
+10 1
+.end

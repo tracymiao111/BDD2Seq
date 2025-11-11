@@ -1,0 +1,15 @@
+# Benchmark "c880_N418" written by ABC on Thu Oct 31 22:13:56 2024
+.model c880_N418
+.inputs N1 N8 N13 N17
+.outputs N418
+.names N8 N1 new_n6
+0- 1
+-0 1
+.names N13 new_n7
+0 1
+.names new_n6 new_n7 new_n8
+1- 1
+-1 1
+.names N17 new_n8 N418
+10 1
+.end

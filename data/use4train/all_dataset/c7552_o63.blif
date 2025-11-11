@@ -1,0 +1,29 @@
+# Benchmark "c7552_N10112" written by ABC on Thu Oct 31 22:13:59 2024
+.model c7552_N10112
+.inputs N18 N29 N41 N238 N310 N313 N367
+.outputs N10112
+.names N310 N18 new_n9
+10 1
+.names N18 N41 new_n10
+1- 1
+-0 1
+.names new_n9 new_n10 new_n11
+1- 1
+-1 1
+.names new_n9 new_n10 new_n12
+11 1
+00 1
+.names N367 new_n12 new_n13
+10 1
+.names new_n11 new_n13 new_n14
+10 1
+.names N29 N238 N18 new_n15
+1-0 1
+-11 1
+.names new_n15 N313 new_n16
+10 1
+01 1
+.names new_n14 new_n16 N10112
+10 1
+01 1
+.end

@@ -1,0 +1,17 @@
+# Benchmark "rot_b6" written by ABC on Thu Oct 31 22:15:07 2024
+.model rot_b6
+.inputs r0 m1 m2 q2
+.outputs b6
+.names r0 m2 new_n6
+11 1
+.names m1 m2 new_n7
+11 1
+.names new_n6 new_n7 new_n8
+1- 1
+-1 1
+.names m2 q2 new_n9
+11 1
+.names new_n8 new_n9 b6
+1- 1
+-1 1
+.end

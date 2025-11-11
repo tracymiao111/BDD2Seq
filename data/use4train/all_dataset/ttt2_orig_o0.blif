@@ -1,0 +1,43 @@
+# Benchmark "ttt2_z" written by ABC on Thu Oct 31 22:14:42 2024
+.model ttt2_z
+.inputs e s t u v w
+.outputs z
+.names w new_n8
+0 1
+.names u e new_n9
+10 1
+.names u v new_n10
+10 1
+.names new_n9 new_n10 new_n11
+1- 1
+-1 1
+.names e s new_n12
+1- 1
+-1 1
+.names v new_n12 new_n13
+10 1
+.names new_n11 new_n13 new_n14
+1- 1
+-1 1
+.names e t new_n15
+1- 1
+-0 1
+.names v new_n15 new_n16
+10 1
+.names new_n14 new_n16 new_n17
+1- 1
+-1 1
+.names t s new_n18
+1- 1
+-1 1
+.names new_n18 u new_n19
+1- 1
+-1 1
+.names v new_n19 new_n20
+10 1
+.names new_n17 new_n20 new_n21
+1- 1
+-1 1
+.names new_n8 new_n21 z
+10 1
+.end

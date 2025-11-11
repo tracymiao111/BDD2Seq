@@ -1,0 +1,125 @@
+# Benchmark "c5315_N5240" written by ABC on Thu Oct 31 22:14:13 2024
+.model c5315_N5240
+.inputs N242 N248 N251 N254 N293 N302 N308 N316 N324 N341 N351 N361 N479 \
+ N490 N503 N514 N523 N534 N595 N596 N597 N598
+.outputs N5240
+.names N251 new_n24
+0 1
+.names N248 new_n25
+0 1
+.names new_n24 new_n25 N361 new_n26
+1-0 1
+-11 1
+.names new_n26 new_n27
+0 1
+.names N596 N595 N341 new_n28
+1-0 1
+-11 1
+.names new_n28 N523 new_n29
+10 1
+.names N523 N597 new_n30
+10 1
+.names N523 N598 new_n31
+10 1
+.names new_n30 new_n31 N341 new_n32
+1-0 1
+-11 1
+.names new_n29 new_n32 new_n33
+00 1
+.names N596 N595 N351 new_n34
+1-0 1
+-11 1
+.names new_n34 N534 new_n35
+10 1
+.names N534 N597 new_n36
+10 1
+.names N534 N598 new_n37
+10 1
+.names new_n36 new_n37 N351 new_n38
+1-0 1
+-11 1
+.names new_n35 new_n38 new_n39
+00 1
+.names new_n33 new_n39 new_n40
+1- 1
+-1 1
+.names N595 new_n41
+0 1
+.names new_n41 N598 N514 new_n42
+1-0 1
+-11 1
+.names new_n40 new_n42 new_n43
+1- 1
+-1 1
+.names N596 N595 N324 new_n44
+1-0 1
+-11 1
+.names new_n44 N503 new_n45
+10 1
+.names N503 N597 new_n46
+10 1
+.names N503 N598 new_n47
+10 1
+.names new_n46 new_n47 N324 new_n48
+1-0 1
+-11 1
+.names new_n45 new_n48 new_n49
+00 1
+.names new_n43 new_n49 new_n50
+1- 1
+-1 1
+.names N251 N490 new_n51
+0- 1
+-0 1
+.names N248 N490 new_n52
+0- 1
+-0 1
+.names new_n51 new_n52 N316 new_n53
+1-0 1
+-11 1
+.names N490 new_n54
+0 1
+.names N254 N242 N316 new_n55
+1-0 1
+-11 1
+.names new_n54 new_n55 new_n56
+10 1
+.names new_n53 new_n56 new_n57
+10 1
+.names N479 new_n58
+0 1
+.names N254 N242 N308 new_n59
+1-0 1
+-11 1
+.names new_n58 new_n59 new_n60
+10 1
+.names N251 N479 new_n61
+11 1
+.names N248 N479 new_n62
+11 1
+.names new_n61 new_n62 N308 new_n63
+1-0 1
+-11 1
+.names new_n60 new_n63 new_n64
+00 1
+.names new_n57 new_n64 new_n65
+1- 1
+-1 1
+.names new_n24 new_n25 N302 new_n66
+1-0 1
+-11 1
+.names new_n65 new_n66 new_n67
+1- 1
+-1 1
+.names N254 N242 N293 new_n68
+1-0 1
+-11 1
+.names new_n67 new_n68 new_n69
+1- 1
+-1 1
+.names new_n50 new_n69 new_n70
+1- 1
+-1 1
+.names new_n27 new_n70 N5240
+10 1
+.end

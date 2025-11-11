@@ -1,0 +1,50 @@
+# Benchmark "PARITYFDS_q" written by ABC on Thu Oct 31 22:14:16 2024
+.model PARITYFDS_q
+.inputs a b c d e f g h i j k l m n o p
+.outputs q
+.names p o new_n18
+11 1
+00 1
+.names n m new_n19
+10 1
+01 1
+.names new_n18 new_n19 new_n20
+10 1
+01 1
+.names l k new_n21
+11 1
+00 1
+.names j i new_n22
+11 1
+00 1
+.names new_n21 new_n22 new_n23
+10 1
+01 1
+.names new_n20 new_n23 new_n24
+10 1
+01 1
+.names h g new_n25
+11 1
+00 1
+.names f e new_n26
+10 1
+01 1
+.names new_n25 new_n26 new_n27
+10 1
+01 1
+.names d c new_n28
+11 1
+00 1
+.names b a new_n29
+11 1
+00 1
+.names new_n28 new_n29 new_n30
+10 1
+01 1
+.names new_n27 new_n30 new_n31
+10 1
+01 1
+.names new_n24 new_n31 q
+10 1
+01 1
+.end

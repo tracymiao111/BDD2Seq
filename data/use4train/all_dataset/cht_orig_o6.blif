@@ -1,0 +1,26 @@
+# Benchmark "cht_c1" written by ABC on Thu Oct 31 22:14:04 2024
+.model cht_c1
+.inputs j l s t
+.outputs c1
+.names l j new_n6
+1- 1
+-0 1
+.names t new_n6 new_n7
+10 1
+.names j l new_n8
+1- 1
+-1 1
+.names s new_n8 new_n9
+10 1
+.names new_n7 new_n9 new_n10
+1- 1
+-1 1
+.names l t new_n11
+1- 1
+-0 1
+.names s new_n11 new_n12
+10 1
+.names new_n10 new_n12 c1
+1- 1
+-1 1
+.end

@@ -1,0 +1,42 @@
+# Benchmark "lal_p0" written by ABC on Thu Oct 31 22:14:32 2024
+.model lal_p0
+.inputs e f h q s t u v w
+.outputs p0
+.names u t new_n11
+0- 1
+-0 1
+.names s new_n11 new_n12
+10 1
+.names w v new_n13
+1- 1
+-1 1
+.names new_n12 new_n13 new_n14
+10 1
+.names e q new_n15
+1- 1
+-1 1
+.names new_n14 new_n15 new_n16
+1- 1
+-1 1
+.names f q new_n17
+00 1
+.names new_n17 new_n14 new_n18
+10 1
+.names new_n16 new_n18 new_n19
+10 1
+.names new_n19 h new_n20
+1- 1
+-1 1
+.names t s new_n21
+11 1
+.names v u new_n22
+1- 1
+-0 1
+.names new_n21 new_n22 new_n23
+10 1
+.names w new_n23 new_n24
+10 1
+.names new_n20 new_n24 p0
+1- 1
+-1 1
+.end

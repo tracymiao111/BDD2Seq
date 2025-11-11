@@ -1,0 +1,69 @@
+# Benchmark "x3.blif_j7" written by ABC on Thu Oct 31 22:15:12 2024
+.model x3.blif_j7
+.inputs c d e x0 n1 x1 y1 j2 k2 y2 o3 p3
+.outputs j7
+.names c y1 new_n14
+10 1
+.names y2 new_n15
+0 1
+.names e d new_n16
+00 1
+.names new_n16 c new_n17
+0- 1
+-0 1
+.names new_n15 new_n17 new_n18
+10 1
+.names e n1 new_n19
+10 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names e d new_n21
+1- 1
+-0 1
+.names new_n21 x0 new_n22
+00 1
+.names new_n20 new_n22 new_n23
+1- 1
+-1 1
+.names new_n14 new_n23 new_n24
+10 1
+.names y1 new_n25
+0 1
+.names new_n25 new_n16 new_n26
+10 1
+.names new_n26 new_n23 new_n27
+10 1
+.names new_n24 new_n27 new_n28
+1- 1
+-1 1
+.names x1 o3 new_n29
+11 1
+.names j2 k2 new_n30
+00 1
+.names new_n30 o3 new_n31
+11 1
+.names new_n29 new_n31 new_n32
+1- 1
+-1 1
+.names new_n32 p3 new_n33
+00 1
+.names x1 o3 new_n34
+10 1
+.names new_n33 new_n34 new_n35
+1- 1
+-1 1
+.names new_n30 new_n32 new_n36
+10 1
+.names new_n35 new_n36 new_n37
+1- 1
+-1 1
+.names new_n37 y1 new_n38
+1- 1
+-1 1
+.names new_n38 new_n23 new_n39
+00 1
+.names new_n28 new_n39 j7
+1- 1
+-1 1
+.end

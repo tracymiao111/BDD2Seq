@@ -1,0 +1,141 @@
+# Benchmark "rot_j6" written by ABC on Thu Oct 31 22:15:07 2024
+.model rot_j6
+.inputs g0 h0 r0 t0 p1 r1 s1 z1 f2 g2 h2 l2 o2 p2 q2 l3
+.outputs j6
+.names l3 new_n18
+0 1
+.names g0 h0 new_n19
+1- 1
+-0 1
+.names t0 new_n20
+0 1
+.names new_n19 new_n20 new_n21
+1- 1
+-1 1
+.names new_n18 new_n21 new_n22
+10 1
+.names l2 r0 new_n23
+1- 1
+-0 1
+.names p1 r1 new_n24
+1- 1
+-0 1
+.names new_n24 s1 new_n25
+1- 1
+-1 1
+.names l2 new_n26
+0 1
+.names new_n25 new_n26 new_n27
+1- 1
+-1 1
+.names o2 new_n28
+0 1
+.names new_n27 new_n28 new_n29
+1- 1
+-1 1
+.names f2 g2 new_n30
+10 1
+.names f2 g2 new_n31
+00 1
+.names new_n30 new_n31 h2 new_n32
+1-0 1
+-11 1
+.names new_n32 new_n33
+0 1
+.names new_n29 new_n33 new_n34
+1- 1
+-1 1
+.names h2 new_n35
+0 1
+.names new_n34 new_n35 new_n36
+1- 1
+-1 1
+.names p1 r1 new_n37
+1- 1
+-1 1
+.names s1 new_n38
+0 1
+.names new_n37 new_n38 new_n39
+1- 1
+-1 1
+.names z1 new_n40
+0 1
+.names new_n39 new_n40 new_n41
+1- 1
+-1 1
+.names new_n41 new_n28 new_n42
+1- 1
+-1 1
+.names f2 new_n42 new_n43
+10 1
+.names new_n25 new_n40 new_n44
+1- 1
+-1 1
+.names new_n44 new_n28 new_n45
+1- 1
+-1 1
+.names f2 new_n45 new_n46
+10 1
+.names new_n43 new_n46 new_n47
+1- 1
+-1 1
+.names h2 new_n42 new_n48
+10 1
+.names new_n47 new_n48 new_n49
+1- 1
+-1 1
+.names h2 new_n45 new_n50
+10 1
+.names new_n49 new_n50 new_n51
+1- 1
+-1 1
+.names new_n39 new_n26 new_n52
+1- 1
+-1 1
+.names new_n52 new_n28 new_n53
+1- 1
+-1 1
+.names new_n53 new_n33 new_n54
+1- 1
+-1 1
+.names f2 new_n54 new_n55
+10 1
+.names new_n51 new_n55 new_n56
+1- 1
+-1 1
+.names f2 new_n34 new_n57
+10 1
+.names new_n56 new_n57 new_n58
+1- 1
+-1 1
+.names h2 new_n54 new_n59
+10 1
+.names new_n58 new_n59 new_n60
+1- 1
+-1 1
+.names new_n36 new_n60 new_n61
+10 1
+.names r1 new_n61 new_n62
+10 1
+.names new_n23 new_n62 new_n63
+00 1
+.names new_n22 new_n63 new_n64
+1- 1
+-1 1
+.names p2 r0 new_n65
+1- 1
+-0 1
+.names new_n65 new_n62 new_n66
+00 1
+.names new_n64 new_n66 new_n67
+1- 1
+-1 1
+.names q2 r0 new_n68
+1- 1
+-0 1
+.names new_n68 new_n62 new_n69
+00 1
+.names new_n67 new_n69 j6
+1- 1
+-1 1
+.end

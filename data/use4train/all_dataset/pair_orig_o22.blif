@@ -1,0 +1,46 @@
+# Benchmark "pair_o6" written by ABC on Thu Oct 31 22:14:17 2024
+.model pair_o6
+.inputs b e1 f1 h1 i1 j1 k1 l1 m1 n1 o1
+.outputs o6
+.names n1 m1 new_n13
+10 1
+.names new_n13 l1 new_n14
+0- 1
+-0 1
+.names b new_n15
+0 1
+.names new_n14 new_n15 new_n16
+0- 1
+-0 1
+.names f1 e1 new_n17
+1- 1
+-0 1
+.names new_n16 new_n17 new_n18
+1- 1
+-0 1
+.names new_n16 h1 new_n19
+00 1
+.names new_n18 new_n19 new_n20
+10 1
+.names h1 new_n20 new_n21
+10 1
+.names j1 k1 o1 new_n22
+1-0 1
+-11 1
+.names j1 new_n22 new_n23
+10 1
+.names new_n23 new_n17 new_n24
+10 1
+01 1
+.names i1 h1 new_n25
+1- 1
+-1 1
+.names new_n24 new_n25 new_n26
+1- 1
+-1 1
+.names new_n23 new_n26 new_n27
+10 1
+.names new_n21 new_n27 o6
+1- 1
+-1 1
+.end

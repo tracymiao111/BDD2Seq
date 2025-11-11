@@ -1,0 +1,13 @@
+# Benchmark "c5315_N4275" written by ABC on Thu Oct 31 22:14:12 2024
+.model c5315_N4275
+.inputs N27 N31 N34 N88 N588
+.outputs N4275
+.names N88 N34 N588 new_n7
+1-0 1
+-11 1
+.names N31 N27 new_n8
+11 1
+.names new_n7 new_n8 N4275
+0- 1
+-0 1
+.end

@@ -1,0 +1,138 @@
+Successfully loaded network from BLIF file: ../../split_5/small_circuit_147.blif
+the reorder method is = 5
+Built BDD for node: i2
+Built BDD for node: i4
+Built BDD for node: i6
+Built BDD for node: i8
+Built BDD for node: i10
+Built BDD for node: i12
+Built BDD for node: i14
+Built BDD for node: i16
+Built BDD for node: i18
+Built BDD for node: i20
+Built BDD for node: i22
+Built BDD for node: i24
+Built BDD for node: i26
+Built BDD for node: i28
+Built BDD for node: i30
+Built BDD for node: i32
+Built BDD for node: a34
+Built BDD for node: a36
+Built BDD for node: a38
+Built BDD for node: a40
+Built BDD for node: a42
+Built BDD for node: a44
+Built BDD for node: a46
+Built BDD for node: a48
+Built BDD for node: a50
+Built BDD for node: a52
+Built BDD for node: a54
+Built BDD for node: a56
+Built BDD for node: a58
+Built BDD for node: a60
+Built BDD for node: a62
+Built BDD for node: a64
+Built BDD for node: a66
+Built BDD for node: a68
+Built BDD for node: a70
+Built BDD for node: a72
+Built BDD for node: a74
+Built BDD for node: a76
+Built BDD for node: a78
+Built BDD for node: a80
+Built BDD for node: a82
+Built BDD for node: a84
+Built BDD for node: a86
+Built BDD for node: a88
+Built BDD for node: a90
+Built BDD for node: a92
+Built BDD for node: a94
+Built BDD for node: a96
+Built BDD for node: a98
+Built BDD for node: a100
+Built BDD for node: a102
+Built BDD for node: a104
+Built BDD for node: a106
+Built BDD for node: a108
+Built BDD for node: a110
+Built BDD for node: o0
+Built BDD for node: o1
+Built BDD for node: o2
+Built BDD for node: o3
+Built BDD for node: o4
+Built BDD for node: o5
+Built BDD for node: o6
+Built BDD for node: o7
+Built BDD for node: o8
+Built BDD for node: o9
+Built BDD for node: o10
+Built BDD for node: o11
+Total number of unique BDD nodes (shared among outputs): 48
+read reordering times = 1**** CUDD modifiable parameters ****
+Hard limit for cache size: 2796202
+Cache hit threshold for resizing: 30%
+Garbage collection enabled: yes
+Limit for fast unique table growth: 1677721
+Maximum number of variables sifted per reordering: 1000
+Maximum number of variable swaps per reordering: 2000000
+Maximum growth while sifting a variable: 1.2
+Dynamic reordering of BDDs enabled: yes
+Default BDD reordering method: 5
+Dynamic reordering of ZDDs enabled: no
+Default ZDD reordering method: 4
+Realignment of ZDDs to BDDs enabled: no
+Realignment of BDDs to ZDDs enabled: no
+Dead nodes counted in triggering reordering: no
+Group checking criterion: 7
+Recombination threshold: 0
+Symmetry violation threshold: 0
+Arc violation threshold: 0
+GA population size: 0
+Number of crossovers for GA: 0
+Next reordering threshold: 170
+**** CUDD non-modifiable parameters ****
+Memory in use: 10544360
+Peak number of nodes: 1022
+Peak number of live nodes: 115
+Number of BDD variables: 16
+Number of ZDD variables: 0
+Number of cache entries: 262144
+Number of cache look-ups: 103
+Number of cache hits: 5
+Number of cache insertions: 102
+Number of cache collisions: 0
+Number of cache deletions: 102
+Cache used slots = 0.04% (expected 0.00%)
+Soft limit for cache size: 17408
+Number of buckets in unique table: 4352
+Used buckets in unique table: 1.95% (expected 1.95%)
+Number of BDD and ADD nodes: 86
+Number of ZDD nodes: 0
+Number of dead BDD and ADD nodes: 0
+Number of dead ZDD nodes: 0
+Total number of nodes allocated: 115
+Total number of nodes reclaimed: 0
+Garbage collections so far: 0
+Time for garbage collection: 0.00 sec
+Reorderings so far: 1
+Time for reordering: 0.00 sec
+
+Current variable ordering in BDD:
+Position 0: Variable index 15
+Position 1: Variable index 14
+Position 2: Variable index 11
+Position 3: Variable index 5
+Position 4: Variable index 0
+Position 5: Variable index 1
+Position 6: Variable index 2
+Position 7: Variable index 7
+Position 8: Variable index 8
+Position 9: Variable index 6
+Position 10: Variable index 13
+Position 11: Variable index 3
+Position 12: Variable index 10
+Position 13: Variable index 9
+Position 14: Variable index 4
+Position 15: Variable index 12
+
+Completed: CUDD_REORDER_SIFT_CONVERGE.

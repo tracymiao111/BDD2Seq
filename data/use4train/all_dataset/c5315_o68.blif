@@ -1,0 +1,78 @@
+# Benchmark "c5315_N7474" written by ABC on Thu Oct 31 22:14:13 2024
+.model c5315_N7474
+.inputs N293 N299 N302 N307 N308 N315 N316 N323 N324 N331 N332 N338 N341 \
+ N348 N351 N358 N361 N366 N369 N372
+.outputs N7474
+.names N369 N372 N332 new_n22
+1-0 1
+-11 1
+.names N361 N366 N332 new_n23
+1-0 1
+-11 1
+.names new_n22 new_n23 new_n24
+11 1
+00 1
+.names N351 N358 N332 new_n25
+1-0 1
+-11 1
+.names N341 N348 N332 new_n26
+1-0 1
+-11 1
+.names new_n25 new_n26 new_n27
+11 1
+00 1
+.names new_n24 new_n27 new_n28
+0- 1
+-0 1
+.names new_n27 new_n24 new_n29
+1- 1
+-0 1
+.names N324 N331 N332 new_n30
+1-0 1
+-11 1
+.names N332 N338 new_n31
+10 1
+.names new_n30 new_n31 new_n32
+10 1
+01 1
+.names new_n28 new_n29 new_n32 new_n33
+1-0 1
+-11 1
+.names new_n24 new_n27 new_n34
+00 1
+.names new_n27 new_n24 new_n35
+10 1
+.names new_n34 new_n35 new_n32 new_n36
+1-0 1
+-11 1
+.names new_n33 new_n36 new_n37
+10 1
+.names N293 N299 N332 new_n38
+1-0 1
+-11 1
+.names N302 new_n39
+0 1
+.names N307 new_n40
+0 1
+.names new_n39 new_n40 N332 new_n41
+1-0 1
+-11 1
+.names new_n38 new_n41 new_n42
+10 1
+01 1
+.names N308 N315 N332 new_n43
+1-0 1
+-11 1
+.names N316 N323 N332 new_n44
+1-0 1
+-11 1
+.names new_n43 new_n44 new_n45
+10 1
+01 1
+.names new_n42 new_n45 new_n46
+10 1
+01 1
+.names new_n37 new_n46 N7474
+10 1
+01 1
+.end

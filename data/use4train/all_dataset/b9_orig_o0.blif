@@ -1,0 +1,50 @@
+# Benchmark "b9_p0" written by ABC on Thu Oct 31 22:13:52 2024
+.model b9_p0
+.inputs e k p q b0 c0 j0 k0 l0 n0 o0
+.outputs p0
+.names l0 new_n13
+0 1
+.names c0 j0 new_n14
+11 1
+.names new_n13 new_n14 new_n15
+10 1
+.names b0 new_n16
+0 1
+.names new_n15 new_n16 new_n17
+1- 1
+-1 1
+.names k e new_n18
+10 1
+.names new_n16 new_n18 new_n19
+10 1
+.names c0 k0 new_n20
+10 1
+.names k0 j0 new_n21
+00 1
+.names new_n20 new_n21 new_n22
+1- 1
+-1 1
+.names new_n22 e new_n23
+1- 1
+-1 1
+.names new_n23 new_n18 new_n24
+10 1
+.names new_n19 new_n24 new_n25
+1- 1
+-1 1
+.names o0 new_n25 new_n26
+10 1
+.names new_n17 new_n26 new_n27
+10 1
+.names new_n17 n0 new_n28
+10 1
+.names new_n27 new_n28 new_n29
+1- 1
+-1 1
+.names new_n29 p new_n30
+1- 1
+-1 1
+.names new_n30 q p0
+0- 1
+-0 1
+.end

@@ -1,0 +1,29 @@
+# Benchmark "cu_x" written by ABC on Thu Oct 31 22:14:16 2024
+.model cu_x
+.inputs c d e f n o
+.outputs x
+.names d e new_n8
+1- 1
+-0 1
+.names o c new_n9
+11 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names c f new_n11
+11 1
+.names new_n10 new_n11 new_n12
+00 1
+.names o n new_n13
+10 1
+.names new_n13 f new_n14
+0- 1
+-0 1
+.names new_n12 new_n14 new_n15
+10 1
+.names new_n12 c new_n16
+11 1
+.names new_n15 new_n16 x
+1- 1
+-1 1
+.end

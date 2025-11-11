@@ -1,0 +1,55 @@
+# Benchmark "apex6_TXWRD2_P" written by ABC on Thu Oct 31 22:15:26 2024
+.model apex6_TXWRD2_P
+.inputs VFIN PFIN INFIN P1ZZZ2 I1ZZZ2 TXMESS_N RYZ B C V1ZZZ2 TXWRD2 TXWRD3
+.outputs TXWRD2_P
+.names INFIN RYZ new_n14
+00 1
+.names PFIN VFIN new_n15
+1- 1
+-0 1
+.names new_n15 V1ZZZ2 new_n16
+1- 1
+-0 1
+.names P1ZZZ2 PFIN new_n17
+11 1
+.names TXMESS_N new_n18
+0 1
+.names C B new_n19
+00 1
+.names new_n18 new_n19 new_n20
+10 1
+.names new_n20 VFIN new_n21
+1- 1
+-1 1
+.names new_n21 PFIN new_n22
+1- 1
+-1 1
+.names TXWRD2 new_n22 new_n23
+10 1
+.names new_n17 new_n23 new_n24
+1- 1
+-1 1
+.names VFIN new_n20 new_n25
+1- 1
+-0 1
+.names new_n25 PFIN new_n26
+1- 1
+-1 1
+.names TXWRD3 new_n26 new_n27
+10 1
+.names new_n24 new_n27 new_n28
+1- 1
+-1 1
+.names new_n16 new_n28 new_n29
+10 1
+.names new_n14 new_n29 new_n30
+10 1
+.names RYZ INFIN new_n31
+1- 1
+-0 1
+.names I1ZZZ2 new_n31 new_n32
+10 1
+.names new_n30 new_n32 TXWRD2_P
+1- 1
+-1 1
+.end

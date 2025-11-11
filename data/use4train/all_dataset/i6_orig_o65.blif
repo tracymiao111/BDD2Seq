@@ -1,0 +1,42 @@
+# Benchmark "i6_V205(1)" written by ABC on Thu Oct 31 22:14:23 2024
+.model i6_V205(1)
+.inputs V138(0) V138(2) V138(3) V96(29) V131(29)
+.outputs V205(1)
+.names V138(0) V96(29) new_n7
+1- 1
+-0 1
+.names new_n7 V138(2) new_n8
+1- 1
+-1 1
+.names V138(3) new_n8 new_n9
+10 1
+.names V138(0) V131(29) new_n10
+0- 1
+-0 1
+.names new_n10 V138(2) new_n11
+1- 1
+-1 1
+.names V138(3) new_n11 new_n12
+10 1
+.names new_n9 new_n12 new_n13
+1- 1
+-1 1
+.names V131(29) V138(0) new_n14
+1- 1
+-0 1
+.names V138(2) new_n15
+0 1
+.names new_n14 new_n15 new_n16
+1- 1
+-1 1
+.names V138(3) new_n16 new_n17
+10 1
+.names new_n13 new_n17 new_n18
+1- 1
+-1 1
+.names V138(2) V138(3) new_n19
+10 1
+.names new_n18 new_n19 V205(1)
+1- 1
+-1 1
+.end

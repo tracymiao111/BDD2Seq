@@ -1,0 +1,43 @@
+# Benchmark "apex7_OWL_F" written by ABC on Thu Oct 31 22:14:52 2024
+.model apex7_OWL_F
+.inputs ICLR END WATCH KBG_N BULL0 BULL1 BULL2 BULL3 BULL4 BULL5 BULL6
+.outputs OWL_F
+.names WATCH ICLR new_n13
+1- 1
+-1 1
+.names new_n13 END new_n14
+1- 1
+-1 1
+.names KBG_N new_n14 new_n15
+10 1
+.names BULL5 new_n16
+0 1
+.names BULL3 BULL0 new_n17
+00 1
+.names new_n17 BULL4 new_n18
+0- 1
+-0 1
+.names new_n16 new_n18 new_n19
+10 1
+.names new_n19 BULL6 new_n20
+0- 1
+-0 1
+.names BULL1 new_n21
+0 1
+.names new_n20 new_n21 new_n22
+1- 1
+-1 1
+.names new_n22 BULL2 new_n23
+00 1
+.names new_n23 ICLR new_n24
+1- 1
+-1 1
+.names new_n24 END new_n25
+1- 1
+-1 1
+.names KBG_N new_n25 new_n26
+10 1
+.names new_n15 new_n26 OWL_F
+1- 1
+-1 1
+.end

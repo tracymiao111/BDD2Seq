@@ -1,0 +1,157 @@
+# Benchmark "c880_N865" written by ABC on Thu Oct 31 22:13:56 2024
+.model c880_N865
+.inputs N1 N8 N13 N17 N26 N29 N42 N51 N55 N59 N68 N72 N73 N75 N80 N116 N121 \
+ N126 N149 N153 N156 N195 N201 N210 N219 N228 N237 N246 N255 N260 N261 N268
+.outputs N865
+.names N59 N42 new_n34
+11 1
+.names new_n34 N68 new_n35
+11 1
+.names new_n35 N72 new_n36
+11 1
+.names N8 N1 new_n37
+0- 1
+-0 1
+.names N13 new_n38
+0 1
+.names new_n37 new_n38 new_n39
+1- 1
+-1 1
+.names N55 new_n39 new_n40
+10 1
+.names new_n36 new_n40 new_n41
+11 1
+.names new_n41 N73 new_n42
+0- 1
+-0 1
+.names N195 new_n42 new_n43
+10 1
+.names N75 N29 new_n44
+0- 1
+-0 1
+.names N80 new_n45
+0 1
+.names new_n44 new_n45 new_n46
+1- 1
+-1 1
+.names N26 N1 new_n47
+0- 1
+-0 1
+.names N51 new_n48
+0 1
+.names new_n47 new_n48 new_n49
+1- 1
+-1 1
+.names new_n46 new_n49 new_n50
+1- 1
+-1 1
+.names N55 new_n51
+0 1
+.names new_n50 new_n51 new_n52
+1- 1
+-1 1
+.names new_n52 N268 new_n53
+1- 1
+-1 1
+.names N42 N17 new_n54
+10 1
+01 1
+.names new_n54 N59 new_n55
+11 1
+.names new_n55 N156 new_n56
+0- 1
+-0 1
+.names new_n56 new_n49 new_n57
+1- 1
+-1 1
+.names new_n37 new_n48 new_n58
+1- 1
+-1 1
+.names N17 new_n58 new_n59
+10 1
+.names N75 N59 new_n60
+0- 1
+-0 1
+.names N42 new_n60 new_n61
+10 1
+.names new_n59 new_n61 new_n62
+10 1
+.names new_n57 new_n62 new_n63
+10 1
+.names N121 new_n63 new_n64
+10 1
+.names N156 N59 new_n65
+11 1
+.names new_n65 new_n49 new_n66
+1- 1
+-1 1
+.names N17 new_n66 new_n67
+10 1
+.names N1 new_n67 new_n68
+10 1
+.names N149 new_n68 new_n69
+10 1
+.names new_n64 new_n69 new_n70
+1- 1
+-1 1
+.names new_n53 new_n70 new_n71
+10 1
+.names N246 new_n71 new_n72
+10 1
+.names N260 N255 new_n73
+11 1
+.names new_n72 new_n73 new_n74
+1- 1
+-1 1
+.names new_n71 N195 new_n75
+1- 1
+-0 1
+.names N237 new_n75 new_n76
+10 1
+.names new_n71 N195 new_n77
+10 1
+.names new_n75 new_n77 new_n78
+10 1
+.names new_n78 N228 new_n79
+11 1
+.names new_n76 new_n79 new_n80
+1- 1
+-1 1
+.names N126 new_n63 new_n81
+10 1
+.names N153 new_n68 new_n82
+10 1
+.names new_n81 new_n82 new_n83
+1- 1
+-1 1
+.names new_n53 new_n83 new_n84
+10 1
+.names new_n84 N201 new_n85
+10 1
+.names new_n85 N261 new_n86
+1- 1
+-0 1
+.names N201 new_n84 new_n87
+10 1
+.names new_n86 new_n87 new_n88
+10 1
+.names new_n88 new_n78 new_n89
+10 1
+01 1
+.names N219 new_n89 new_n90
+10 1
+.names N210 N116 new_n91
+11 1
+.names new_n90 new_n91 new_n92
+1- 1
+-1 1
+.names new_n80 new_n92 new_n93
+1- 1
+-1 1
+.names new_n74 new_n93 new_n94
+1- 1
+-1 1
+.names new_n43 new_n94 N865
+1- 1
+-1 1
+.end

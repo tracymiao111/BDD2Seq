@@ -1,0 +1,12 @@
+# Benchmark "c7552_N883" written by ABC on Thu Oct 31 22:13:58 2024
+.model c7552_N883
+.inputs N152 N210 N218 N230
+.outputs N883
+.names N152 N210 new_n6
+11 1
+.names new_n6 N218 new_n7
+11 1
+.names new_n7 N230 N883
+0- 1
+-0 1
+.end

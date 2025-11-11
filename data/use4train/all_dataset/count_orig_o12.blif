@@ -1,0 +1,54 @@
+# Benchmark "count_w0" written by ABC on Thu Oct 31 22:14:26 2024
+.model count_w0
+.inputs d q r s u v w x y z a0 b0 c0 d0 e0 f0 g0
+.outputs w0
+.names d q new_n19
+00 1
+.names new_n19 s new_n20
+1- 1
+-1 1
+.names r u new_n21
+1- 1
+-1 1
+.names new_n21 v new_n22
+1- 1
+-1 1
+.names new_n22 w new_n23
+1- 1
+-1 1
+.names new_n23 x new_n24
+1- 1
+-1 1
+.names new_n24 y new_n25
+1- 1
+-1 1
+.names new_n25 z new_n26
+1- 1
+-1 1
+.names new_n26 a0 new_n27
+1- 1
+-1 1
+.names new_n27 b0 new_n28
+1- 1
+-1 1
+.names new_n28 c0 new_n29
+1- 1
+-1 1
+.names new_n29 d0 new_n30
+1- 1
+-1 1
+.names new_n30 e0 new_n31
+1- 1
+-1 1
+.names new_n31 f0 new_n32
+1- 1
+-1 1
+.names new_n32 g0 new_n33
+10 1
+01 1
+.names q new_n33 new_n34
+10 1
+.names new_n20 new_n34 w0
+1- 1
+-1 1
+.end

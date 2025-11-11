@@ -1,0 +1,120 @@
+Successfully loaded network from BLIF file: ../../split_2/pair_orig_o6.blif
+the reorder method is = 13
+Built BDD for node: k0
+Built BDD for node: l0
+Built BDD for node: m0
+Built BDD for node: n0
+Built BDD for node: o0
+Built BDD for node: p0
+Built BDD for node: q0
+Built BDD for node: r0
+Built BDD for node: s0
+Built BDD for node: t0
+Built BDD for node: u0
+Built BDD for node: h3
+Built BDD for node: o3
+Built BDD for node: s3
+Built BDD for node: v3
+Built BDD for node: y3
+Built BDD for node: b4
+Built BDD for node: f4
+Built BDD for node: k4
+Built BDD for node: o4
+Built BDD for node: t4
+Built BDD for node: y4
+Built BDD for node: new_n24
+Built BDD for node: new_n25
+Built BDD for node: new_n26
+Built BDD for node: new_n27
+Built BDD for node: new_n28
+Built BDD for node: new_n29
+Built BDD for node: new_n30
+Built BDD for node: new_n31
+Built BDD for node: new_n32
+Built BDD for node: new_n33
+Built BDD for node: new_n34
+Built BDD for node: new_n35
+Built BDD for node: new_n36
+Built BDD for node: new_n37
+Built BDD for node: new_n38
+Built BDD for node: new_n39
+Built BDD for node: new_n40
+Built BDD for node: new_n41
+Built BDD for node: new_n42
+Built BDD for node: new_n43
+Built BDD for node: y5
+Total number of unique BDD nodes (shared among outputs): 23
+read reordering times = 2**** CUDD modifiable parameters ****
+Hard limit for cache size: 2796202
+Cache hit threshold for resizing: 30%
+Garbage collection enabled: yes
+Limit for fast unique table growth: 1677721
+Maximum number of variables sifted per reordering: 1000
+Maximum number of variable swaps per reordering: 2000000
+Maximum growth while sifting a variable: 1.2
+Dynamic reordering of BDDs enabled: yes
+Default BDD reordering method: 13
+Dynamic reordering of ZDDs enabled: no
+Default ZDD reordering method: 4
+Realignment of ZDDs to BDDs enabled: no
+Realignment of BDDs to ZDDs enabled: no
+Dead nodes counted in triggering reordering: no
+Group checking criterion: 7
+Recombination threshold: 0
+Symmetry violation threshold: 0
+Arc violation threshold: 0
+GA population size: 0
+Number of crossovers for GA: 0
+Next reordering threshold: 132
+**** CUDD non-modifiable parameters ****
+Memory in use: 10696584
+Peak number of nodes: 5110
+Peak number of live nodes: 4004
+Number of BDD variables: 22
+Number of ZDD variables: 0
+Number of cache entries: 262144
+Number of cache look-ups: 4238
+Number of cache hits: 1206
+Number of cache insertions: 3159
+Number of cache collisions: 18
+Number of cache deletions: 3141
+Cache used slots = 1.20% (expected 0.00%)
+Soft limit for cache size: 23552
+Number of buckets in unique table: 5888
+Used buckets in unique table: 1.14% (expected 1.13%)
+Number of BDD and ADD nodes: 67
+Number of ZDD nodes: 0
+Number of dead BDD and ADD nodes: 0
+Number of dead ZDD nodes: 0
+Total number of nodes allocated: 4005
+Total number of nodes reclaimed: 5
+Garbage collections so far: 1
+Time for garbage collection: 0.00 sec
+Reorderings so far: 2
+Time for reordering: 0.00 sec
+
+Current variable ordering in BDD:
+Position 0: Variable index 0
+Position 1: Variable index 13
+Position 2: Variable index 1
+Position 3: Variable index 12
+Position 4: Variable index 11
+Position 5: Variable index 2
+Position 6: Variable index 3
+Position 7: Variable index 16
+Position 8: Variable index 15
+Position 9: Variable index 4
+Position 10: Variable index 5
+Position 11: Variable index 14
+Position 12: Variable index 6
+Position 13: Variable index 19
+Position 14: Variable index 7
+Position 15: Variable index 18
+Position 16: Variable index 8
+Position 17: Variable index 17
+Position 18: Variable index 10
+Position 19: Variable index 20
+Position 20: Variable index 9
+Position 21: Variable index 21
+
+Completed: CUDD_REORDER_WINDOW4_CONV.

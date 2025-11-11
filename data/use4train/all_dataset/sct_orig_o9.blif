@@ -1,0 +1,88 @@
+# Benchmark "sct_c0" written by ABC on Thu Oct 31 22:15:09 2024
+.model sct_c0
+.inputs c d e g h i j k l m n q
+.outputs c0
+.names n m new_n14
+1- 1
+-1 1
+.names new_n14 l new_n15
+00 1
+.names new_n15 k new_n16
+10 1
+.names new_n16 d new_n17
+1- 1
+-1 1
+.names q h new_n18
+00 1
+.names q g new_n19
+00 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names q new_n21
+0 1
+.names i j new_n22
+10 1
+.names new_n21 new_n22 new_n23
+10 1
+.names new_n20 new_n23 new_n24
+1- 1
+-1 1
+.names new_n21 new_n16 new_n25
+10 1
+.names new_n24 new_n25 new_n26
+1- 1
+-1 1
+.names d h new_n27
+00 1
+.names new_n26 new_n27 new_n28
+1- 1
+-1 1
+.names d g new_n29
+1- 1
+-1 1
+.names new_n29 new_n30
+0 1
+.names new_n28 new_n30 new_n31
+1- 1
+-1 1
+.names new_n22 d new_n32
+00 1
+.names new_n31 new_n32 new_n33
+1- 1
+-1 1
+.names new_n17 new_n33 new_n34
+10 1
+.names e new_n35
+0 1
+.names new_n34 new_n35 new_n36
+1- 1
+-1 1
+.names j new_n37
+0 1
+.names m l new_n38
+1- 1
+-1 1
+.names new_n38 k new_n39
+1- 1
+-1 1
+.names new_n37 new_n39 new_n40
+10 1
+.names i h new_n41
+0- 1
+-0 1
+.names g new_n41 new_n42
+10 1
+.names new_n40 new_n42 new_n43
+11 1
+.names n new_n43 new_n44
+10 1
+.names new_n36 new_n44 new_n45
+1- 1
+-1 1
+.names q c new_n46
+10 1
+.names new_n45 new_n46 c0
+1- 1
+-1 1
+.end

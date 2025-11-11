@@ -1,0 +1,43 @@
+# Benchmark "x1_a1" written by ABC on Thu Oct 31 22:14:23 2024
+.model x1_a1
+.inputs b j l m n r v a0 f0 r0
+.outputs a1
+.names n a0 new_n12
+11 1
+.names a0 m new_n13
+11 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names a0 l new_n15
+10 1
+.names new_n14 new_n15 new_n16
+1- 1
+-1 1
+.names a0 b new_n17
+10 1
+.names new_n16 new_n17 new_n18
+1- 1
+-1 1
+.names f0 b new_n19
+10 1
+.names new_n18 new_n19 new_n20
+1- 1
+-1 1
+.names r0 b new_n21
+10 1
+.names new_n20 new_n21 new_n22
+1- 1
+-1 1
+.names j r new_n23
+1- 1
+-1 1
+.names new_n23 v new_n24
+1- 1
+-1 1
+.names a0 new_n24 new_n25
+10 1
+.names new_n22 new_n25 a1
+1- 1
+-1 1
+.end

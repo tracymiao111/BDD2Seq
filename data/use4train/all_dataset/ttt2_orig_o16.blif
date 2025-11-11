@@ -1,0 +1,94 @@
+# Benchmark "ttt2_p0" written by ABC on Thu Oct 31 22:14:43 2024
+.model ttt2_p0
+.inputs a k l m n o p q r s t u x
+.outputs p0
+.names m n new_n15
+1- 1
+-0 1
+.names new_n15 l new_n16
+1- 1
+-1 1
+.names k new_n17
+0 1
+.names new_n16 new_n17 new_n18
+1- 1
+-1 1
+.names new_n18 p new_n19
+1- 1
+-1 1
+.names new_n19 q new_n20
+1- 1
+-1 1
+.names t s new_n21
+0- 1
+-0 1
+.names r new_n22
+0 1
+.names new_n21 new_n22 new_n23
+1- 1
+-1 1
+.names o new_n23 new_n24
+10 1
+.names new_n20 new_n24 new_n25
+1- 1
+-0 1
+.names q new_n26
+0 1
+.names p x new_n27
+1- 1
+-0 1
+.names new_n26 new_n27 new_n28
+10 1
+.names new_n28 new_n24 new_n29
+11 1
+.names new_n25 new_n29 new_n30
+10 1
+.names a u new_n31
+1- 1
+-0 1
+.names new_n30 new_n31 new_n32
+10 1
+.names x k new_n33
+00 1
+.names l x new_n34
+10 1
+.names new_n33 new_n34 new_n35
+1- 1
+-1 1
+.names m x new_n36
+10 1
+.names new_n35 new_n36 new_n37
+1- 1
+-1 1
+.names x n new_n38
+00 1
+.names new_n37 new_n38 new_n39
+00 1
+.names p q new_n40
+00 1
+.names new_n40 o new_n41
+0- 1
+-0 1
+.names new_n41 a new_n42
+1- 1
+-1 1
+.names u t new_n43
+1- 1
+-0 1
+.names s new_n44
+0 1
+.names new_n43 new_n44 new_n45
+1- 1
+-1 1
+.names new_n45 new_n22 new_n46
+1- 1
+-1 1
+.names new_n42 new_n46 new_n47
+1- 1
+-1 1
+.names new_n39 new_n47 new_n48
+10 1
+.names new_n32 new_n48 p0
+1- 1
+-1 1
+.end

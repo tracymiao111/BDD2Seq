@@ -1,0 +1,31 @@
+# Benchmark "i8_V214(0)" written by ABC on Thu Oct 31 22:14:30 2024
+.model i8_V214(0)
+.inputs V133(1) V133(2) V133(10) V133(7) V133(9) V121(17) V122(0)
+.outputs V214(0)
+.names V133(10) V133(1) new_n9
+1- 1
+-0 1
+.names V133(2) new_n9 new_n10
+10 1
+.names new_n10 V133(9) new_n11
+10 1
+.names V133(9) V133(10) new_n12
+1- 1
+-1 1
+.names V133(7) new_n12 new_n13
+10 1
+.names new_n11 V121(17) new_n13 new_n14
+1-0 1
+-11 1
+.names new_n11 V122(0) new_n15
+1- 1
+-0 1
+.names new_n15 new_n13 new_n16
+1- 1
+-1 1
+.names V133(10) new_n16 new_n17
+10 1
+.names new_n14 new_n17 V214(0)
+1- 1
+-1 1
+.end

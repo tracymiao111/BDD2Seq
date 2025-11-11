@@ -1,0 +1,155 @@
+Successfully loaded network from BLIF file: ../../split_folder_2/i1_n8_m14.blif
+the reorder method is = 10
+Built BDD for node: IN-V27_0
+Built BDD for node: V7_1
+Built BDD for node: V7_2
+Built BDD for node: V7_3
+Built BDD for node: V7_4
+Built BDD for node: V7_5
+Built BDD for node: V7_6
+Built BDD for node: V7_7
+Built BDD for node: V8_0
+Built BDD for node: V9_0
+Built BDD for node: V10_0
+Built BDD for node: V11_0
+Built BDD for node: V12_0
+Built BDD for node: V13_0
+Built BDD for node: V14_0
+Built BDD for node: V15_0
+Built BDD for node: V16_0
+Built BDD for node: V17_0
+Built BDD for node: V18_0
+Built BDD for node: IN-V29_0
+Built BDD for node: IN-V27_3
+Built BDD for node: V22_2
+Built BDD for node: V22_3
+Built BDD for node: V22_4
+Built BDD for node: V22_5
+Built BDD for node: $false
+Built BDD for node: $true
+Built BDD for node: $undef
+Built BDD for node: $abc$156$new_n21
+Built BDD for node: V36_0
+Built BDD for node: V37_0
+Built BDD for node: $abc$156$new_n24
+Built BDD for node: $abc$156$new_n25
+Built BDD for node: V38_0
+Built BDD for node: V30_0
+Built BDD for node: V32_0
+Built BDD for node: $abc$156$new_n29
+Built BDD for node: V31_0
+Built BDD for node: $abc$156$new_n31
+Built BDD for node: $abc$156$new_n32
+Built BDD for node: V33_0
+Built BDD for node: V34_0
+Built BDD for node: V35_0
+Built BDD for node: IN_neg-V27_0_neg
+Built BDD for node: IN_neg-V27_3
+Built BDD for node: IN_neg-V29_0
+Built BDD for node: V27_0
+Built BDD for node: V27_0_neg
+Built BDD for node: V27_1
+Built BDD for node: V27_2
+Built BDD for node: V27_3
+Built BDD for node: V27_4
+Built BDD for node: V28_0
+Built BDD for node: V29_0
+Built BDD for node: V42
+Built BDD for node: V52
+Built BDD for node: V53
+Built BDD for node: V56
+Built BDD for node: V58
+Built BDD for node: V60
+Built BDD for node: V63
+Built BDD for node: V64
+Built BDD for node: [10]
+Built BDD for node: [11]
+Built BDD for node: [12]
+Built BDD for node: [13]
+Built BDD for node: [14]
+Built BDD for node: [15]
+Built BDD for node: [1]
+Built BDD for node: [2]
+Built BDD for node: [4]
+Built BDD for node: [5]
+Built BDD for node: [7]
+Built BDD for node: [8]
+Built BDD for node: [9]
+Total number of unique BDD nodes (shared among outputs): 17
+read reordering times = 1**** CUDD modifiable parameters ****
+Hard limit for cache size: 2796202
+Cache hit threshold for resizing: 30%
+Garbage collection enabled: yes
+Limit for fast unique table growth: 1677721
+Maximum number of variables sifted per reordering: 1000
+Maximum number of variable swaps per reordering: 2000000
+Maximum growth while sifting a variable: 1.2
+Dynamic reordering of BDDs enabled: yes
+Default BDD reordering method: 10
+Dynamic reordering of ZDDs enabled: no
+Default ZDD reordering method: 4
+Realignment of ZDDs to BDDs enabled: no
+Realignment of BDDs to ZDDs enabled: no
+Dead nodes counted in triggering reordering: no
+Group checking criterion: 7
+Recombination threshold: 0
+Symmetry violation threshold: 0
+Arc violation threshold: 0
+GA population size: 0
+Number of crossovers for GA: 0
+Next reordering threshold: 86
+**** CUDD non-modifiable parameters ****
+Memory in use: 10565640
+Peak number of nodes: 1022
+Peak number of live nodes: 46
+Number of BDD variables: 25
+Number of ZDD variables: 0
+Number of cache entries: 262144
+Number of cache look-ups: 20
+Number of cache hits: 2
+Number of cache insertions: 18
+Number of cache collisions: 0
+Number of cache deletions: 18
+Cache used slots = 0.01% (expected 0.00%)
+Soft limit for cache size: 26624
+Number of buckets in unique table: 6656
+Used buckets in unique table: 0.65% (expected 0.66%)
+Number of BDD and ADD nodes: 44
+Number of ZDD nodes: 0
+Number of dead BDD and ADD nodes: 0
+Number of dead ZDD nodes: 0
+Total number of nodes allocated: 46
+Total number of nodes reclaimed: 0
+Garbage collections so far: 0
+Time for garbage collection: 0.00 sec
+Reorderings so far: 1
+Time for reordering: 0.00 sec
+
+Current variable ordering in BDD:
+Position 0: Variable index 0
+Position 1: Variable index 1
+Position 2: Variable index 2
+Position 3: Variable index 3
+Position 4: Variable index 4
+Position 5: Variable index 5
+Position 6: Variable index 6
+Position 7: Variable index 7
+Position 8: Variable index 8
+Position 9: Variable index 9
+Position 10: Variable index 10
+Position 11: Variable index 11
+Position 12: Variable index 14
+Position 13: Variable index 12
+Position 14: Variable index 13
+Position 15: Variable index 15
+Position 16: Variable index 16
+Position 17: Variable index 17
+Position 18: Variable index 18
+Position 19: Variable index 19
+Position 20: Variable index 20
+Position 21: Variable index 21
+Position 22: Variable index 22
+Position 23: Variable index 23
+Position 24: Variable index 24
+
+Completed: CUDD_REORDER_WINDOW4.

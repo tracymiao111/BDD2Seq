@@ -1,0 +1,31 @@
+# Benchmark "c2670_N1726" written by ABC on Thu Oct 31 22:14:44 2024
+.model c2670_N1726
+.inputs N44 N57 N69 N82 N96 N108 N120 N132 N231 N325
+.outputs N1726
+.names N57 N120 new_n12
+0- 1
+-0 1
+.names N108 new_n13
+0 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names N69 new_n14 new_n15
+10 1
+.names N231 new_n15 new_n16
+10 1
+.names N82 N132 new_n17
+0- 1
+-0 1
+.names N96 new_n18
+0 1
+.names new_n17 new_n18 new_n19
+1- 1
+-1 1
+.names N44 new_n19 new_n20
+10 1
+.names N325 new_n20 new_n21
+10 1
+.names new_n16 new_n21 N1726
+00 1
+.end

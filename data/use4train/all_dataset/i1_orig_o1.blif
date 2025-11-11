@@ -1,0 +1,48 @@
+# Benchmark "i1_V27_1" written by ABC on Thu Oct 31 22:14:01 2024
+.model i1_V27_1
+.inputs IN-V27_0 V7_1 V7_2 V7_3 V7_4 V7_5 V7_6 V7_7 V8_0 V9_0 IN-V29_0
+.outputs V27_1
+.names V7_7 V7_5 new_n13
+1- 1
+-1 1
+.names new_n13 V7_3 new_n14
+1- 1
+-1 1
+.names new_n14 V7_1 new_n15
+1- 1
+-1 1
+.names new_n15 V7_2 new_n16
+1- 1
+-1 1
+.names new_n16 V7_4 new_n17
+1- 1
+-1 1
+.names new_n17 V7_6 new_n18
+1- 1
+-1 1
+.names new_n18 V9_0 new_n19
+1- 1
+-0 1
+.names IN-V29_0 new_n20
+0 1
+.names new_n19 new_n20 new_n21
+1- 1
+-1 1
+.names V8_0 new_n21 new_n22
+10 1
+.names IN-V29_0 IN-V27_0 new_n23
+10 1
+.names new_n22 new_n23 new_n24
+1- 1
+-1 1
+.names V8_0 IN-V29_0 new_n25
+1- 1
+-0 1
+.names new_n25 new_n18 new_n26
+00 1
+.names new_n26 V9_0 new_n27
+10 1
+.names new_n24 new_n27 V27_1
+1- 1
+-1 1
+.end

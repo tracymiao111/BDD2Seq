@@ -1,0 +1,11 @@
+# Benchmark "CM82_f" written by ABC on Thu Oct 31 22:14:51 2024
+.model CM82_f
+.inputs a b c
+.outputs f
+.names b c new_n5
+10 1
+01 1
+.names new_n5 a f
+10 1
+01 1
+.end

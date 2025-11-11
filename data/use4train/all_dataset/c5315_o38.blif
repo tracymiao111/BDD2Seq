@@ -1,0 +1,19 @@
+# Benchmark "c5315_N4279" written by ABC on Thu Oct 31 22:14:12 2024
+.model c5315_N4279
+.inputs N27 N31 N83 N588
+.outputs N4279
+.names N83 N588 new_n6
+0- 1
+-0 1
+.names N83 N588 new_n7
+10 1
+.names new_n6 new_n7 new_n8
+10 1
+.names N31 N27 new_n9
+11 1
+.names new_n9 new_n10
+0 1
+.names new_n8 new_n10 N4279
+1- 1
+-1 1
+.end

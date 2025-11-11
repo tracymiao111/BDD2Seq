@@ -1,0 +1,14 @@
+# Benchmark "c3540_N1713" written by ABC on Thu Oct 31 22:14:27 2024
+.model c3540_N1713
+.inputs N50 N58 N68 N77
+.outputs N1713
+.names N68 new_n6
+0 1
+.names N58 N50 new_n7
+1- 1
+-1 1
+.names new_n6 new_n7 new_n8
+10 1
+.names new_n8 N77 N1713
+10 1
+.end

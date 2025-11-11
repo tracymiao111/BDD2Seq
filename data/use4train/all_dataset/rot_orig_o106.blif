@@ -1,0 +1,134 @@
+# Benchmark "rot_h8" written by ABC on Thu Oct 31 22:15:08 2024
+.model rot_h8
+.inputs g h i j k l m u d0 h0 s0 x1 y1 m2 u2 w2 x2 u3
+.outputs h8
+.names x2 w2 new_n20
+00 1
+.names x1 m2 new_n21
+11 1
+.names new_n21 y1 new_n22
+0- 1
+-0 1
+.names w2 new_n22 x2 new_n23
+1-0 1
+-11 1
+.names j d0 new_n24
+1- 1
+-0 1
+.names new_n24 g new_n25
+0- 1
+-0 1
+.names l d0 new_n26
+00 1
+.names new_n25 new_n26 new_n27
+1- 1
+-1 1
+.names u3 i new_n28
+10 1
+.names new_n27 new_n28 new_n29
+1- 1
+-1 1
+.names h u3 new_n30
+1- 1
+-0 1
+.names new_n30 u new_n31
+1- 1
+-1 1
+.names u2 new_n32
+0 1
+.names new_n31 new_n32 new_n33
+1- 1
+-1 1
+.names s0 new_n33 new_n34
+10 1
+.names new_n29 new_n34 new_n35
+1- 1
+-1 1
+.names s0 new_n36
+0 1
+.names new_n30 h0 new_n37
+1- 1
+-1 1
+.names new_n37 new_n32 new_n38
+1- 1
+-1 1
+.names new_n36 new_n38 new_n39
+10 1
+.names new_n35 new_n39 new_n40
+1- 1
+-1 1
+.names k d0 new_n41
+1- 1
+-0 1
+.names new_n41 w2 new_n42
+1- 1
+-1 1
+.names x2 new_n43
+0 1
+.names new_n42 new_n43 new_n44
+1- 1
+-1 1
+.names new_n44 u new_n45
+1- 1
+-1 1
+.names new_n45 new_n32 new_n46
+1- 1
+-1 1
+.names s0 new_n46 new_n47
+10 1
+.names new_n40 new_n47 new_n48
+1- 1
+-1 1
+.names m d0 new_n49
+1- 1
+-1 1
+.names new_n49 w2 new_n50
+1- 1
+-1 1
+.names new_n50 new_n43 new_n51
+1- 1
+-1 1
+.names new_n51 u new_n52
+1- 1
+-1 1
+.names new_n52 new_n32 new_n53
+1- 1
+-1 1
+.names s0 new_n53 new_n54
+10 1
+.names new_n48 new_n54 new_n55
+1- 1
+-1 1
+.names new_n44 h0 new_n56
+1- 1
+-1 1
+.names new_n56 new_n32 new_n57
+1- 1
+-1 1
+.names new_n36 new_n57 new_n58
+10 1
+.names new_n55 new_n58 new_n59
+1- 1
+-1 1
+.names new_n51 h0 new_n60
+1- 1
+-1 1
+.names new_n60 new_n32 new_n61
+1- 1
+-1 1
+.names new_n36 new_n61 new_n62
+10 1
+.names new_n59 new_n62 new_n63
+1- 1
+-1 1
+.names w2 new_n63 new_n64
+10 1
+.names new_n23 new_n64 new_n65
+1- 1
+-1 1
+.names new_n65 w2 new_n66
+10 1
+.names new_n20 new_n66 h8
+1- 1
+-1 1
+.end

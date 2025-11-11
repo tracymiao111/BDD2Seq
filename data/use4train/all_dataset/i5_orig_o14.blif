@@ -1,0 +1,67 @@
+# Benchmark "i5_V167(1)" written by ABC on Thu Oct 31 22:14:35 2024
+.model i5_V167(1)
+.inputs V52(1) V40(2) V52(2) V40(3) V52(3) V40(1) V133(0) V112(1) V109(2) \
+ V112(2) V109(3) V112(3) V109(1) V128(2) V132(2) V128(3) V132(3)
+.outputs V167(1)
+.names V132(2) V128(3) new_n19
+0- 1
+-0 1
+.names V132(2) V133(0) new_n20
+0- 1
+-0 1
+.names V132(3) new_n20 new_n21
+10 1
+.names new_n21 V128(2) new_n22
+1- 1
+-1 1
+.names new_n19 new_n22 new_n23
+10 1
+.names new_n23 V112(2) new_n24
+1- 1
+-0 1
+.names new_n24 V112(1) new_n25
+1- 1
+-0 1
+.names V112(3) new_n25 new_n26
+10 1
+.names V112(1) V109(2) new_n27
+11 1
+.names new_n26 new_n27 new_n28
+1- 1
+-1 1
+.names new_n28 V109(1) new_n29
+1- 1
+-1 1
+.names V112(2) V109(3) new_n30
+0- 1
+-0 1
+.names V112(1) new_n30 new_n31
+10 1
+.names new_n29 new_n31 new_n32
+00 1
+.names new_n32 V52(2) new_n33
+1- 1
+-0 1
+.names V52(1) new_n34
+0 1
+.names new_n33 new_n34 new_n35
+1- 1
+-1 1
+.names V52(3) new_n35 new_n36
+10 1
+.names V52(1) V40(2) new_n37
+11 1
+.names new_n36 new_n37 new_n38
+1- 1
+-1 1
+.names new_n38 V40(1) new_n39
+1- 1
+-1 1
+.names V52(2) V40(3) new_n40
+11 1
+.names new_n40 new_n34 new_n41
+10 1
+.names new_n39 new_n41 V167(1)
+1- 1
+-1 1
+.end

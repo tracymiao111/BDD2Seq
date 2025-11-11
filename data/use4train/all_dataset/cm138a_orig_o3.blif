@@ -1,0 +1,19 @@
+# Benchmark "CM138_j" written by ABC on Thu Oct 31 22:14:16 2024
+.model CM138_j
+.inputs a b c d e f
+.outputs j
+.names a b new_n8
+0- 1
+-0 1
+.names new_n8 c new_n9
+1- 1
+-1 1
+.names f e new_n10
+00 1
+.names new_n10 d new_n11
+0- 1
+-0 1
+.names new_n9 new_n11 j
+1- 1
+-1 1
+.end

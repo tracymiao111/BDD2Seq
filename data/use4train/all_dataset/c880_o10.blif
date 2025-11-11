@@ -1,0 +1,26 @@
+# Benchmark "c880_N446" written by ABC on Thu Oct 31 22:13:56 2024
+.model c880_N446
+.inputs N1 N13 N17 N26 N29 N36 N42
+.outputs N446
+.names N26 N1 new_n9
+0- 1
+-0 1
+.names N13 new_n10
+0 1
+.names new_n9 new_n10 new_n11
+1- 1
+-1 1
+.names N17 new_n12
+0 1
+.names new_n11 new_n12 new_n13
+1- 1
+-1 1
+.names N36 N29 new_n14
+0- 1
+-0 1
+.names N42 new_n14 new_n15
+10 1
+.names new_n13 new_n15 N446
+1- 1
+-0 1
+.end

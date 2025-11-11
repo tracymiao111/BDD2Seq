@@ -1,0 +1,26 @@
+# Benchmark "cht_w0" written by ABC on Thu Oct 31 22:14:03 2024
+.model cht_w0
+.inputs f i l m
+.outputs w0
+.names i l new_n6
+1- 1
+-1 1
+.names m new_n6 new_n7
+10 1
+.names l i new_n8
+1- 1
+-0 1
+.names f new_n8 new_n9
+10 1
+.names new_n7 new_n9 new_n10
+1- 1
+-1 1
+.names l m new_n11
+1- 1
+-0 1
+.names f new_n11 new_n12
+10 1
+.names new_n10 new_n12 w0
+1- 1
+-1 1
+.end

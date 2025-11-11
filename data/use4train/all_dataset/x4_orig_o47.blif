@@ -1,0 +1,104 @@
+# Benchmark "x4_r4" written by ABC on Thu Oct 31 22:14:33 2024
+.model x4_r4
+.inputs g h i t g0 h0 i0 m0 e1 m1 y1 z1 v2
+.outputs r4
+.names i h0 new_n15
+1- 1
+-0 1
+.names new_n15 h new_n16
+1- 1
+-1 1
+.names new_n16 g new_n17
+1- 1
+-1 1
+.names m1 v2 new_n18
+11 1
+.names new_n18 g0 new_n19
+0- 1
+-0 1
+.names new_n17 new_n19 new_n20
+10 1
+.names e1 m0 new_n21
+10 1
+.names new_n20 new_n21 new_n22
+00 1
+.names i0 new_n23
+0 1
+.names new_n22 new_n23 new_n24
+0- 1
+-0 1
+.names y1 new_n24 new_n25
+10 1
+.names new_n17 g0 new_n26
+0- 1
+-0 1
+.names new_n18 i0 new_n27
+10 1
+.names new_n26 new_n27 new_n28
+1- 1
+-0 1
+.names t new_n28 new_n29
+10 1
+.names new_n25 new_n29 new_n30
+1- 1
+-1 1
+.names g0 i new_n31
+0- 1
+-0 1
+.names v2 new_n32
+0 1
+.names new_n31 new_n32 new_n33
+1- 1
+-1 1
+.names m1 new_n33 new_n34
+10 1
+.names g0 g new_n35
+0- 1
+-0 1
+.names new_n35 new_n32 new_n36
+1- 1
+-1 1
+.names m1 new_n36 new_n37
+10 1
+.names g0 h new_n38
+0- 1
+-0 1
+.names new_n38 new_n32 new_n39
+1- 1
+-1 1
+.names m1 new_n39 new_n40
+10 1
+.names new_n37 new_n40 new_n41
+1- 1
+-1 1
+.names new_n34 new_n41 new_n42
+1- 1
+-1 1
+.names h0 g0 new_n43
+1- 1
+-0 1
+.names new_n43 new_n32 new_n44
+1- 1
+-1 1
+.names m1 new_n45
+0 1
+.names new_n44 new_n45 new_n46
+1- 1
+-1 1
+.names new_n42 new_n46 new_n47
+1- 1
+-0 1
+.names i0 m0 new_n48
+1- 1
+-1 1
+.names new_n47 new_n48 new_n49
+00 1
+.names z1 e1 new_n50
+0- 1
+-0 1
+.names new_n49 new_n50 new_n51
+10 1
+.names new_n30 new_n51 r4
+1- 1
+-1 1
+.end

@@ -1,0 +1,30 @@
+# Benchmark "cu_q" written by ABC on Thu Oct 31 22:14:16 2024
+.model cu_q
+.inputs c d e f
+.outputs q
+.names c e new_n6
+10 1
+01 1
+.names c f new_n7
+11 1
+.names new_n6 new_n7 new_n8
+1- 1
+-1 1
+.names e f new_n9
+11 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names c f new_n11
+00 1
+.names new_n10 new_n11 new_n12
+1- 1
+-1 1
+.names e f new_n13
+00 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names new_n14 d q
+00 1
+.end

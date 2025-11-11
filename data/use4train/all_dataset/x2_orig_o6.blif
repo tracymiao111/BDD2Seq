@@ -1,0 +1,65 @@
+# Benchmark "x2_q" written by ABC on Thu Oct 31 22:14:48 2024
+.model x2_q
+.inputs a b c d e f g h i j
+.outputs q
+.names f h new_n12
+10 1
+.names new_n12 i new_n13
+0- 1
+-0 1
+.names j new_n13 new_n14
+10 1
+.names i h new_n15
+00 1
+.names new_n15 j new_n16
+10 1
+.names new_n14 new_n16 new_n17
+1- 1
+-1 1
+.names h i new_n18
+10 1
+.names j new_n19
+0 1
+.names new_n18 new_n19 new_n20
+10 1
+.names new_n17 new_n20 new_n21
+1- 1
+-1 1
+.names g new_n22
+0 1
+.names new_n21 new_n22 new_n23
+1- 1
+-1 1
+.names a b new_n24
+1- 1
+-1 1
+.names new_n24 c new_n25
+1- 1
+-1 1
+.names h new_n26
+0 1
+.names new_n25 new_n26 new_n27
+1- 1
+-1 1
+.names j new_n27 new_n28
+10 1
+.names new_n23 new_n28 new_n29
+1- 1
+-1 1
+.names j h new_n30
+1- 1
+-0 1
+.names new_n30 d new_n31
+1- 1
+-0 1
+.names e new_n32
+0 1
+.names new_n31 new_n32 new_n33
+1- 1
+-1 1
+.names i new_n33 new_n34
+10 1
+.names new_n29 new_n34 q
+1- 1
+-1 1
+.end

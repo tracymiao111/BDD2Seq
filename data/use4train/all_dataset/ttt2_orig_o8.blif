@@ -1,0 +1,32 @@
+# Benchmark "ttt2_h0" written by ABC on Thu Oct 31 22:14:43 2024
+.model ttt2_h0
+.inputs a k l m
+.outputs h0
+.names k a new_n6
+00 1
+.names m new_n7
+0 1
+.names new_n6 new_n7 new_n8
+10 1
+.names l a new_n9
+1- 1
+-1 1
+.names m new_n9 new_n10
+10 1
+.names new_n8 new_n10 new_n11
+1- 1
+-1 1
+.names a k new_n12
+1- 1
+-0 1
+.names l new_n13
+0 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names new_n7 new_n14 new_n15
+10 1
+.names new_n11 new_n15 h0
+1- 1
+-1 1
+.end

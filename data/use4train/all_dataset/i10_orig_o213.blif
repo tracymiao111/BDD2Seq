@@ -1,0 +1,26 @@
+# Benchmark "i10_V651" written by ABC on Thu Oct 31 22:14:11 2024
+.model i10_V651
+.inputs V257(7) V257(5) V257(3) V257(1) V257(2) V257(4) V257(6)
+.outputs V651
+.names V257(5) V257(7) new_n9
+0- 1
+-0 1
+.names new_n9 V257(3) new_n10
+1- 1
+-0 1
+.names V257(2) new_n11
+0 1
+.names new_n10 new_n11 new_n12
+1- 1
+-1 1
+.names V257(4) new_n13
+0 1
+.names new_n12 new_n13 new_n14
+1- 1
+-1 1
+.names V257(6) new_n14 new_n15
+10 1
+.names new_n15 V257(1) V651
+10 1
+01 1
+.end

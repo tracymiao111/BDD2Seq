@@ -1,0 +1,70 @@
+# Benchmark "pcler8_cl_q0" written by ABC on Thu Oct 31 22:14:53 2024
+.model pcler8_cl_q0
+.inputs g i j k r t u v w x y z a0
+.outputs q0
+.names t u new_n15
+0- 1
+-0 1
+.names v new_n16
+0 1
+.names new_n15 new_n16 new_n17
+1- 1
+-1 1
+.names w new_n18
+0 1
+.names new_n17 new_n18 new_n19
+1- 1
+-1 1
+.names x new_n20
+0 1
+.names new_n19 new_n20 new_n21
+1- 1
+-1 1
+.names y new_n22
+0 1
+.names new_n21 new_n22 new_n23
+1- 1
+-1 1
+.names z new_n24
+0 1
+.names new_n23 new_n24 new_n25
+1- 1
+-1 1
+.names a0 new_n26
+0 1
+.names new_n25 new_n26 new_n27
+1- 1
+-1 1
+.names i j new_n28
+1- 1
+-0 1
+.names new_n28 k new_n29
+1- 1
+-1 1
+.names new_n27 new_n29 new_n30
+1- 1
+-1 1
+.names r new_n30 new_n31
+10 1
+.names g i new_n32
+11 1
+.names new_n31 new_n32 new_n33
+1- 1
+-1 1
+.names new_n29 z new_n34
+1- 1
+-1 1
+.names new_n34 new_n23 new_n35
+00 1
+.names new_n33 new_n35 new_n36
+1- 1
+-1 1
+.names new_n29 new_n24 new_n37
+1- 1
+-1 1
+.names new_n23 new_n37 new_n38
+10 1
+.names new_n36 new_n38 q0
+1- 1
+-1 1
+.end

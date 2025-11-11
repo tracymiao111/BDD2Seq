@@ -1,0 +1,54 @@
+# Benchmark "i5_V199(1)" written by ABC on Thu Oct 31 22:14:36 2024
+.model i5_V199(1)
+.inputs V100(1) V88(2) V100(2) V88(3) V100(3) V133(0) V88(1) V124(1) \
+ V121(2) V124(2) V121(3) V124(3) V121(1)
+.outputs V199(1)
+.names V124(2) V133(0) new_n15
+0- 1
+-0 1
+.names new_n15 V124(1) new_n16
+1- 1
+-0 1
+.names V124(3) new_n16 new_n17
+10 1
+.names V124(1) V121(2) new_n18
+11 1
+.names new_n17 new_n18 new_n19
+1- 1
+-1 1
+.names new_n19 V121(1) new_n20
+1- 1
+-1 1
+.names V124(2) V121(3) new_n21
+0- 1
+-0 1
+.names V124(1) new_n21 new_n22
+10 1
+.names new_n20 new_n22 new_n23
+00 1
+.names new_n23 V100(2) new_n24
+1- 1
+-0 1
+.names V100(1) new_n25
+0 1
+.names new_n24 new_n25 new_n26
+1- 1
+-1 1
+.names V100(3) new_n26 new_n27
+10 1
+.names V100(1) V88(2) new_n28
+11 1
+.names new_n27 new_n28 new_n29
+1- 1
+-1 1
+.names new_n29 V88(1) new_n30
+1- 1
+-1 1
+.names V100(2) V88(3) new_n31
+11 1
+.names new_n31 new_n25 new_n32
+10 1
+.names new_n30 new_n32 V199(1)
+1- 1
+-1 1
+.end

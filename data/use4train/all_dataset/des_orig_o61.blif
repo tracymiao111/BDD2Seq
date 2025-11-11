@@ -1,0 +1,25 @@
+# Benchmark "DES_outreg_new?58?" written by ABC on Thu Oct 31 22:14:58 2024
+.model DES_outreg_new?58?
+.inputs outreg?58? data?40? count?3? count?2? count?1? count?0?
+.outputs outreg_new?58?
+.names count?1? count?0? new_n8
+0- 1
+-0 1
+.names count?2? new_n9
+0 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names count?3? new_n10 new_n11
+10 1
+.names new_n11 data?40? new_n12
+11 1
+.names new_n11 count?0? new_n13
+1- 1
+-1 1
+.names outreg?58? new_n13 new_n14
+10 1
+.names new_n12 new_n14 outreg_new?58?
+1- 1
+-1 1
+.end

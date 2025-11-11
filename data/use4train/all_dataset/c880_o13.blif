@@ -1,0 +1,22 @@
+# Benchmark "c880_N449" written by ABC on Thu Oct 31 22:13:56 2024
+.model c880_N449
+.inputs N1 N8 N13 N55 N59 N68 N74
+.outputs N449
+.names N8 N1 new_n9
+0- 1
+-0 1
+.names N13 new_n10
+0 1
+.names new_n9 new_n10 new_n11
+1- 1
+-1 1
+.names N55 new_n11 new_n12
+10 1
+.names N68 N59 new_n13
+11 1
+.names new_n13 N74 new_n14
+0- 1
+-0 1
+.names new_n12 new_n14 N449
+10 1
+.end

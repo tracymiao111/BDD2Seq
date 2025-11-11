@@ -1,0 +1,29 @@
+# Benchmark "x3.blif_z4" written by ABC on Thu Oct 31 22:15:10 2024
+.model x3.blif_z4
+.inputs i o r e1 y1
+.outputs z4
+.names y1 new_n7
+0 1
+.names e1 i new_n8
+00 1
+.names e1 o new_n9
+00 1
+.names new_n8 new_n9 new_n10
+1- 1
+-1 1
+.names e1 r new_n11
+00 1
+.names new_n10 new_n11 new_n12
+1- 1
+-1 1
+.names o i new_n13
+1- 1
+-0 1
+.names r new_n13 new_n14
+10 1
+.names new_n12 new_n14 new_n15
+1- 1
+-1 1
+.names new_n7 new_n15 z4
+10 1
+.end

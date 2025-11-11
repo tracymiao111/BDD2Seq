@@ -1,0 +1,36 @@
+# Benchmark "z4ml_\27" written by ABC on Thu Oct 31 22:13:55 2024
+.model z4ml_\27
+.inputs \1 \4 \7
+.outputs \27
+.names \1 \4 new_n5
+0- 1
+-0 1
+.names \7 new_n5 new_n6
+10 1
+.names \1 \4 new_n7
+1- 1
+-1 1
+.names \7 new_n7 new_n8
+10 1
+.names new_n6 new_n8 new_n9
+1- 1
+-1 1
+.names \7 new_n10
+0 1
+.names \1 \4 new_n11
+1- 1
+-0 1
+.names new_n10 new_n11 new_n12
+10 1
+.names new_n9 new_n12 new_n13
+1- 1
+-1 1
+.names \4 \1 new_n14
+1- 1
+-0 1
+.names new_n10 new_n14 new_n15
+10 1
+.names new_n13 new_n15 \27
+1- 1
+-1 1
+.end

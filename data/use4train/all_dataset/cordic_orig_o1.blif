@@ -1,0 +1,106 @@
+# Benchmark "cordic_dn" written by ABC on Thu Oct 31 22:14:00 2024
+.model cordic_dn
+.inputs a6 a4 a3 a2 a5 v x0 x1 x2 x3 y0 y1 y2 y3 z0 z1 z2 ex0 ex1 ex2 ey0 \
+ ey1 ey2
+.outputs dn
+.names a6 a4 new_n25
+0- 1
+-0 1
+.names new_n25 a3 new_n26
+00 1
+.names new_n26 a2 new_n27
+10 1
+.names a4 a6 new_n28
+1- 1
+-0 1
+.names new_n28 a2 new_n29
+1- 1
+-1 1
+.names a3 new_n29 new_n30
+10 1
+.names new_n27 new_n30 new_n31
+1- 1
+-1 1
+.names x1 x0 new_n32
+10 1
+01 1
+.names x2 x3 new_n33
+10 1
+01 1
+.names new_n32 new_n33 new_n34
+10 1
+01 1
+.names ex2 ex1 new_n35
+11 1
+.names new_n35 ex0 new_n36
+0- 1
+-0 1
+.names ex1 new_n37
+0 1
+.names ex0 ex2 new_n38
+1- 1
+-1 1
+.names new_n37 new_n38 new_n39
+10 1
+.names new_n36 new_n39 new_n40
+10 1
+.names ey2 ey1 new_n41
+11 1
+.names new_n41 ey0 new_n42
+0- 1
+-0 1
+.names ey0 ey2 new_n43
+1- 1
+-1 1
+.names new_n43 ey1 new_n44
+00 1
+.names new_n42 new_n44 new_n45
+10 1
+.names new_n40 new_n45 new_n46
+1- 1
+-1 1
+.names new_n34 new_n46 new_n47
+1- 1
+-1 1
+.names y1 y0 new_n48
+10 1
+01 1
+.names y3 y2 new_n49
+10 1
+01 1
+.names new_n48 new_n49 new_n50
+10 1
+01 1
+.names new_n47 new_n50 new_n51
+00 1
+.names z2 z1 new_n52
+0- 1
+-0 1
+.names z2 z1 new_n53
+1- 1
+-1 1
+.names new_n52 new_n53 z0 new_n54
+1-0 1
+-11 1
+.names new_n51 new_n54 new_n55
+0- 1
+-0 1
+.names new_n31 new_n55 new_n56
+1- 1
+-0 1
+.names new_n56 v new_n57
+10 1
+.names a2 a5 new_n58
+1- 1
+-1 1
+.names new_n58 a3 new_n59
+1- 1
+-1 1
+.names new_n59 a6 new_n60
+00 1
+.names new_n60 a4 new_n61
+10 1
+.names new_n57 new_n61 dn
+1- 1
+-1 1
+.end

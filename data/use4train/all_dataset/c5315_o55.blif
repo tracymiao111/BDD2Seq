@@ -1,0 +1,42 @@
+# Benchmark "c5315_N7015" written by ABC on Thu Oct 31 22:14:13 2024
+.model c5315_N7015
+.inputs N54 N131 N248 N251 N332 N361 N366 N619 N625
+.outputs N7015
+.names N251 new_n11
+0 1
+.names N248 new_n12
+0 1
+.names new_n11 new_n12 N361 new_n13
+1-0 1
+-11 1
+.names N619 new_n14
+0 1
+.names new_n13 new_n14 new_n15
+0- 1
+-0 1
+.names new_n15 N625 new_n16
+1- 1
+-1 1
+.names N625 new_n17
+0 1
+.names N361 N366 N332 new_n18
+1-0 1
+-11 1
+.names new_n18 N54 new_n19
+10 1
+01 1
+.names new_n19 new_n14 new_n20
+1- 1
+-1 1
+.names new_n17 new_n20 new_n21
+10 1
+.names new_n16 new_n21 new_n22
+10 1
+.names N619 N131 new_n23
+1- 1
+-0 1
+.names N625 new_n23 new_n24
+10 1
+.names new_n22 new_n24 N7015
+10 1
+.end

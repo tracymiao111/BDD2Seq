@@ -1,0 +1,12 @@
+# Benchmark "c3540_N1947" written by ABC on Thu Oct 31 22:14:27 2024
+.model c3540_N1947
+.inputs N87 N97 N107
+.outputs N1947
+.names N107 N97 new_n5
+00 1
+.names N87 new_n6
+0 1
+.names new_n5 new_n6 N1947
+1- 1
+-1 1
+.end
