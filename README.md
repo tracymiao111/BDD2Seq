@@ -7,7 +7,6 @@ Graph-to-sequence learning for BDD variable ordering in reversible-circuit synth
   - `src_gat_ptr/`: PyTorch+DGL models, training, and inference.
   - `blif2graph/`: Converters BLIF/AIG/QASM → DGL graphs; ABC helpers.
   - `cudd_data_process/`: CUDD runners for classical reordering baselines.
-  - `models/`: Pretrained checkpoints.
 
 
 **What This Code Does**
